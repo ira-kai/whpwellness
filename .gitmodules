@@ -1,0 +1,3 @@
+[submodule "ojus/claude-code-utils"]
+	path = ojus/claude-code-utils
+	url = https://github.com/BigscreenVR/claude-code-utils.git
