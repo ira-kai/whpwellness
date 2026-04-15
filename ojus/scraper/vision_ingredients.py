@@ -66,10 +66,10 @@ async def extract_ingredients(image_url: str) -> dict:
                 ],
             }],
         )
-
-        return json.loads(response.content[0].text)
-
-    except json.JSONDecodeError:
-        return {"error": "parse_failed", "raw": response.content[0].text}
     except Exception as e:
         return {"error": f"api_failed: {e}"}
+
+    try:
+        return json.loads(response.content[0].text)
+    except json.JSONDecodeError:
+        return {"error": "parse_failed", "raw": response.content[0].text}
