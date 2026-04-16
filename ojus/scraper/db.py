@@ -30,12 +30,13 @@ def upsert_product(db: sqlite3.Connection, product: dict) -> str:
     if existing:
         db.execute(
             """UPDATE products SET
-                name=?, slug=?, description=?, product_image_url=?,
+                name=?, slug=?, description=?, price=?, product_image_url=?,
                 supplement_facts_image_url=?, all_image_urls=?,
                 status='live', last_scraped_at=?, updated_at=?
             WHERE id=?""",
             (
                 product["name"], product["slug"], product["description"],
+                product.get("price"),
                 product.get("product_image_url"),
                 product.get("supplement_facts_image_url"),
                 json.dumps(product.get("all_image_urls", [])),
@@ -44,13 +45,14 @@ def upsert_product(db: sqlite3.Connection, product: dict) -> str:
         )
     else:
         db.execute(
-            """INSERT INTO products (id, name, slug, url, description,
+            """INSERT INTO products (id, name, slug, url, description, price,
                 product_image_url, supplement_facts_image_url, all_image_urls,
                 status, last_scraped_at, created_at, updated_at)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, 'live', ?, ?, ?)""",
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 'live', ?, ?, ?)""",
             (
                 product_id, product["name"], product["slug"], product["url"],
-                product["description"], product.get("product_image_url"),
+                product["description"], product.get("price"),
+                product.get("product_image_url"),
                 product.get("supplement_facts_image_url"),
                 json.dumps(product.get("all_image_urls", [])),
                 now, now, now,

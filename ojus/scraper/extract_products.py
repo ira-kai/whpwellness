@@ -10,6 +10,7 @@ Skip already-scraped: python extract_products.py --new-only
 
 import asyncio
 import os
+import re
 import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
@@ -51,34 +52,107 @@ def discover_product_urls() -> list[str]:
     return urls
 
 
+def _extract_price(markdown: str) -> float | None:
+    """Parse price from Wix markdown like '$54.00Price' or '$54.00'."""
+    m = re.search(r"\$(\d+(?:\.\d{2})?)(?:Price)?", markdown or "")
+    return float(m.group(1)) if m else None
+
+
+def _extract_product_images(result) -> tuple[list[str], str | None, str | None]:
+    """Extract product images, filtering site-wide assets.
+
+    Returns (all_product_urls, product_image_url, supplement_facts_url).
+
+    Strategy:
+    - result.media images with alt matching the product name are product shots
+    - Images with alt like 'Stripes', 'logo', or from the 11062b_ media prefix
+      are site-wide assets and get filtered out
+    - Thumbnail URLs in the markdown with 'Thumbnail:' alt text that don't match
+      the main product image are likely supplement facts panels
+    - og:image is the most reliable product image source
+    """
+    metadata = result.metadata or {}
+    md = result.markdown or ""
+
+    # Site-wide image prefixes/alts to ignore
+    SKIP_ALTS = {"stripes", "logo", "whp wellness logo", ""}
+    SKIP_MEDIA_IDS = {"11062b_ddb9213a8b9843fc95e4200cd0622fe2"}
+
+    def is_site_asset(src: str, alt: str) -> bool:
+        if alt.lower().strip() in SKIP_ALTS:
+            return True
+        for skip_id in SKIP_MEDIA_IDS:
+            if skip_id in src:
+                return True
+        return False
+
+    # Collect real product images from result.media
+    product_images = []
+    for img in result.media.get("images", []):
+        src = img.get("src", "")
+        alt = img.get("alt", "")
+        if src and "wixstatic.com" in src and not is_site_asset(src, alt):
+            product_images.append(src)
+
+    # Primary product image: prefer og:image (clean, reliable), fall back to first media image
+    og_img = metadata.get("og:image")
+    product_image_url = og_img or (product_images[0] if product_images else None)
+
+    # Extract the main product's media ID to compare against thumbnails
+    main_media_id = None
+    if product_image_url and "/media/" in product_image_url:
+        main_media_id = product_image_url.split("/media/")[-1].split("/")[0].split("~")[0]
+
+    # Look for supplement facts in markdown thumbnails — Wix renders additional
+    # product gallery images as thumbnail img tags not present in result.media
+    supplement_facts_url = None
+    thumb_pattern = re.compile(
+        r"!\[Thumbnail:[^\]]*\]\((https://static\.wixstatic\.com/media/[^)]+)\)"
+    )
+    for thumb_match in thumb_pattern.finditer(md):
+        thumb_url = thumb_match.group(1)
+        thumb_media_id = thumb_url.split("/media/")[-1].split("/")[0].split("~")[0]
+        # A thumbnail with a different media ID than the main product image
+        # is an additional gallery image — likely supplement facts
+        if main_media_id and thumb_media_id != main_media_id:
+            # Upgrade from thumbnail size to full size
+            supplement_facts_url = re.sub(
+                r"/fill/w_\d+,h_\d+,", "/fill/w_800,h_800,", thumb_url
+            )
+            product_images.append(supplement_facts_url)
+            break
+
+    return product_images, product_image_url, supplement_facts_url
+
+
 async def scrape_product(crawler: AsyncWebCrawler, url: str) -> dict | None:
     """Scrape a single product page for metadata and images."""
     try:
         result = await crawler.arun(url=url)
         metadata = result.metadata or {}
+        md = result.markdown or ""
 
         slug = url.rstrip("/").split("/product-page/")[-1] if "/product-page/" in url else None
+
+        # Name: try title, fall back to og:title
+        name = (metadata.get("title") or metadata.get("og:title") or "").split("|")[0].strip()
+
+        # Price from markdown
+        price = _extract_price(md)
+
+        # Images with proper filtering
+        all_images, product_image_url, supplement_facts_url = _extract_product_images(result)
 
         product = {
             "url": url,
             "slug": slug,
-            "name": (metadata.get("title") or "").split("|")[0].strip(),
-            "description": result.markdown[:2000] if result.markdown else None,
+            "name": name,
+            "price": price,
+            "description": md[:2000] if md else None,
+            "all_image_urls": all_images,
+            "product_image_url": product_image_url,
+            "supplement_facts_image_url": supplement_facts_url,
         }
-
-        images = []
-        for img in result.media.get("images", []):
-            src = img.get("src", "")
-            if src and "wixstatic.com" in src:
-                images.append(src)
-
-        product["all_image_urls"] = images
-        product["product_image_url"] = images[0] if images else None
-
-        if len(images) >= 2:
-            product["supplement_facts_image_url"] = images[1]
-        elif len(images) == 1:
-            product["supplement_facts_image_url"] = images[0]
 
         return product
 
