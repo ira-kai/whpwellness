@@ -1,0 +1,374 @@
+slug,ingredient_name,amount,unit,daily_value_pct,form,is_proprietary_blend,blend_name
+aloe,Cape Aloe,450,mg,,,FALSE,
+amp-k,Berberine Hydrochloride Hydrate,1,g,,,FALSE,
+amp-k,Alpha Lipoic Acid,200,mg,,,FALSE,
+artemisinin-emulsion,Artemisinin,40,mg,,,FALSE,
+artemisinin-emulsion,Phosphatidylcholine,450,mg,,from purified soy bean lecithin,FALSE,
+bio-spore,Serum-Derived Bovine Immunoglobulin Concentrate,1,g,,ImmunoLin,FALSE,
+bio-spore,Immunoglobulin G (IgG),,,,,FALSE,
+bio-spore,Bacillus coagulans,26,mg,,SNZ1969 (2 Billion CFU),FALSE,
+bio-spore,Bacillus clausii,13,mg,,B106 (1 Billion CFU),FALSE,
+bio-spore,Bacillus subtilis,6.5,mg,,HS43 (1 Billion CFU),FALSE,
+bpc-157-kpv,BPC-157,500,mcg,,,FALSE,
+bpc-157-kpv,KPV,500,mcg,,,FALSE,
+bpc-157-tb-500,BPC-157,500,mcg,,,FALSE,
+bpc-157-tb-500,TB-500,500,mcg,,,FALSE,
+cal-mag,Calcium,200,mg,20,"as Hydrxyapatite, Calcium Citrate USP, DimaCalMD Dicalcium Malate, MACS Calcium Bisglycinate Chelate",FALSE,
+cal-mag,Magnesium,40,mg,9,as Magnesium,FALSE,
+cal-mag,Magnesium,175,mg,44,as Magnesium,FALSE,
+calm,Gamma Aminobutyric Acid (GABA),100,mg,,,FALSE,
+calm,L-Theanine,100,mg,,Suntheanine,FALSE,
+calm,Huperzine A,50,mcg,,from Huperzia serrata Whole Plant Extract,FALSE,
+candida-support,Biotin,300,mcg,1000,,FALSE,
+candida-support,Sodium,20,mg,,from Sodium Caprylate,FALSE,
+candida-support,Berberine Hydrochloride Hydrate,150,mg,,,FALSE,
+candida-support,Oregano Leaf Extract,150,mg,,,FALSE,
+candida-support,Sodium Caprylate,150,mg,,,FALSE,
+candida-support,Cinnamon Bark Extract,100,mg,,,FALSE,
+candida-support,German Chamomile,100,mg,,Flower,FALSE,
+candida-support,Ginger Root,100,mg,,,FALSE,
+candida-support,Pau D'Arco Inner Bark Extract,100,mg,,,FALSE,
+candida-support,Rosemary Leaf Extract,100,mg,,,FALSE,
+cardio-ox,Pomegranate Fruit Extract,650,mg,,Pomavida (Standardized to contain 30% Punicalagins),FALSE,
+cardio-ox,French Maritime Pine Bark Extract,150,mg,,OLIGOPIN (Standardized to contain 65% Procyanidins),FALSE,
+cardio-ox,Olive Fruit Extract,50,mg,,Medieannox (Standardized to contain 20% Hydroxytyrosol),FALSE,
+cat-s-claw-elite,Vitamin D,25,mcg,125,as Cholecalciferol (D3) (1000 IU),FALSE,
+cat-s-claw-elite,Liquid Cat's Claw bark extract,350,mg,,"Uncaria tomentosa, Phospholipids (from purified sunflower seed lecithin), Monolaurin (as Glycerol monolaurate)",TRUE,Proprietary Blend
+cat-s-claw-v-max,Vitamin D,62.5,mcg,313,as Cholecalciferol (D3) (2500 IU),FALSE,
+cat-s-claw-v-max,Liquid Cat's Claw bark extract,1000,mg,,"Uncaria tomentosa, Highly Purified Phospholipids, Lemon Balm Leaf extract, Melissa officinalis, Olive Leaf Extract (Olea europaea) (standardized to 70% Oleuropeins), Propolis extract, Monolaurin (as Glycerol monolaurate), Lemongrass Oil (Cymbopogon citratus)",TRUE,Proprietary Blend
+crypto-co-max,Artemisinin,15,mg,,,FALSE,
+crypto-co-max,Cryptolepis sanguinolenta root extract,1500,mg,,,TRUE,Proprietary Blend
+crypto-co-max,Japanese knotweed,,,,polygonum cuspidatum rhizome extract,TRUE,Proprietary Blend
+cryptolepis,Cryptolepis sanguinolenta Root Extract,0.7,mL,,1:5 ratio,FALSE,
+cystimax,Uva Ursi Leaf Extract,650,mg,,Standardized to contain 20% Arbutin,FALSE,
+cystimax,Berberine Hydrochloride Hydrate,200,mg,,,FALSE,
+cystimax,Marshmallow Root,150,mg,,,FALSE,
+cystimax,Bladderwrack,80,mg,,Whole Plant,FALSE,
+cystimax,Celery Seed Extract,80,mg,,,FALSE,
+d-enzyme,Enzyme Blend,195,mg,,,TRUE,Enzyme Blend
+d-enzyme,Protease,25000,HCU,,,TRUE,Enzyme Blend
+d-enzyme,Lipase,2600,FIP,,,TRUE,Enzyme Blend
+d-enzyme,Acid Maltase,10.7,Rml,,,TRUE,Enzyme Blend
+d-enzyme,Bromelain,382500,GDU,,,TRUE,Enzyme Blend
+d-enzyme,Papain,1200,TU,,,TRUE,Enzyme Blend
+d-enzyme,Glucoamylase,12.8,AGU,,,TRUE,Enzyme Blend
+d-enzyme,Peptidase,2.80,HUT,,,TRUE,Enzyme Blend
+d-enzyme,CanCarb Blend,818,ACU,,,TRUE,CanCarb Blend
+d-enzyme,Invertase,740,HCU,,,TRUE,CanCarb Blend
+d-enzyme,Beta-Glucanase,6.4,BGU,,,TRUE,CanCarb Blend
+d-enzyme,Phytase,1.9,FTU,,,TRUE,CanCarb Blend
+d-enzyme,Hemicellulase,357.1,HCU,,,TRUE,CanCarb Blend
+d-enzyme,Alpha-galactosidase,102,GALU,,,TRUE,CanCarb Blend
+d-enzyme,Lactase,1200,ALU,,,TRUE,CanCarb Blend
+d-enzyme,Neutral Bacterial Protease,3.1,CNPDU/mg,,,TRUE,CanCarb Blend
+d-enzyme,Fungal Protease,2.8,HUT,,,TRUE,CanCarb Blend
+d-enzyme,Acid Protease,15,SAP,,,TRUE,CanCarb Blend
+d-enzyme,Trypsin,433,USP,,,TRUE,CanCarb Blend
+d-enzyme,Chymotrypsin,108,USP,,,TRUE,CanCarb Blend
+d-enzyme,Xylanase,255,XU,,,TRUE,CanCarb Blend
+d-enzyme,Amylase Leaf Extract,150,mg,,,TRUE,CanCarb Blend
+d-enzyme,Gentian Root Extract,100,mg,,50% Glycerin,TRUE,CanCarb Blend
+detox-2,Choline (as Choline Bitartrate),72,mg,13,,FALSE,
+detox-2,Dandelion Root Extract,225,mg,,,FALSE,
+detox-2,Artichoke Leaf Extract,145,mg,,,FALSE,
+detox-2,Inositol NF,140,mg,,,FALSE,
+detox-2,L-Methionine USP,140,mg,,,FALSE,
+detox-2,Milk Thistle Seed Extract,130,mg,,,FALSE,
+detox-2,Garlic Bulb,100,mg,,,FALSE,
+detox-2,Turmeric Root Extract,100,mg,,,FALSE,
+detox-2,Turmeric Root Extract,100,mg,,"Standardized to contain 45-55% Curcuminoids, 3-8% Volatile Oil, 2-6% Turmeric",FALSE,
+dhea-25-mg,DHEA,25,mg,,Dehydroepiandrosterone,FALSE,
+dhea-5-mg,DHEA,5,mg,,Dehydroepiandrosterone,FALSE,
+dim-cdg,Vitamin E,33.5,mg,223,d-Alpha Tocopherol Succinate USP,FALSE,
+dim-cdg,Calcium,120,mg,9,Calcium D-Glucarate USP,FALSE,
+dim-cdg,Calcium D-Glucarate USP,1,g,,,FALSE,
+dim-cdg,Dietary Indoles,300,mg,,,TRUE,Total Indole Blend
+edta-with-r-lipoic-acid,Sodium,35,mg,1.5,,FALSE,
+edta-with-r-lipoic-acid,EDTA,210,mg,,Disodium EDTA,FALSE,
+edta-with-r-lipoic-acid,Lipoic Acid,26,mg,,from Sodium R-Lipoate,FALSE,
+edta-with-r-lipoic-acid,Phosphatidylcholine,350,mg,,from purified soybean lecithin,FALSE,
+estro-fem,Rhapontic Rhubarb,4,mg,,Rheum rhaponticum L. Root Extract,FALSE,
+ez-meal-1,Vitamin A,600,mcg,67,as Palmitate,FALSE,
+ez-meal-1,Zinc,10,mg,91,as TRAACS Zinc Bisglycinate Chelate,FALSE,
+ez-meal-1,Glutamine USP,500,mg,,,FALSE,
+ez-meal-1,N-Acetyl-D-Glucosamine,500,mg,,,FALSE,
+ez-meal-1,Oligomeric Licorice Root Extract,400,mg,,,FALSE,
+ez-meal-1,Aloe vera Leaf Gel Extract,75,mg,,,FALSE,
+fiber-fit-1,Vitamin A,600,mcg,67,as Palmitate,FALSE,
+fiber-fit-1,Inositol Fiber,3,g,,,TRUE,Microbiome Foundation Blend
+fiber-fit-1,Bacillus Fruit Powder,,,,PBRSSS Organic,TRUE,Microbiome Foundation Blend
+fiber-fit-1,Golden Runt Fruit Powder,,,,Lumax,TRUE,Glucobalance Blend
+fiber-fit-1,Resistant Tapioca Dextrin,6.9,g,,,TRUE,Glucobalance Blend
+fiber-fit-1,Oat Beta Glucan,,,,,TRUE,Glucobalance Blend
+fiber-fit-1,Glucomannan,,,,Amorphophallus konjac Root,TRUE,Glucobalance Blend
+fiber-fit-1,Acacia Fiber,3.7,g,,Acacia senegal,TRUE,Prebiotic Biodiversity Blend
+fiber-fit-1,Gum Arabic,,,,Acacia Senegal and Guar Gum Sunfiber,TRUE,Prebiotic Biodiversity Blend
+fiber-fit-1,Chia Seed Powder,,,,,TRUE,Prebiotic Biodiversity Blend
+fiber-fit-1,Flaxseed Flour,,,,,TRUE,Prebiotic Biodiversity Blend
+fiber-fit-1,Arabinogalactan Heartwood,,,,from Larch Tree,TRUE,Prebiotic Biodiversity Blend
+gi-rebuild,Colostrum concentrate,2.5,g,,bovine,FALSE,
+gi-rebuild,Immunoglobulin G,1,g,,IgG,FALSE,
+gi-rebuild,Lactoferrin,13,mg,,,FALSE,
+gi-reinforce,Vitamin D,50,mcg,250,D3 as Cholecalciferol,FALSE,
+gi-reinforce,Calcium,0.4,g,2,,FALSE,
+gi-reinforce,Rice Protein,19,g,38,,TRUE,Proprietary Blend
+gi-reinforce,L-Glutamine USP,2.5,g,,,TRUE,Proprietary Blend
+gi-reinforce,Medium Chain Triglycerides,1.5,g,,,TRUE,Proprietary Blend
+gi-reinforce,Alpha Linoleic Acid,1.3,g,,from Flaxseed Flour,TRUE,Proprietary Blend
+gi-restore,Betaine Hydrochloride USP,1.04,g,,,FALSE,
+gi-restore,Pepsin,208,mg,,"1:3,000 Powder",FALSE,
+glutathione-cacao-mint,Proprietary Blend,190,mg,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,Highly purified phospholipids,,,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,Guarana seed extract,,,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,L-Alpha Glycerylphosphorylcholine,,,,GPC,TRUE,Proprietary Blend
+glutathione-cacao-mint,Ginseng Plus,,,,Panax Notoginseng root extract,TRUE,Proprietary Blend
+glutathione-cacao-mint,Dimethylaminoethanol,,,,DMAE from DMAE Bitartrate,TRUE,Proprietary Blend
+glutathione-cacao-mint,Caffeine Anhydrous,,,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,Lifeflower Erigeron Breviscapus herb extract,,,,Lifeflower,TRUE,Proprietary Blend
+glutathione-cacao-mint,Theacrine,,,,as Teacrine,TRUE,Proprietary Blend
+glutathione-cacao-mint,American Ginseng,,,,Panax quinquefolius root extract,TRUE,Proprietary Blend
+glutathione-cacao-mint,GS15-4 Fermented Korean Panax Ginseng Extract,,,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,Epimedium Sagittatum extract,,,,aerial parts,TRUE,Proprietary Blend
+glutathione-cacao-mint,Bacopa Monnieri herb extract,,,,,TRUE,Proprietary Blend
+glutathione-cacao-mint,Citrus essential oil,,,,,TRUE,Proprietary Blend
+hair-nails,Vitamin A,1500,mcg,167,"from 5,000 IU as Palmitate",FALSE,
+hair-nails,Vitamin D,680,mcg,170,D3 as Cholecalciferol,FALSE,
+hair-nails,Vitamin B12,100,mcg,4167,as Methylcobalamin,FALSE,
+hair-nails,Biotin,500,mcg,1667,,FALSE,
+hair-nails,Selenium,25,mcg,45,as Selenium Glycinate Complex,FALSE,
+hair-nails,Methylsulfonylmethane,325,mg,,MSM OptiMSM,FALSE,
+hair-nails,Sea Plantain Berry Extract,320,mg,,Standardized to contain 45% Fatty Acids,FALSE,
+hair-nails,Horsetail,250,mg,,Equisetum arvense Aerial Parts,FALSE,
+hair-nails,Stinging Nettle,240,mg,,Leaves,FALSE,
+hair-nails,para-Aminobenzoic Acid,150,mg,,PABA,FALSE,
+hair-nails,Betaine Hydrochloride USP,100,mg,,,FALSE,
+hcl-b-p,Betaine Hydrochloride USP,1.04,g,,,FALSE,
+hcl-b-p,Pepsin,208,mg,,"1:3,000 Powder",FALSE,
+her-flora,Proprietary Blend,50,mg,,2 Billion CFU,TRUE,Proprietary Blend
+her-flora,Lactobacillus reuten,,CFU,,RC-14,TRUE,Proprietary Blend
+her-flora,Lactobacillus rhamnosus,,CFU,,GR-1,TRUE,Proprietary Blend
+immune,Vitamin C,600,mg,667,as Ascorbic Acid USP,FALSE,
+immune,Vitamin D,62.5,mcg,313,D3 as Cholecalciferol,FALSE,
+immune,Zinc,25,mg,227,as Albion Minerals Zinc Bisglycinate Chelate,FALSE,
+immune,N-Acetyl-L-Cysteine USP,600,mg,,,FALSE,
+immune,Quercetin Dihydrate,250,mg,,,FALSE,
+immune-pro,"Organic Mushroom Extract (Shiitake Conk, Chaga, Reishi, Cordyceps, Turkey Tail)",1,g,,,TRUE,Proprietary Blend
+imd-intestinal-cleanse,Silica extract,200,mg,,,FALSE,
+inflamaq,Vitamin C (as Ascorbic Acid USP),300,mg,333,Ascorbic Acid USP,FALSE,
+inflamaq,Quercetin Dihydrate,400,mg,,,FALSE,
+inflamaq,Stinging Nettle (Leaves),400,mg,,,FALSE,
+inflamaq,Bromelain (from Pineapple),100,mg,,,FALSE,
+inflamaq,N-Acetyl-L-Cysteine USP,50,mg,,,FALSE,
+inositol-blend-1,Zinc (as Albion Zinc Bisglycinate Chelate),2,mg,18,Albion Zinc Bisglycinate Chelate,FALSE,
+inositol-blend-1,Copper (as Albion Copper Bisglycinate Chelate),0.2,mg,22,Albion Copper Bisglycinate Chelate,FALSE,
+inositol-blend-1,Chromium (as Chromium Picolinate),100,mcg,286,Chromium Picolinate,FALSE,
+inositol-blend-1,Resistant Potato Starch (Soludi),3.5,g,,,FALSE,
+inositol-blend-1,Myo Inositol,2.05,g,,,TRUE,Inositol Blend 40:1
+inositol-blend-1,D-Chiro Inositol,,,,,TRUE,Inositol Blend 40:1
+iron,Iron (as Ferrochel Ferrous Bisglycinate Chelate),29,mg,161,Ferrochel Ferrous Bisglycinate Chelate,FALSE,
+kidney-care-1,Astragaloside IV Extract (Astragalus membranaceus root),5,mg,,,FALSE,
+kidney-care-1,Ferulic Acid,20,mg,,,FALSE,
+kidney-care-1,Proprietary Blend,1100,mg,,,TRUE,Proprietary Blend
+l-carnitine,L-Carnitine,500,mg,,,FALSE,
+l-theanine,L-Theanine (Suntheanine),200,mg,,Suntheanine,FALSE,
+liver-sauce-1,Lipoic Acid (from Sodium R-Lipoate),48,mg,,,FALSE,
+liver-sauce-1,Dandelion root extract,750,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Gentian root extract,750,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Solidago gigantea aerial parts extract,750,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Myrrh (Oleo-gum-resin),750,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Essential Oil of Sweet Orange,750,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Diindolylmethane,60,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Milk Thistle Seed Extract (80% Silymarin),60,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Quercetin,60,mg,,,TRUE,Proprietary Blend
+liver-sauce-1,Luteolin Extract,60,mg,,,TRUE,Proprietary Blend
+mag-threonate,Magnesium (as Magnesium L-Threonate),144,mg,34,Magnesium L-Threonate,FALSE,
+mag-threonate,Magnesium L-Threonate (Maglein),2,g,,,FALSE,
+magnesium-powder,Magnesium (as Albion Magnesium Bisglycinate Chelate),300,mg,71,Albion Magnesium Bisglycinate Chelate,FALSE,
+magnesium,"Magnesium (as DiMagnesium Malate, Magnesium Citrate USP, Albion Minerals Magnesium Lysinate Glycinate Chelate)",235,mg,56,,FALSE,
+mb12,"Folate (from 1,000 mcg as Quatrefolic (6S)-5-Methyltetrahydrofolate acid glucosamine salt)",1700,mcg,425,Quatrefolic,FALSE,
+mb12,Vitamin B12 (as Methylcobalamin),5000,mcg,208333,Methylcobalamin,FALSE,
+melatonin,Melatonin,1,mg,,,FALSE,
+menstracalm,Vitamin C (as Ascorbic Acid USP),40,mg,44,Ascorbic Acid USP,FALSE,
+menstracalm,Vitamin B6 (as Pyridoxine Hydrochloride USP),50,mg,2941,,FALSE,
+menstracalm,Magnesium (as DiMagnesium Malate),100,mg,24,DiMagnesium Malate,FALSE,
+menstracalm,Gamma Aminobutyric Acid (GABA),250,mg,,,FALSE,
+menstracalm,Glycine USP,225,mg,,,FALSE,
+menstracalm,Dong Quai Root Extract,150,mg,,,FALSE,
+motility-support,Calcium,30,mg,2,,FALSE,
+motility-support,Artichoke Leaf Extract (Cynara cardunculus L.),100,mg,,,TRUE,Motility Blend (Prodigest)
+motility-support,Ginger Root Extract (Zingiber officinale Roscoe),20,mg,,,TRUE,Motility Blend (Prodigest)
+n-a-c,N-Acetyl-L-Cysteine USP,500,mg,,,FALSE,
+n-adrenal,Holy Basil (Ocimum sanctum) Leaf 10:1 Extract (Containing Ursolic Acid),300,mg,,,FALSE,
+n-adrenal,Rhodiola rosea Root Extract (Standardized to contain 1.5% Withanolides),250,mg,,,FALSE,
+n-adrenal,Ashwagandha (Withania somnifera) (Boxng),210,mg,,,FALSE,
+n-adrenal,Rhodiola rosea Root Extract (Standardized to contain 3% Rosavins),200,mg,,,FALSE,
+n-adrenal,Schisandra Berry Extract,150,mg,,,FALSE,
+n-adrenal,Licorice Root Extract (Standardized to contain 12% Glycyrrhizin),75,mg,,,FALSE,
+n-adreve,Cordyceps Extract (Whole Herb) (Cordyceps sinensis) (Standardized to contain 12% Cordycepin),300,mg,,,FALSE,
+n-adreve,Ashwagandha Root Extract (Standardized to contain 1.5% Withanolides),250,mg,,,FALSE,
+n-adreve,Rhodiola rosea Root Extract (Standardized to contain 3% Rosavins),200,mg,,,FALSE,
+n-adreve,Eleuthero Root Extract (Standardized to 0.8% Eleutherosides),200,mg,,,FALSE,
+n-adreve,L-Theanine (Suntheanine),100,mg,,,FALSE,
+n-adreve,Phosphatidylserine,100,mg,,,FALSE,
+nad-gold,Riboflavin (as Riboflavin-5-Phosphate),3.6,mg,277,Riboflavin-5-Phosphate,FALSE,
+nad-gold,Vitamin B12 (as Methylcobalamin),250,mcg,10417,Methylcobalamin,FALSE,
+nad-gold,NMN (B-Nicotinamide mononucleotide),50,mg,,,FALSE,
+nad-gold,Trimethylglycine (as Betaine),60,mg,,Betaine,TRUE,Proprietary Blend
+nad-gold,Quercetin Dihydrate (from Sophora japonica flower),60,mg,,,TRUE,Proprietary Blend
+nad-gold,Resveratrol (from Polygonum cuspidatum root),60,mg,,,TRUE,Proprietary Blend
+nanofuel,Highly purified phospholipids,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Guarana seed extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,L-Alpha Glycerophosphocholine (GPC),190,mg,,,TRUE,Proprietary Blend
+nanofuel,Ginseng Plus Panax Notoginseng root extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Dimethylaminoethanol (DMAE) (from DMAE Bitartrate),190,mg,,,TRUE,Proprietary Blend
+nanofuel,Caffeine Anhydrous,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Lifeflower Erigeron Breviscapus herb extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Theacrine (as Teacrine),190,mg,,Teacrine,TRUE,Proprietary Blend
+nanofuel,American Ginseng (Panax quinquefolius) root extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,GS15-4 Fermented Korean Panax Ginseng Extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Epimedium Sagittatum extract (aerial parts),190,mg,,,TRUE,Proprietary Blend
+nanofuel,Bacopa Monnieri herb extract,190,mg,,,TRUE,Proprietary Blend
+nanofuel,Citrus essential oil,190,mg,,,TRUE,Proprietary Blend
+nato-k,Nattokinase,100,mg,,2000 Fibrinolytic Units,FALSE,
+nitrox,L-Citrulline,3,g,,,FALSE,
+nitrox,Grape Seed Extract (MegaNatural-BP),200,mg,,,FALSE,
+nitrox,Quercetin Dihydrate,200,mg,,,FALSE,
+omega-capsules,Calories,,,,,FALSE,
+omega-capsules,Total Fat,,,,,FALSE,
+omega-capsules,EPA (Eicosapentaenoic Acid),500,mg,,,FALSE,
+omega-capsules,DHA (Docosahexaenoic Acid),350,mg,,,FALSE,
+omega-capsules,Other Omega-3 Fatty Acids,150,mg,,,FALSE,
+optiboost-multi,Vitamin A (as Retinyl Acetate & Beta-Carotene),5000,IU,100,,FALSE,
+optiboost-multi,Vitamin C (as Ascorbic Acid),90,mg,150,,FALSE,
+optiboost-multi,Vitamin D3 (as Cholecalciferol),400,IU,100,,FALSE,
+optiboost-multi,Vitamin E (as d-Alpha Tocopherol),30,IU,100,,FALSE,
+optiboost-multi,Thiamine (Vitamin B1) (as Thiamine Mononitrate),1.5,mg,100,,FALSE,
+optiboost-multi,Riboflavin (Vitamin B2),1.7,mg,100,,FALSE,
+optiboost-multi,Niacin (as Niacinamide),20,mg,100,,FALSE,
+optiboost-multi,Vitamin B6 (as Pyridoxine Hydrochloride),2,mg,100,,FALSE,
+optiboost-multi,Folic Acid,400,mcg,100,,FALSE,
+optiboost-multi,Vitamin B12 (as Cyanocobalamin),6,mcg,100,,FALSE,
+optiboost-multi,Biotin,300,mcg,100,,FALSE,
+optiboost-multi,Pantothenic Acid (as d-Calcium Pantothenate),10,mg,100,,FALSE,
+optiboost-multi,Calcium (as Calcium Carbonate),100,mg,10,,FALSE,
+optiboost-multi,Iron (as Ferrous Fumarate),18,mg,100,,FALSE,
+optiboost-multi,Iodine (as Potassium Iodide),150,mcg,100,,FALSE,
+optiboost-multi,Magnesium (as Magnesium Oxide),100,mg,25,,FALSE,
+optiboost-multi,Zinc (as Zinc Oxide),15,mg,100,,FALSE,
+optiboost-multi,Copper (as Copper Sulfate),2,mg,100,,FALSE,
+optiboost-multi,Manganese (as Manganese Sulfate),2.5,mg,100,,FALSE,
+optiboost-multi,Chromium (as Chromium Picolinate),200,mcg,167,,FALSE,
+optiboost-multi,Molybdenum (as Sodium Molybdate),75,mcg,100,,FALSE,
+optiboost-multi,Potassium (as Potassium Chloride),99,mg,3,,FALSE,
+optiboost-multi,Boron (as Boron Citrate),1,mg,,,FALSE,
+pregnenolone,Pregnenolone,10,mg,,,FALSE,
+probiotic-100,Lactobacillus acidophilus (La-14),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+probiotic-100,Bifidobacterium bifidum (Bb-02),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+probiotic-100,Lactobacillus rhamnosus (GG),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+probiotic-100,Bifidobacterium lactis (Bl-04),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+probiotic-100,Lactobacillus plantarum (Lp-115),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+probiotic-100,Lactobacillus paracasei (Lpc-37),423,mg,,100 Billion CFU,TRUE,Proprietary Blend
+protein-1,Calories,,,,,FALSE,
+protein-1,Total Fat,,,,,FALSE,
+protein-1,Total Carbohydrate,,,,,FALSE,
+protein-1,Dietary Fiber,,,,,FALSE,
+protein-1,Total Sugars,,,,,FALSE,
+protein-1,Protein,,,,,FALSE,
+protein-1,Calcium,,,,,FALSE,
+protein-1,Iron,,,,,FALSE,
+protein-1,Magnesium,,,,,FALSE,
+protein-1,Sodium,,,,,FALSE,
+protein-1,Potassium,,,,,FALSE,
+protein-1,Rice Protein,18.9,g,,,FALSE,
+protein-1,Fiber Blend,6.7,g,,,TRUE,Fiber Blend
+protein-1,Resistant Tapioca Dextrin,6.7,g,,,TRUE,Fiber Blend
+protein-1,Flaxseed Flour,6.7,g,,,TRUE,Fiber Blend
+protein-1,Guar Gum Fiber (Sunfiber),6.7,g,,,TRUE,Fiber Blend
+protein-1,Glucomannan (Amorphophallus konjac) (Root),6.7,g,,,TRUE,Fiber Blend
+protein-1,Fig (Fruit),6.7,g,,,TRUE,Fiber Blend
+protein-1,Prune,6.7,g,,,TRUE,Fiber Blend
+protein-1,Arabinogalactan Heartwood (from Larch Tree),6.7,g,,,TRUE,Fiber Blend
+protein-1,Glycine USP,750,mg,,,FALSE,
+protein-1,Magnesium Citrate USP,750,mg,,,FALSE,
+redox-u,Vitamin C (as Ascorbic Acid USP),500,mg,558,,FALSE,
+redox-u,Quercetin Dihydrate,500,mg,,,FALSE,
+redox-u,Polyphenols (from Apple Extract (Fruit)),300,mg,,,FALSE,
+redox-u,"Tart Cherry (Prunus cerasus) Extract, Powder (Fruit)",200,mg,,,FALSE,
+redox-u,Celery Seed Extract,200,mg,,,FALSE,
+redox-u,Lutein,100,mg,,,FALSE,
+restorative-powder,Calories,,,,,FALSE,
+restorative-powder,Total Fat,,,,,FALSE,
+restorative-powder,Total Carbohydrate,,,,,FALSE,
+restorative-powder,Dietary Fiber,,,,,FALSE,
+restorative-powder,Total Sugars,,,,,FALSE,
+restorative-powder,Protein,,,,,FALSE,
+restorative-powder,Calcium,,,,,FALSE,
+restorative-powder,Iron,,,,,FALSE,
+restorative-powder,Magnesium,,,,,FALSE,
+restorative-powder,Sodium,,,,,FALSE,
+restorative-powder,Potassium,,,,,FALSE,
+saccharomyces,Saccharomyces boulardii,420,mg,,5 billion CFU,FALSE,
+same,Folate (from 400 mcg as Quatrefolic (6S)-5-Methyltetrahydrofolate glucosamine salt),680,mcg,170,,FALSE,
+same,SAMe (as S-Adenosyl-L-methionine disulfate p-toluenesulfonate),400,mg,,,FALSE,
+sbi-remove,Serum-Derived Bovine Immunoglobulin Concentrate,2.5,g,,ImmunoLin,FALSE,
+sbi-remove,Immunoglobulin G,1.2,g,,IgG,FALSE,
+serevital,Vitamin C,50,mg,56,as Ascorbic Acid USP,FALSE,
+serevital,Vitamin B6,10,mg,588,as Pyridoxal-5'-Phosphate,FALSE,
+serevital,Folate,680,mcg,170,as (6S)-5-Methyltetrahydrofolate acid glucosamine salt,FALSE,
+serevital,Vitamin B12,200,mcg,8333,as Methylcobalamin,FALSE,
+serevital,Magnesium,75,mg,18,as Di-Magnesium Malate,FALSE,
+serevital,Zinc,5,mg,45,as Albion® Minerals Zinc Bisglycinate Chelate,FALSE,
+serevital,L-Lysine HCl,400,mg,,,FALSE,
+serevital,Melatonin Pruriens Extract,400,mg,,,FALSE,
+serevital,Griffonia simplicifolia Seed Extract,100,mg,,,FALSE,
+serevital,Theanine,100,mg,,Suntheanine,FALSE,
+super-b-complex,Vitamin B1,3.5,mg,318,as Thiamine HCl USP,FALSE,
+super-b-complex,Vitamin B2,4,mg,308,as Riboflavin USP,FALSE,
+super-b-complex,Niacin,50,mg,312,as Niacin (USP),FALSE,
+super-b-complex,Vitamin B6,50,mg,3030,as Pyridoxine HCl (USP),FALSE,
+super-b-complex,Pantothenic Acid,50,mg,1000,as Calcium Pantothenate (USP),FALSE,
+thyroid-support,Iodine,150,mcg,100,,FALSE,
+thyroid-support,Selenium,200,mcg,364,,FALSE,
+thyroid-support,L-Tyrosine,350,mg,,,FALSE,
+thyroid-support,Ashwagandha Root Extract,200,mg,,,FALSE,
+thyroid-support,Guggulipid,100,mg,,,FALSE,
+tulsi,Thyme Oil,200,mg,,Standardized to contain 30-75% thymol,FALSE,
+tulsi,Clove Oil,100,mg,,Standardized to contain ≥ 80% eugenol,FALSE,
+tulsi,Oregano Oil,100,mg,,Standardized to contain 55-80% carvacrol,FALSE,
+turmeric,Turmeric Root Extract,500,mg,,"Complete Turmeric Matrix - Standardized to contain 45-55% Curcuminoids, 3-8% Volatile Oil, 2-6% Turmetin",FALSE,
+ut-max,Vitamin A,15000,IU,300,"from 15,000 IU as Palmitate, Natural Beta Carotene",FALSE,
+ut-max,Vitamin C,300,mg,333,"as Ascorbic Acid USP, Acerola Fruit Juice Concentrate Powder",FALSE,
+ut-max,Vitamin E,2.5,mg,10,as d-alpha Tocopherol,FALSE,
+ut-max,Pantothenic Acid,10,mg,200,as Calcium Pantothenate USP,FALSE,
+ut-max,Zinc,4,mg,36,as Albion® Minerals Zinc Bisglycinate Chelate,FALSE,
+ut-max,Astragalus Root Extract,,,,,FALSE,
+ut-max,European Elder Berry Extract,250,mg,,Sambucus nigra - Standardized to contain 13% Anthocyanins,FALSE,
+ut-max,Andrographis Extract,200,mg,,"Andrographis paniculata - Leaf Extract, Standardized to contain 30% Andrographolides",FALSE,
+ut-max,Echinacea purpurea Extract,100,mg,,Flowering Aerial Parts,FALSE,
+ut-max,L-Lysine Hydrochloride USP,100,mg,,,FALSE,
+ut-max,Acerola Fruit Extract,25,mg,,Standardized to contain 17% Vitamin C,FALSE,
+vira-calm,Zinc,15,mg,136,as TRAACS™ Zinc Bisglycinate Chelate,FALSE,
+vira-calm,Taurine USP,400,mg,,,FALSE,
+vira-calm,N-Acetyl-L-cysteine USP,200,mg,,,FALSE,
+vira-calm,Alpha Lipoic Acid,150,mg,,,FALSE,
+vira-calm,Bilberry Fruit Extract,150,mg,,Standardized to contain 36% Anthocyanosides,FALSE,
+vira-calm,Quercetin Dihydrate,100,mg,,,FALSE,
+vira-calm,Ginkgo biloba USP,60,mg,,Powdered Ginkgo Extract (Leaf) - Standardized to contain 22% Flavonol Glycosides and 5.4% Terpene Lactones,FALSE,
+vira-calm,Lutein,30,mg,,,FALSE,
+vira-calm,Lycopene,6,mg,,,FALSE,
+vira-calm,Zeaxanthin,1.5,mg,,,FALSE,
+vision-pro,Vitamin C,400,mg,444,"as Ascorbic Acid USP, Acerola Fruit Juice Concentrate Powder",FALSE,
+vision-pro,Acerola Fruit Juice Concentrate Powder,100,mg,,Standardized to contain 17% Vitamin C,FALSE,
+vision-pro,Quercetin Dihydrate,70,mg,,,FALSE,
+vision-pro,Citrus Bioflavonoid Complex,50,mg,,,FALSE,
+vision-pro,Hibiscus,50,mg,,Flowers,FALSE,
+vision-pro,Rutin,50,mg,,,FALSE,
+vita-c,Vitamin C,100,mg,111,as Ascorbic Acid USP,FALSE,
+vita-c,Magnesium,135,mg,32,as Albion® Minerals Magnesium Bisglycinate Chelate,FALSE,
+vital-aminos,Gelatin Hydrolysate,9.2,g,,FORTIGEL,FALSE,
+vital-aminos,Connective Tissue Blend,520,mg,,"TENDAXION - Type I Collagen, Mucopolysaccharides",TRUE,TENDAXION
+vital-aminos,Chicken Collagen Peptides,80,mg,,MOBILELENE,FALSE,
+vital-k-d,Vitamin D,125,mcg,625,D3 as Cholecalciferol,FALSE,
+vital-k-d,Vitamin K2,45,mcg,,as Menaquinone-7 (MK-7) - MenaQ7,FALSE,
+vitamin-d,Vitamin D,125,mcg,625,D3 as Cholecalciferol,FALSE,
+zinc,Zinc,54,mg,491,as TRAACS Zinc Bisglycinate Chelate,FALSE,
