@@ -1,11 +1,11 @@
 """
 Ojus Product Extractor
-Scrapes all products from whpwellness.com, extracts ingredients via Claude vision,
-and writes everything to the local SQLite database.
+Scrapes all products from whpwellness.com and writes metadata + image URLs to SQLite.
 
-Run without API key:  python extract_products.py
-Run with vision:      python extract_products.py --vision
-Skip already-scraped: python extract_products.py --new-only
+Step 1 of 2 — run this first, then run download_images.py.
+
+Usage: python scraper/extract_products.py
+       python scraper/extract_products.py --new-only   # skip already-scraped products
 """
 
 import asyncio
@@ -21,7 +21,7 @@ from dotenv import load_dotenv
 from rich.console import Console
 from rich.table import Table
 
-from db import get_db, upsert_product, save_ingredients
+from db import get_db, upsert_product
 from export import export_csv
 
 load_dotenv(Path(__file__).parent.parent / ".env")
@@ -58,33 +58,25 @@ def _extract_price(markdown: str) -> float | None:
     return float(m.group(1)) if m else None
 
 
-def _extract_product_images(result) -> tuple[list[str], str | None, str | None]:
-    """Extract product images, filtering site-wide assets.
+def _extract_product_images(result) -> tuple[list[str], str | None]:
+    """Extract all product gallery images, filtering out site-wide assets.
 
-    Returns (all_product_urls, product_image_url, supplement_facts_url).
+    Returns (all_image_urls, product_image_url).
 
-    Strategy:
-    - result.media images with alt matching the product name are product shots
-    - Images with alt like 'Stripes', 'logo', or from the 11062b_ media prefix
-      are site-wide assets and get filtered out
-    - Thumbnail URLs in the markdown with 'Thumbnail:' alt text that don't match
-      the main product image are likely supplement facts panels
-    - og:image is the most reliable product image source
+    all_image_urls includes the main product shot plus every additional gallery
+    image (supplement facts panels, lifestyle shots, etc.) — all saved so
+    download_images.py can fetch them and cowork can identify the facts panels.
     """
     metadata = result.metadata or {}
     md = result.markdown or ""
 
-    # Site-wide image prefixes/alts to ignore
     SKIP_ALTS = {"stripes", "logo", "whp wellness logo", ""}
     SKIP_MEDIA_IDS = {"11062b_ddb9213a8b9843fc95e4200cd0622fe2"}
 
     def is_site_asset(src: str, alt: str) -> bool:
         if alt.lower().strip() in SKIP_ALTS:
             return True
-        for skip_id in SKIP_MEDIA_IDS:
-            if skip_id in src:
-                return True
-        return False
+        return any(skip_id in src for skip_id in SKIP_MEDIA_IDS)
 
     # Collect real product images from result.media
     product_images = []
@@ -94,67 +86,54 @@ def _extract_product_images(result) -> tuple[list[str], str | None, str | None]:
         if src and "wixstatic.com" in src and not is_site_asset(src, alt):
             product_images.append(src)
 
-    # Primary product image: prefer og:image (clean, reliable), fall back to first media image
+    # Primary product image: prefer og:image (reliable), fall back to first media image
     og_img = metadata.get("og:image")
     product_image_url = og_img or (product_images[0] if product_images else None)
 
-    # Extract the main product's media ID to compare against thumbnails
-    main_media_id = None
+    # Track seen media IDs to avoid duplicates
+    seen_media_ids = set()
     if product_image_url and "/media/" in product_image_url:
-        main_media_id = product_image_url.split("/media/")[-1].split("/")[0].split("~")[0]
+        seen_media_ids.add(product_image_url.split("/media/")[-1].split("/")[0].split("~")[0])
 
-    # Look for supplement facts in markdown thumbnails — Wix renders additional
-    # product gallery images as thumbnail img tags not present in result.media
-    supplement_facts_url = None
+    all_image_urls = [product_image_url] if product_image_url else []
+
+    # Collect ALL additional gallery thumbnails (supplement facts panels, etc.)
+    # Wix renders these as thumbnail img tags in the markdown — upgrade to full size
     thumb_pattern = re.compile(
         r"!\[Thumbnail:[^\]]*\]\((https://static\.wixstatic\.com/media/[^)]+)\)"
     )
     for thumb_match in thumb_pattern.finditer(md):
         thumb_url = thumb_match.group(1)
         thumb_media_id = thumb_url.split("/media/")[-1].split("/")[0].split("~")[0]
-        # A thumbnail with a different media ID than the main product image
-        # is an additional gallery image — likely supplement facts
-        if main_media_id and thumb_media_id != main_media_id:
-            # Upgrade from thumbnail size to full size
-            supplement_facts_url = re.sub(
-                r"/fill/w_\d+,h_\d+,", "/fill/w_800,h_800,", thumb_url
-            )
-            product_images.append(supplement_facts_url)
-            break
+        if thumb_media_id not in seen_media_ids:
+            seen_media_ids.add(thumb_media_id)
+            full_url = re.sub(r"/fill/w_\d+,h_\d+,", "/fill/w_800,h_800,", thumb_url)
+            all_image_urls.append(full_url)
 
-    return product_images, product_image_url, supplement_facts_url
+    return all_image_urls, product_image_url
 
 
 async def scrape_product(crawler: AsyncWebCrawler, url: str) -> dict | None:
-    """Scrape a single product page for metadata and images."""
+    """Scrape a single product page for metadata and image URLs."""
     try:
         result = await crawler.arun(url=url)
         metadata = result.metadata or {}
         md = result.markdown or ""
 
         slug = url.rstrip("/").split("/product-page/")[-1] if "/product-page/" in url else None
-
-        # Name: try title, fall back to og:title
         name = (metadata.get("title") or metadata.get("og:title") or "").split("|")[0].strip()
-
-        # Price from markdown
         price = _extract_price(md)
+        all_image_urls, product_image_url = _extract_product_images(result)
 
-        # Images with proper filtering
-        all_images, product_image_url, supplement_facts_url = _extract_product_images(result)
-
-        product = {
+        return {
             "url": url,
             "slug": slug,
             "name": name,
             "price": price,
             "description": md[:2000] if md else None,
-            "all_image_urls": all_images,
+            "all_image_urls": all_image_urls,
             "product_image_url": product_image_url,
-            "supplement_facts_image_url": supplement_facts_url,
         }
-
-        return product
 
     except Exception as e:
         console.print(f"[red]Error scraping {url}: {e}[/red]")
@@ -162,16 +141,6 @@ async def scrape_product(crawler: AsyncWebCrawler, url: str) -> dict | None:
 
 
 async def run():
-    use_vision = "--vision" in sys.argv and os.getenv("ANTHROPIC_API_KEY")
-
-    if "--vision" in sys.argv and not os.getenv("ANTHROPIC_API_KEY"):
-        console.print("[red]--vision flag set but ANTHROPIC_API_KEY not found in .env[/red]")
-        return
-
-    extract_ingredients = None
-    if use_vision:
-        from vision_ingredients import extract_ingredients
-
     db = get_db()
 
     urls = discover_product_urls()
@@ -187,12 +156,12 @@ async def run():
         if known_urls:
             console.print(f"[dim]--new-only: skipping {len(known_urls)} already-scraped products[/dim]")
 
-    stats = {"scraped": 0, "skipped": 0, "vision_ok": 0, "vision_failed": 0, "skipped_vision": 0}
+    scraped, skipped = 0, 0
 
     async with AsyncWebCrawler() as crawler:
         for i, url in enumerate(urls, 1):
             if new_only and url in known_urls:
-                stats["skipped"] += 1
+                skipped += 1
                 continue
 
             console.print(f"\n[cyan][{i}/{len(urls)}][/cyan] {url}")
@@ -202,51 +171,23 @@ async def run():
                 continue
 
             try:
-                product_id = upsert_product(db, product)
-                stats["scraped"] += 1
-                console.print(f"  [green]OK[/green] {product['name']}")
-
-                if use_vision and extract_ingredients:
-                    sfp_url = product.get("supplement_facts_image_url")
-                    if sfp_url:
-                        console.print(f"  Running vision extraction...")
-                        extraction = await extract_ingredients(sfp_url)
-
-                        if "error" not in extraction:
-                            save_ingredients(db, product_id, extraction)
-                            confidence = extraction.get("extraction_confidence", "medium")
-                            n = len(extraction.get("ingredients", []))
-                            stats["vision_ok"] += 1
-                            db.execute(
-                                "UPDATE products SET extraction_method='vision', extraction_confidence=? WHERE id=?",
-                                (confidence, product_id),
-                            )
-                            db.commit()
-                            console.print(f"  [green]Vision OK[/green] — {n} ingredients ({confidence})")
-                        else:
-                            stats["vision_failed"] += 1
-                            console.print(f"  [yellow]Vision failed:[/yellow] {extraction.get('error')}")
-                else:
-                    stats["skipped_vision"] += 1
+                upsert_product(db, product)
+                scraped += 1
+                n_images = len(product.get("all_image_urls") or [])
+                console.print(f"  [green]OK[/green] {product['name']} ({n_images} images)")
             except Exception as e:
                 db.rollback()
                 console.print(f"  [red]DB error for {product.get('name', url)}: {e}[/red]")
 
-    # Summary
-    console.print("\n")
     table = Table(title="Scrape Summary")
     table.add_column("Metric", style="bold")
     table.add_column("Value", justify="right")
-    if stats["skipped"]:
-        table.add_row("Skipped (already scraped)", str(stats["skipped"]))
-    table.add_row("Products scraped", str(stats["scraped"]))
-    if use_vision:
-        table.add_row("Vision — success", str(stats["vision_ok"]))
-        table.add_row("Vision — failed", str(stats["vision_failed"]))
-    else:
-        table.add_row("Vision skipped (no --vision)", str(stats["skipped_vision"]))
-        console.print("[dim]Tip: Run with --vision once you have ANTHROPIC_API_KEY in .env[/dim]")
+    if skipped:
+        table.add_row("Skipped (already scraped)", str(skipped))
+    table.add_row("Products scraped", str(scraped))
+    console.print("\n")
     console.print(table)
+    console.print("\n[dim]Next: run download_images.py to fetch all gallery images[/dim]")
 
     export_csv(db)
     db.close()
