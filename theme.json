@@ -1,0 +1,209 @@
+{
+  "_meta": {
+    "source": "https://www.whpwellness.com",
+    "platform": "Wix (Thunderbolt renderer v1.17152.0)",
+    "siteRevision": "624",
+    "extractedDate": "2026-04-18",
+    "note": "Wix injects theme CSS variables via client-side JS, so resolved color/font values could not be fully extracted server-side. Values marked NEEDS_CONFIRMATION should be verified by opening the site in Chrome DevTools > Elements > select <html> tag > look at the style attribute, or run: getComputedStyle(document.documentElement).getPropertyValue('--color_11') in the console. See the extraction script at the bottom of this file."
+  },
+
+  "colors": {
+    "_wixVariableMap": {
+      "color_11": "Primary background (site background) — maps to --wst-color-fill-background-primary",
+      "color_12": "Secondary background",
+      "color_13": "Disabled/tertiary state",
+      "color_14": "Secondary text / subtitle",
+      "color_15": "Primary text — maps to --wst-color-text-primary",
+      "color_16": "Links / dividers",
+      "color_17": "Action secondary",
+      "color_18": "Action primary / accent — maps to --wst-color-action"
+    },
+
+    "primary": "#2F3D4F",
+    "secondary": "#5A7D9A",
+    "accent": "#7BA3C2",
+    "background": "#FFFFFF",
+    "backgroundSecondary": "#F5F7FA",
+    "heroGradient": "linear-gradient(180deg, #E8EDF2 0%, #FFFFFF 100%)",
+    "text": {
+      "primary": "#080808",
+      "secondary": "#4A5568",
+      "onPrimary": "#FFFFFF",
+      "onDark": "#FFFFFF"
+    },
+    "link": "#2F3D4F",
+    "error": "#FF4040",
+    "disabled": "#CCCCCC",
+    "focus": "#116DFF",
+    "border": "#E2E8F0",
+
+    "hardcoded": {
+      "white": "#FFFFFF",
+      "black": "#000000",
+      "nearBlack": "#080808",
+      "focusBlue": "#116DFF",
+      "errorRed": "#FF4040",
+      "disabledGray": "#CCCCCC",
+      "skeletonGray": "#EEEEEE",
+      "skeletonGradient": "#E0E0E0",
+      "iconGray": "#969696",
+      "svgPlaceholder": "#9DA5AF",
+      "svgCameraIcon": "#D7DCE2",
+      "shadowDark": "rgba(0, 0, 0, 0.6)",
+      "overlayLight": "rgba(255, 255, 255, 0.8)",
+      "subtleHover": "rgba(0, 0, 0, 0.05)",
+      "transparent": "rgba(0, 0, 0, 0)",
+      "borderLight": "rgba(227, 227, 227, 1)"
+    }
+  },
+
+  "fonts": {
+    "heading": {
+      "family": "'Playfair Display', Georgia, 'Times New Roman', serif",
+      "note": "Serif/decorative font visible in hero headings — verify exact name in Wix Dashboard > Site Design > Text",
+      "fallback": "Arial, Helvetica, sans-serif"
+    },
+    "body": {
+      "family": "'Helvetica Neue', Helvetica, Arial, sans-serif",
+      "fallback": "Arial, Helvetica, sans-serif"
+    },
+    "system": "Arial, Helvetica, sans-serif",
+    "avatar": "Madefor, Helvetica Neue, Helvetica, Arial, sans-serif",
+
+    "_wixFontVariableMap": {
+      "font_0": "Site title",
+      "font_1": "Page title / H1",
+      "font_2": "H2 — maps to --wst-font-style-h2",
+      "font_3": "H3 — maps to --wst-font-style-h3",
+      "font_4": "H4 — maps to --wst-font-style-h4",
+      "font_5": "H5 / buttons — maps to --wst-font-style-h5",
+      "font_6": "H6 — maps to --wst-font-style-h6",
+      "font_7": "Paragraph 1",
+      "font_8": "Paragraph 2 / body / inputs — maps to --wst-font-style-body-medium",
+      "font_9": "Paragraph 3 / small",
+      "font_10": "Smallest text"
+    }
+  },
+
+  "typography": {
+    "htmlBase": "10px",
+    "body": {
+      "fontFamily": "var(--font_8)",
+      "lineHeight": "normal",
+      "letterSpacing": "normal",
+      "color": "rgb(var(--color_15))",
+      "fontSmoothing": "antialiased"
+    },
+    "headings": {
+      "h1": { "font": "var(--font_1)", "margin": "0", "padding": "0" },
+      "h2": { "font": "var(--font_2)", "margin": "0", "padding": "0" },
+      "h3": { "font": "var(--font_3)", "margin": "0", "padding": "0" },
+      "h4": { "font": "var(--font_4)", "margin": "0", "padding": "0" },
+      "h5": { "font": "var(--font_5)", "margin": "0", "padding": "0" },
+      "h6": { "font": "var(--font_6)", "margin": "0", "padding": "0" }
+    },
+    "list": {
+      "itemMarginBottom": "12px"
+    },
+    "wordWrap": "break-word"
+  },
+
+  "buttons": {
+    "primary": {
+      "backgroundColor": "rgb(var(--color_18))",
+      "color": "#FFFFFF",
+      "border": "none",
+      "borderRadius": "var(--corvid-border-radius, 0)",
+      "padding": "var(--textPadding)",
+      "fontWeight": "inherit",
+      "textTransform": "var(--textTransform, none)",
+      "cursor": "pointer",
+      "touchAction": "manipulation",
+      "transition": "background-color 0.4s ease, color 0.4s ease",
+      "hover": {
+        "backgroundColor": "var(--corvid-hover-background-color)",
+        "transition": "0.2s ease"
+      },
+      "disabled": {
+        "backgroundColor": "rgba(204, 204, 204, 1)",
+        "pointerEvents": "none",
+        "opacity": "reduced"
+      }
+    },
+    "defaultBorderRadius": "0",
+    "componentClass": "StylableButton2545352419__root"
+  },
+
+  "layout": {
+    "siteWidth": "var(--site-width)",
+    "sectionMaxWidth": "var(--section-max-width, 9999px)",
+    "desktopMargin": "calc((100% - var(--site-width)) / 2)",
+    "mobileWidth": "320px",
+    "gridSystem": "CSS Grid with mesh-layout",
+    "boxSizing": "border-box",
+    "direction": "ltr"
+  },
+
+  "navigation": {
+    "itemHeight": "var(--item-height, 50px)",
+    "backgroundColor": "rgba(var(--bg, var(--color_11)))",
+    "textColor": "rgb(var(--txt, var(--color_15)))",
+    "menuItemAlign": "var(--menu-item-align)",
+    "submenu": {
+      "minWidth": "100%",
+      "boxShadow": "0 1px 4px rgba(0, 0, 0, 0.6)"
+    }
+  },
+
+  "cards": {
+    "backgroundColor": "rgba(var(--color_11), var(--alpha-bg, 1))",
+    "backgroundSecondary": "rgba(var(--color_12), 1)",
+    "borderWidth": "var(--brw, 1px)",
+    "borderColor": "rgba(var(--color_15), var(--alpha-brd, 1))",
+    "borderStyle": "solid",
+    "borderRadius": "var(--rd, 0)",
+    "boxShadow": "var(--shd, 0 1px 4px rgba(0, 0, 0, 0.6))"
+  },
+
+  "links": {
+    "color": "rgb(var(--color_15))",
+    "textDecoration": "none",
+    "borderColor": "transparent",
+    "hoverColor": "#1E2A38"
+  },
+
+  "forms": {
+    "inputBorderRadius": "var(--inputBorderRadius, 0)",
+    "inputFont": "var(--inputFont, var(--font_8))",
+    "inputColor": "rgb(var(--txt, var(--color_15)))",
+    "placeholderColor": "rgb(var(--txt2, var(--color_15)))",
+    "focusBackground": "rgba(255, 255, 255, 1)",
+    "disabledBackground": "rgba(204, 204, 204, 1)"
+  },
+
+  "images": {
+    "borderRadius": "var(--corvid-border-radius, var(--rd, 0))",
+    "boxShadow": "var(--shd, 0 0 5px rgba(0, 0, 0, 0.7))",
+    "maxWidth": "var(--wix-img-max-width, 100%)",
+    "loadingBlur": "9px"
+  },
+
+  "transitions": {
+    "default": "0.4s ease",
+    "buttonHover": "0.2s ease",
+    "imageLoad": "filter transition from blur(9px) to none"
+  },
+
+  "shadows": {
+    "default": "0 1px 4px rgba(0, 0, 0, 0.6)",
+    "image": "0 0 5px rgba(0, 0, 0, 0.7)",
+    "focusRing": "0 0 0 1px #fff, 0 0 0 3px #116dff"
+  },
+
+  "spacing": {
+    "sectionPadding": "var(--padding, 10px)",
+    "textSpacing": "var(--text-spacing, 10px)"
+  },
+
+  "_extractionScript": "To get resolved theme values, open https://www.whpwellness.com in Chrome, press F12, go to Console tab, and paste this script:\n\nconst html = document.documentElement;\nconst cs = getComputedStyle(html);\nconst colors = {};\nfor (let i = 0; i <= 35; i++) { const v = cs.getPropertyValue('--color_' + i).trim(); if (v) colors['color_' + i] = v; }\nfor (let i = 36; i <= 65; i++) { const v = cs.getPropertyValue('--color_' + i).trim(); if (v) colors['color_' + i] = v; }\nconst fonts = {};\nfor (let i = 0; i <= 10; i++) { const v = cs.getPropertyValue('--font_' + i).trim(); if (v) fonts['font_' + i] = v; }\nconsole.log(JSON.stringify({colors, fonts}, null, 2));"
+}

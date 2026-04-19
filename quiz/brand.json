@@ -1,0 +1,193 @@
+{
+  "_meta": {
+    "source": "https://www.whpwellness.com",
+    "extractedDate": "2026-04-18",
+    "method": "Visual analysis of homepage screenshots + server-side HTML inspection",
+    "note": "Colors derived from screenshot analysis. Fine-tune hex values if needed after comparing side-by-side with the live site."
+  },
+
+  "colors": {
+    "primary": "#2F3D4F",
+    "primaryDark": "#1E2A38",
+    "secondary": "#5A7D9A",
+    "accent": "#7BA3C2",
+    "background": "#FFFFFF",
+    "backgroundSecondary": "#F5F7FA",
+    "heroGradient": "linear-gradient(180deg, #E8EDF2 0%, #FFFFFF 100%)",
+    "text": {
+      "primary": "#080808",
+      "secondary": "#4A5568",
+      "muted": "#718096",
+      "onPrimary": "#FFFFFF",
+      "onDark": "#FFFFFF"
+    },
+    "border": "#E2E8F0",
+    "borderLight": "#EDF2F7",
+    "error": "#FF4040",
+    "success": "#48BB78",
+    "focus": "#116DFF"
+  },
+
+  "fonts": {
+    "heading": {
+      "family": "'Playfair Display', Georgia, 'Times New Roman', serif",
+      "comment": "Hero uses a serif/decorative font for 'Wellness' heading — Playfair Display is the closest match to the calligraphic W seen on site. Verify exact font in Wix dashboard > Site Design > Text."
+    },
+    "body": {
+      "family": "'Helvetica Neue', Helvetica, Arial, sans-serif"
+    },
+    "nav": {
+      "family": "'Helvetica Neue', Helvetica, Arial, sans-serif"
+    },
+    "button": {
+      "family": "'Helvetica Neue', Helvetica, Arial, sans-serif"
+    }
+  },
+
+  "typography": {
+    "h1": {
+      "fontSize": "48px",
+      "fontWeight": "700",
+      "lineHeight": "1.2",
+      "letterSpacing": "-0.02em",
+      "fontFamily": "heading"
+    },
+    "h2": {
+      "fontSize": "32px",
+      "fontWeight": "600",
+      "lineHeight": "1.3",
+      "letterSpacing": "-0.01em",
+      "fontFamily": "heading"
+    },
+    "h3": {
+      "fontSize": "24px",
+      "fontWeight": "600",
+      "lineHeight": "1.4",
+      "fontFamily": "heading"
+    },
+    "body": {
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "1.6",
+      "fontFamily": "body"
+    },
+    "bodySmall": {
+      "fontSize": "14px",
+      "fontWeight": "400",
+      "lineHeight": "1.5",
+      "fontFamily": "body"
+    },
+    "caption": {
+      "fontSize": "12px",
+      "fontWeight": "400",
+      "lineHeight": "1.4",
+      "fontFamily": "body"
+    }
+  },
+
+  "buttons": {
+    "primary": {
+      "backgroundColor": "#2F3D4F",
+      "color": "#FFFFFF",
+      "border": "none",
+      "borderRadius": "24px",
+      "padding": "14px 32px",
+      "fontSize": "15px",
+      "fontWeight": "600",
+      "textTransform": "none",
+      "letterSpacing": "0.02em",
+      "hover": {
+        "backgroundColor": "#1E2A38",
+        "transform": "translateY(-1px)",
+        "boxShadow": "0 4px 12px rgba(47, 61, 79, 0.3)"
+      }
+    },
+    "secondary": {
+      "backgroundColor": "transparent",
+      "color": "#2F3D4F",
+      "border": "2px solid #2F3D4F",
+      "borderRadius": "24px",
+      "padding": "12px 30px",
+      "fontSize": "15px",
+      "fontWeight": "600",
+      "textTransform": "none",
+      "hover": {
+        "backgroundColor": "#2F3D4F",
+        "color": "#FFFFFF"
+      }
+    },
+    "dark": {
+      "backgroundColor": "#080808",
+      "color": "#FFFFFF",
+      "border": "none",
+      "borderRadius": "24px",
+      "padding": "14px 32px",
+      "fontSize": "15px",
+      "fontWeight": "600",
+      "hover": {
+        "backgroundColor": "#1a1a1a"
+      },
+      "comment": "Used on dark-background sections like the mountain/nature imagery area"
+    }
+  },
+
+  "layout": {
+    "maxWidth": "1200px",
+    "contentWidth": "800px",
+    "borderRadius": {
+      "small": "8px",
+      "medium": "12px",
+      "large": "24px",
+      "pill": "9999px"
+    },
+    "spacing": {
+      "xs": "4px",
+      "sm": "8px",
+      "md": "16px",
+      "lg": "24px",
+      "xl": "32px",
+      "xxl": "48px",
+      "section": "64px"
+    }
+  },
+
+  "shadows": {
+    "small": "0 1px 3px rgba(0, 0, 0, 0.08)",
+    "medium": "0 4px 12px rgba(0, 0, 0, 0.1)",
+    "large": "0 8px 24px rgba(0, 0, 0, 0.12)",
+    "card": "0 2px 8px rgba(0, 0, 0, 0.06)",
+    "button": "0 4px 12px rgba(47, 61, 79, 0.2)"
+  },
+
+  "transitions": {
+    "default": "0.3s ease",
+    "fast": "0.15s ease",
+    "slow": "0.5s ease"
+  },
+
+  "quiz": {
+    "progressBar": {
+      "backgroundColor": "#E2E8F0",
+      "fillColor": "#2F3D4F",
+      "height": "4px",
+      "borderRadius": "2px"
+    },
+    "optionCard": {
+      "backgroundColor": "#FFFFFF",
+      "border": "2px solid #E2E8F0",
+      "borderRadius": "12px",
+      "padding": "16px 20px",
+      "selectedBorder": "2px solid #2F3D4F",
+      "selectedBackground": "#F5F7FA",
+      "hoverBorder": "2px solid #5A7D9A",
+      "hoverBackground": "#FAFBFC"
+    },
+    "resultCard": {
+      "backgroundColor": "#FFFFFF",
+      "border": "1px solid #E2E8F0",
+      "borderRadius": "16px",
+      "padding": "24px",
+      "boxShadow": "0 4px 12px rgba(0, 0, 0, 0.08)"
+    }
+  }
+}
