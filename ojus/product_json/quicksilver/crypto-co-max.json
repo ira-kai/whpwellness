@@ -1,0 +1,37 @@
+{
+  "slug": "crypto-co-max",
+  "name": "Crypto Co-Max",
+  "price": 75.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 20,
+  "focus_keyword": "liposomal cryptolepis artemisinin antimicrobial",
+  "meta_title": "Crypto Co-Max | Quicksilver Scientific Antimicrobial Protocol",
+  "meta_description": "Quicksilver Scientific's Crypto Co-Max combines cryptolepis, artemisinin, and Japanese knotweed in liposomal form for practitioner-guided antimicrobial protocols.",
+  "category": "Antimicrobial Support",
+  "brand": "quicksilver",
+
+  "description": "Crypto Co-Max is a liposomal antimicrobial formula from Quicksilver Scientific that combines three botanicals used in advanced practitioner protocols: cryptolepis (Cryptolepis sanguinolenta) root extract, artemisinin (15mg), and Japanese knotweed (Polygonum cuspidatum) rhizome extract. Each of these herbs has independently documented antimicrobial properties, and they are frequently used together in clinical settings for their complementary mechanisms of action.",
+
+  "why_we_carry_it": "Cryptolepis, artemisinin, and Japanese knotweed are three of the most commonly used botanicals in practitioner-guided antimicrobial protocols, particularly in the functional medicine and integrative infectious disease space. Having all three in a single liposomal delivery system simplifies protocols that would otherwise require three separate products. The liposomal format is especially important for these compounds because their oral bioavailability in standard capsule or tincture form is limited. Japanese knotweed (a source of resveratrol and emodin) and cryptolepis both benefit significantly from phospholipid-enhanced absorption. This is a specialized product that practitioners reach for in specific clinical situations.",
+
+  "benefit_bullets": [
+    "Three targeted antimicrobial botanicals in one formula. Cryptolepis, artemisinin, and Japanese knotweed, each with documented antimicrobial mechanisms of action.",
+    "Liposomal delivery for enhanced absorption. All three compounds have limited bioavailability in standard oral form. Phospholipid encapsulation improves systemic delivery.",
+    "Simplified protocol compliance. Replaces what would otherwise be three separate supplements in practitioner-guided antimicrobial protocols.",
+    "20 servings per bottle. Designed for protocol-length use under practitioner supervision."
+  ],
+
+  "who_its_for": "People working with a functional medicine or integrative practitioner on antimicrobial protocols. This is a specialized clinical tool, not a general wellness supplement.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth as directed by your healthcare provider. Hold in the mouth for 30 seconds before swallowing. Protocol timing, cycling, and duration should be determined by your practitioner.",
+
+  "safety_note": "This is a practitioner-guided product. Artemisinin and cryptolepis can interact with medications metabolized by liver CYP enzymes. Japanese knotweed may have mild blood-thinning effects. Not recommended during pregnancy or breastfeeding. Use should be monitored with appropriate lab work.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Antimicrobial protocols increase detoxification demands. Glutathione supports the liver's ability to process and eliminate what these botanicals mobilize."},
+    {"slug": "imd-intestinal-cleanse", "name": "IMD Intestinal Cleanse", "reason": "IMD binds toxins in the gut, supporting elimination during protocols that increase the body's detoxification burden."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

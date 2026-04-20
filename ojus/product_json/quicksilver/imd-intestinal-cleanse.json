@@ -1,0 +1,38 @@
+{
+  "slug": "imd-intestinal-cleanse",
+  "name": "IMD Intestinal Cleanse",
+  "price": 126.00,
+  "serving_size": "200 mg (about 2 scoops)",
+  "servings_per_container": 30,
+  "focus_keyword": "IMD thiol silica heavy metal intestinal binder",
+  "meta_title": "IMD Intestinal Cleanse | Quicksilver Scientific Metal Binder",
+  "meta_description": "Quicksilver Scientific's IMD uses thiol-functionalized silica to bind heavy metals in the gut, supporting elimination without systemic redistribution. 30 servings.",
+  "category": "Detox & Chelation",
+  "brand": "quicksilver",
+
+  "description": "IMD Intestinal Cleanse is a proprietary thiol-functionalized silica from Quicksilver Scientific. It works in the intestinal tract, not the bloodstream. The silica particles are coated with sulfur-based (thiol) groups that have a high binding affinity for heavy metals, particularly mercury. When taken orally, IMD binds metals in the gut lumen and carries them out through normal elimination, without pulling metals into circulation or redistributing them to other tissues.",
+
+  "why_we_carry_it": "One of the biggest challenges in heavy metal detoxification is redistribution. Many chelating agents mobilize metals from tissues into the bloodstream, which can temporarily increase the body's toxic burden and cause symptoms if elimination pathways are not keeping up. IMD takes a different approach entirely. It stays in the gut and intercepts metals that are excreted through bile (which is the liver's primary route for eliminating metals like mercury). By binding those metals before they can be reabsorbed through enterohepatic recirculation, IMD reduces the body's total burden without the redistribution risk that systemic chelators carry. This makes it a foundational piece in detoxification protocols, often used alongside or before systemic chelation.",
+
+  "benefit_bullets": [
+    "Thiol-functionalized silica for intestinal metal binding. Sulfur-based functional groups have high affinity for heavy metals, particularly mercury, binding them in the gut for elimination.",
+    "No systemic redistribution. Unlike circulatory chelators, IMD works entirely in the intestinal tract. It intercepts metals excreted through bile before they can be reabsorbed.",
+    "Interrupts enterohepatic recirculation. The liver eliminates metals via bile into the intestines. Without a binder, those metals can be reabsorbed. IMD prevents that cycle.",
+    "30 servings per bottle. Designed for extended protocol use under practitioner guidance."
+  ],
+
+  "who_its_for": "People working with a practitioner on heavy metal detoxification, especially mercury. Often used as a foundational step before or alongside systemic chelation to ensure metals are being eliminated rather than redistributed.",
+  "how_to_take": "Mix approximately 200mg (about 2 small scoops using the included scoop) into water or juice. Take on an empty stomach or as directed by your healthcare provider. Do not mix with hot liquids.",
+
+  "safety_note": "IMD is a clinical detoxification tool that should be used under practitioner supervision. While it does not cause systemic redistribution, it can increase the rate of metal elimination, which should be managed appropriately. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "edta-with-r-lipoic-acid", "name": "EDTA with R-Lipoic Acid", "reason": "EDTA chelates metals in the bloodstream; IMD catches metals in the gut. Together they address both systemic and intestinal heavy metal burden."},
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Glutathione supports the liver's ability to process and excrete metals into bile, where IMD can then bind them for elimination."},
+    {"slug": "liver-sauce-1", "name": "Liver Sauce", "reason": "Bile flow is the physical route by which the liver sends metals to the gut. Liver Sauce's bitter herbs stimulate that bile flow, improving the efficiency of IMD's binding action."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

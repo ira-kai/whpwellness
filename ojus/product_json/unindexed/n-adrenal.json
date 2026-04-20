@@ -1,0 +1,46 @@
+{
+  "slug": "n-adrenal",
+  "name": "N-Adrenal",
+  "price": 74.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 60,
+  "focus_keyword": "adrenal support supplement",
+  "meta_title": "N-Adrenal | Multi-Pathway Adrenal Support",
+  "meta_description": "A multi-pathway adrenal formula with ashwagandha, rhodiola, holy basil, and glandular support for real HPA axis resilience.",
+  "category": "Stress & Adrenal",
+  "description": "N-Adrenal is a comprehensive adrenal support formula designed to address stress resilience from multiple angles, not just one adaptogen in a capsule. It pairs clinically studied botanicals (ashwagandha, rhodiola, holy basil, schisandra) with bovine adrenal concentrate and licorice root to support healthy cortisol patterns, sustained energy, and HPA axis recovery.",
+  "formulation_rationale": "Most adrenal supplements rely on one or two adaptogens. N-Adrenal works across the full HPA axis. Ashwagandha and rhodiola modulate the cortisol response through different mechanisms: ashwagandha calms an overactive stress response, while rhodiola supports mental performance under fatigue. Holy basil adds anti-inflammatory support at the cortisol-inflammation intersection. Schisandra supports liver processing of stress hormones. Bovine adrenal concentrate provides glandular building blocks. And licorice root extends cortisol half-life, which is particularly helpful for people whose cortisol crashes in the afternoon. Together, they address the full stress-response cycle rather than masking one piece of it.",
+  "benefit_bullets": [
+    "Supports healthy cortisol rhythm. Ashwagandha (250mg, standardized to 1.5% withanolides) reduced serum cortisol by 23% in a randomized controlled trial (Lopresti et al., 2019).",
+    "Sustains energy under stress. Rhodiola (200mg, standardized to 3% rosavins) improved fatigue scores during high-demand periods (Olsson et al., 2009).",
+    "Bridges the cortisol-inflammation axis. Holy basil (300mg, 10:1 extract, equivalent to roughly 3g whole herb) supports both stress adaptation and a healthy inflammatory response.",
+    "Provides glandular support. Bovine adrenal concentrate (220mg) supplies tissue-specific building blocks for adrenal recovery.",
+    "Helps sustain afternoon energy. Licorice root extract (75mg, 12% glycyrrhizin) supports healthy cortisol levels for those who tend to crash midday."
+  ],
+  "who_its_for": "People experiencing persistent fatigue, afternoon energy crashes, or difficulty recovering from stress. Often recommended alongside lifestyle foundations: sleep hygiene, blood sugar stability, and nervous system downregulation.",
+  "how_to_take": "In the morning. Rhodiola has mild stimulant properties and may interfere with sleep if taken late in the day.",
+  "safety_note": "Ashwagandha may mildly support thyroid function. If you are on thyroid medication, discuss with your practitioner before starting. Rhodiola has mild stimulant properties, so morning dosing is recommended.",
+  "bundle_callout": {
+    "bundle_name": "Stress & Burnout",
+    "bundle_slug": "stress-and-burnout",
+    "message": "Part of the Stress & Burnout bundle. Four adaptogens covering different branches of the stress response, paired with GABA, brain magnesium, and active B vitamins."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "calm",
+      "name": "Calm",
+      "reason": "GABA and L-Theanine for acute calming, complementing N-Adrenal's longer-term adaptogenic support."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag-Threonate",
+      "reason": "Magnesium L-Threonate crosses the blood-brain barrier, supporting sleep quality and neural recovery from stress."
+    },
+    {
+      "slug": "l-theanine",
+      "name": "L-Theanine",
+      "reason": "200mg Suntheanine for focused calm without sedation."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

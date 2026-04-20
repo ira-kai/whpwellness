@@ -1,0 +1,46 @@
+{
+  "slug": "vital-k-d",
+  "name": "Vital K+D",
+  "price": 48.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "vitamin D3 K2 supplement",
+  "meta_title": "Vital K+D | Vitamin D3 (5,000 IU) + K2 (MK-7)",
+  "meta_description": "Vitamin D3 (5,000 IU) paired with Vitamin K2 as MenaQ7 MK-7 (45mcg). The two vitamins work together to direct calcium where it belongs.",
+  "category": "Vitamins",
+  "brand": "ojus",
+  "description": "Vital K+D pairs Vitamin D3 (5,000 IU as cholecalciferol) with Vitamin K2 (45mcg as MenaQ7 MK-7) in a single capsule. These two vitamins have a direct functional relationship: D3 increases calcium absorption from the gut, and K2 activates the proteins (osteocalcin and matrix GLA protein) that direct that calcium into bones and teeth rather than soft tissues and arterial walls.",
+  "formulation_rationale": "Supplementing vitamin D without vitamin K2 can create a problem. Vitamin D increases calcium absorption, but without adequate K2, that calcium may deposit in arteries, kidneys, or other soft tissues rather than in bone. K2 (specifically the MK-7 form) activates osteocalcin (which incorporates calcium into bone matrix) and matrix GLA protein (which inhibits arterial calcification). MenaQ7 is the most clinically studied form of MK-7, with research demonstrating improved bone mineral density and reduced arterial stiffness (Knapen et al., 2013, Osteoporosis International). Pairing them in one capsule ensures they work in concert.",
+  "benefit_bullets": [
+    "D3 and K2 work as a system. D3 increases calcium absorption; K2 directs it into bones and away from arteries.",
+    "5,000 IU Vitamin D3 as cholecalciferol. The form your skin produces from sunlight, with strong evidence for immune, bone, and mood support.",
+    "K2 as MenaQ7 MK-7. The most clinically studied form of vitamin K2, shown to support both bone density and arterial flexibility (Knapen et al., 2013).",
+    "One capsule daily. Simple dosing for two essential fat-soluble vitamins."
+  ],
+  "who_its_for": "Anyone supplementing vitamin D (which is most people in northern climates or with indoor lifestyles). Essential for bone health, calcium metabolism, cardiovascular support, and immune function.",
+  "how_to_take": "With a meal containing fat for best absorption. Vitamins D and K are both fat-soluble and absorb significantly better with dietary fat.",
+  "safety_note": "If you are on warfarin or other anticoagulant medications, consult your healthcare provider before taking vitamin K2, as it may affect clotting factor activity. Vitamin D levels should be monitored with periodic blood work (25-OH vitamin D).",
+  "bundle_callout": {
+    "bundle_name": "Bone Strong",
+    "bundle_slug": "bone-strong",
+    "message": "Part of the Bone Strong bundle. Vitamin D3 tells the body to absorb calcium; K2 tells it where to put it. Paired with multi-form Cal-Mag and additional magnesium."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "cal-mag",
+      "name": "Cal-Mag",
+      "reason": "Provides the calcium and magnesium that D3 and K2 help direct into bone matrix."
+    },
+    {
+      "slug": "iron",
+      "name": "Iron",
+      "reason": "Vitamin D supports healthy red blood cell production and iron metabolism."
+    },
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Vitamin D3 is a key component of immune defense. Vital K+D provides a higher daily D3 dose to complement the Immune formula."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

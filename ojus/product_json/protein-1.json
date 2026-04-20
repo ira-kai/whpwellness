@@ -1,0 +1,46 @@
+{
+  "slug": "protein-1",
+  "name": "Protein",
+  "price": 99.0,
+  "serving_size": "1 Scoop (27 grams)",
+  "servings_per_container": 30,
+  "focus_keyword": "clean protein powder supplement",
+  "meta_title": "Protein | Clean Protein Powder, 21g Per Scoop",
+  "meta_description": "21g protein per scoop at 100 calories and 3g carbs. No fillers, no artificial sweeteners, no unnecessary additives. A clean daily protein foundation.",
+  "category": "Protein",
+  "brand": "ojus",
+  "description": "Most protein powders pack their labels with gums, artificial sweeteners, and synthetic dyes. Some people tolerate those ingredients without issue. Others notice bloating, GI discomfort, or an aftertaste that makes consistent use difficult. Protein delivers 21g of protein per 27g scoop (a 78% protein-by-weight ratio) with just 100 calories and 3g of carbs. Nothing else that does not need to be there. One scoop daily, or as needed.",
+  "formulation_rationale": "A protein powder should do one thing well: deliver high-quality protein in a format your body can use without side effects. This formula prioritizes protein density, with 21g of protein per 27g scoop, meaning less filler per serving. The low caloric load (100 calories) and minimal carbohydrates (3g) make it flexible enough to fit any dietary framework without displacing other macronutrient targets. The clean label extends to what was left out. No artificial sweeteners, no synthetic dyes, no gums or thickeners that can cause GI distress in sensitive individuals. That simplicity is the point. The best protein powder is one you can use every day without compromise.",
+  "benefit_bullets": [
+    "21g of protein per 27g scoop delivers a 78% protein-by-weight ratio, meaning more protein and less filler in every serving.",
+    "100 calories and 3g carbs per serving makes this compatible with virtually any dietary approach, from keto to calorie-controlled to general wellness.",
+    "Free from artificial sweeteners, synthetic dyes, and the common gums and additives that cause GI discomfort in sensitive individuals.",
+    "Mixes easily into water, smoothies, oatmeal, or recipes. Built for consistent daily use as a protein foundation, not just post-workout recovery."
+  ],
+  "who_its_for": "Anyone looking for a clean, versatile daily protein source, whether for fitness recovery, meal supplementation, or meeting daily protein targets. Particularly relevant for people who are sensitive to the artificial sweeteners, gums, and fillers found in most commercial protein powders.",
+  "how_to_take": "Mix one scoop into water, milk, or a smoothie. Can be used as a meal replacement, between meals, or after exercise. Timing is flexible and depends on your goals.",
+  "safety_note": "Check the ingredient label for specific allergen information relevant to your dietary needs. If you have kidney disease or are on a protein-restricted diet, consult your healthcare provider before adding a protein supplement.",
+  "bundle_callout": {
+    "bundle_name": "Get Fit (Her)",
+    "bundle_slug": "get-fit-her",
+    "message": "Part of the Get Fit (Her) bundle. 21g clean protein per scoop with no artificial sweeteners, paired with L-Carnitine for fat metabolism and magnesium for recovery."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "optiboost-multi",
+      "name": "OptiBoost Multi",
+      "reason": "Protein synthesis requires adequate B vitamins, zinc, and other micronutrients. A comprehensive multi ensures the cofactors are in place for your body to use the protein you consume."
+    },
+    {
+      "slug": "l-carnitine",
+      "name": "L-Carnitine",
+      "reason": "Supports fatty acid metabolism alongside protein intake for people focused on body composition and energy production."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzyme support ensures thorough protein breakdown and amino acid absorption, particularly valuable for people with lower stomach acid or enzyme output."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -1,0 +1,37 @@
+{
+  "slug": "edta-with-r-lipoic-acid",
+  "name": "EDTA with R-Lipoic Acid",
+  "price": 60.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 20,
+  "focus_keyword": "liposomal EDTA chelation R-lipoic acid",
+  "meta_title": "EDTA with R-Lipoic Acid | Quicksilver Scientific Chelation",
+  "meta_description": "Quicksilver Scientific's liposomal EDTA (210mg) with R-lipoic acid and phosphatidylcholine for practitioner-guided heavy metal chelation support.",
+  "category": "Detox & Chelation",
+  "brand": "quicksilver",
+
+  "description": "EDTA with R-Lipoic Acid is a liposomal chelation support formula from Quicksilver Scientific. It delivers 210mg of disodium EDTA alongside 26mg of R-lipoic acid (as sodium R-lipoate) and 350mg of phosphatidylcholine per serving. EDTA is a well-studied chelating agent that binds divalent and trivalent metal ions in the bloodstream, supporting the body's ability to clear accumulated heavy metals. R-lipoic acid supports glutathione recycling and provides antioxidant protection during the chelation process.",
+
+  "why_we_carry_it": "EDTA chelation has traditionally been administered intravenously, which requires clinical visits and significant time commitment. Oral EDTA products have existed, but standard oral bioavailability is low because EDTA is a large, charged molecule that does not cross the intestinal lining efficiently. Quicksilver's liposomal delivery addresses that limitation by wrapping EDTA in phospholipid spheres that can cross the gut barrier intact. The inclusion of R-lipoic acid is important because chelation mobilizes metals, and mobilized metals generate free radicals until they are eliminated. R-lipoic acid recycles glutathione, which is the body's primary defense against that oxidative load. The 350mg of phosphatidylcholine supports cell membrane integrity, which is relevant because heavy metals accumulate in cell membranes.",
+
+  "benefit_bullets": [
+    "Liposomal EDTA for oral chelation support. Phospholipid delivery improves the oral bioavailability of EDTA, which is poorly absorbed in standard form.",
+    "R-lipoic acid for antioxidant protection during chelation. Chelation mobilizes metals that generate free radicals. R-lipoic acid recycles glutathione to manage that oxidative load.",
+    "350mg phosphatidylcholine per serving. Supports cell membrane integrity, which is relevant because heavy metals accumulate in membrane structures.",
+    "20 servings per bottle. Designed for practitioner-guided protocol use."
+  ],
+
+  "who_its_for": "People working with a practitioner on heavy metal detoxification protocols. EDTA chelation is a clinical tool that requires professional supervision, appropriate lab work, and mineral replacement monitoring.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth as directed by your healthcare provider. Hold in the mouth for 30 seconds before swallowing. Typically taken on an empty stomach. Protocol duration and mineral replacement should be managed by your practitioner.",
+
+  "safety_note": "EDTA chelation should only be used under practitioner supervision. EDTA binds essential minerals (calcium, zinc, iron) alongside heavy metals, so mineral status must be monitored and replenished during use. Not recommended during pregnancy or breastfeeding. Contraindicated in renal insufficiency.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "imd-intestinal-cleanse", "name": "IMD Intestinal Cleanse", "reason": "EDTA mobilizes metals systemically; IMD binds metals in the gut. Using both addresses circulatory and intestinal heavy metal burden."},
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Direct glutathione support alongside R-lipoic acid's glutathione recycling during the oxidative stress of chelation."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

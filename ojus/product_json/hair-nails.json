@@ -1,0 +1,47 @@
+{
+  "slug": "hair-nails",
+  "name": "Hair & Nails",
+  "price": 30.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "hair growth and nail strength supplement",
+  "meta_title": "Hair & Nails | Keratin Structure & Follicle Support",
+  "meta_description": "Biotin, MSM, saw palmetto, and horsetail with B vitamins and minerals. Structural, hormonal, and micronutrient support for hair thickness and nail strength.",
+  "category": "Women's Health",
+  "brand": "ojus",
+  "description": "Hair thinning and brittle nails rarely come down to one thing. They tend to reflect a combination of structural nutrient gaps, hormonal shifts, and absorption issues that build quietly over time. Hair & Nails addresses all three: keratin-building compounds like MSM, biotin, and silica from horsetail, botanicals that support healthy hormone metabolism, and cofactors that help your body actually use what you take in. Two capsules daily.",
+  "formulation_rationale": "Healthy hair and nails depend on adequate structural building blocks, balanced hormone signaling, and sufficient micronutrient status. OptiMSM (325mg) provides bioavailable sulfur, the mineral backbone of keratin and collagen. Saw palmetto (320mg, standardized to 45% fatty acids) supports healthy DHT metabolism, which plays a direct role in follicle cycling. Horsetail extract (250mg) is one of the richest plant sources of silica, a mineral essential for connective tissue integrity. Stinging nettle (240mg) complements saw palmetto by supporting androgen balance at the receptor level. Biotin (500mcg) supports keratinocyte proliferation, while folate (680mcg as methylfolate) and B12 (100mcg as methylcobalamin) feed the methylation pathways that drive healthy cell division in rapidly turning-over tissues like hair matrix cells. Selenium (25mcg) supports thyroid function, a common upstream factor in hair thinning. PABA (150mg) has a long history of use for pigment and tissue health. Betaine HCl (100mg) supports stomach acid and mineral absorption, because the best ingredients only work if your body can absorb them. The formulation treats hair and nail health as a systems problem and provides support at each level.",
+  "benefit_bullets": [
+    "Supports keratin and collagen structure. OptiMSM (325mg) provides bioavailable sulfur, the mineral your body uses to build the protein bonds that give hair and nails their strength.",
+    "Promotes healthy follicle cycling. Saw palmetto (320mg, 45% fatty acids) and stinging nettle (240mg) support balanced hormone metabolism at the follicle level, where androgen signaling directly influences hair growth patterns.",
+    "Provides silica for connective tissue. Horsetail extract (250mg) delivers plant-derived silica, a structural mineral that contributes to hair elasticity and nail hardness.",
+    "Feeds rapidly dividing cells. Methylfolate (680mcg) and methylcobalamin (100mcg) support the methylation cycles that drive cell turnover in the hair matrix, where new growth begins.",
+    "Supports upstream nutrient absorption. Betaine HCl (100mg) promotes healthy stomach acid levels, improving mineral uptake from food and supplements alike."
+  ],
+  "who_its_for": "Women noticing thinning hair, slow nail growth, or brittle nails, particularly when those changes coincide with hormonal shifts, nutrient gaps, or postpartum recovery. Also appropriate for anyone wanting to support hair and nail health proactively.",
+  "how_to_take": "Take with a meal, preferably one containing some dietary fat. The fat-soluble nutrients and botanical extracts in this formula absorb better alongside food.",
+  "safety_note": "Saw palmetto may interact with hormonal medications, including oral contraceptives and hormone replacement therapy. Discuss with your healthcare provider if you are on any hormone-modulating medications or are pregnant or nursing.",
+  "bundle_callout": {
+    "bundle_name": "PCOS Support",
+    "bundle_slug": "pcos-support",
+    "message": "Part of the PCOS Support bundle. Saw palmetto inhibits 5-alpha-reductase, addressing the androgenic hair loss and hirsutism that PCOS causes."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "dim-cdg",
+      "name": "DIM-CDG",
+      "reason": "Supports healthy estrogen metabolism, a key upstream driver of hair follicle cycling and thickness."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids support scalp circulation and the lipid layer that gives hair its shine and flexibility."
+    },
+    {
+      "slug": "optiboost-multi",
+      "name": "OptiBoost Multi",
+      "reason": "Fills broader micronutrient gaps that can contribute to hair and nail thinning over time."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

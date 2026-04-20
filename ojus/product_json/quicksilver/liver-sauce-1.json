@@ -1,0 +1,42 @@
+{
+  "slug": "liver-sauce-1",
+  "name": "Liver Sauce",
+  "price": 73.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 20,
+  "focus_keyword": "liposomal liver support detox DIM milk thistle",
+  "meta_title": "Liver Sauce | Quicksilver Scientific Liver Support",
+  "meta_description": "Quicksilver Scientific's Liver Sauce combines R-lipoic acid, DIM, milk thistle, dandelion, and gentian in liposomal form for comprehensive liver detoxification support.",
+  "category": "Liver & Detox",
+  "brand": "quicksilver",
+
+  "description": "Liver Sauce is a liposomal liver support formula from Quicksilver Scientific that addresses both Phase I and Phase II detoxification. It includes R-lipoic acid (as sodium R-lipoate) for glutathione recycling, DIM for estrogen metabolism, milk thistle (80% silymarin) for hepatocyte protection, quercetin and luteolin as anti-inflammatory flavonoids, and a base of traditional bitter herbs including dandelion root, gentian root, and goldenrod. The bitters stimulate bile flow, which is the physical mechanism by which the liver actually moves processed toxins out of the body.",
+
+  "why_we_carry_it": "Most liver supplements stop at milk thistle. That covers hepatocyte protection, but it does not address bile flow, Phase I oxidation, Phase II conjugation, or estrogen clearance. Liver Sauce is one of the few formulas that touches all of those pathways in a single product. The bitter herbs (dandelion, gentian) stimulate bile production and flow, which is how your liver physically eliminates what it has processed. DIM supports healthy estrogen metabolism through the 2-hydroxy pathway. R-lipoic acid recycles glutathione, the liver's primary endogenous antioxidant. And the liposomal delivery means these compounds actually reach the liver in meaningful concentrations rather than being partially degraded in transit.",
+
+  "benefit_bullets": [
+    "Comprehensive liver pathway coverage. Addresses bile flow (bitters), Phase I detoxification (R-lipoic acid), Phase II conjugation (DIM, quercetin), and hepatocyte protection (silymarin) in a single formula.",
+    "Bitter herbs for bile stimulation. Dandelion root and gentian root promote bile production and flow, the physical mechanism by which the liver eliminates processed compounds.",
+    "R-lipoic acid for glutathione recycling. Supports the liver's primary endogenous antioxidant system.",
+    "Liposomal delivery for hepatic bioavailability. Phospholipid encapsulation improves delivery of these compounds to liver tissue."
+  ],
+
+  "who_its_for": "People working with a practitioner on liver support or detoxification protocols, especially those who want a formula that addresses multiple detox pathways rather than just hepatocyte protection.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth. Hold in the mouth for 30 seconds before swallowing. Best taken on an empty stomach, typically in the morning. Some practitioners recommend cycling on and off during detox protocols.",
+
+  "safety_note": "Contains milk thistle, which mildly inhibits CYP2C9 and CYP3A4 enzymes. If you take medications metabolized by these pathways (including warfarin, certain statins, and some antidepressants), consult your healthcare provider before use. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": {
+    "bundle_name": "The Detox",
+    "bundle_slug": "the-detox",
+    "message": "Part of The Detox bundle. Touches all three phases of hepatic detoxification in one liposomal formula, paired with NAC, Phase II support, and direct glutathione."
+  },
+
+  "pairs_well_with": [
+    {"slug": "detox-2", "name": "Detox-2", "reason": "Additional Phase II detox support with calcium D-glucarate and other conjugation cofactors."},
+    {"slug": "n-a-c", "name": "N-A-C", "reason": "NAC is the rate-limiting precursor to glutathione. Pairing it with Liver Sauce's R-lipoic acid supports both glutathione production and recycling."},
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Direct liposomal glutathione alongside Liver Sauce's glutathione-recycling R-lipoic acid. Production plus supply."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

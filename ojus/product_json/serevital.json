@@ -1,0 +1,47 @@
+{
+  "slug": "serevital",
+  "name": "Serevital",
+  "price": 43,
+  "serving_size": "4 capsules",
+  "servings_per_container": 15,
+  "focus_keyword": "serotonin dopamine neurotransmitter supplement",
+  "meta_title": "Serevital | Neurotransmitter Precursor Formula | Ojus",
+  "meta_description": "Precursors and cofactors for serotonin and dopamine synthesis: 5-HTP, mucuna pruriens, inositol, L-tyrosine, L-theanine, and methylated B vitamins.",
+  "category": "mood and neurotransmitter support",
+  "brand": "ojus",
+  "description": "Serotonin and dopamine are not independent systems. They share enzymatic cofactors, compete for transport across the blood-brain barrier, and modulate each other's receptor activity. Supplementing a single precursor without addressing the full pathway can create imbalances rather than resolving them. Serevital supplies building blocks and enzymatic cofactors for both pathways simultaneously: inositol, 5-HTP, mucuna pruriens, L-tyrosine, L-theanine, and a full suite of conversion cofactors including P5P, methylfolate, methylcobalamin, vitamin C, niacin, iron, zinc, and magnesium.",
+  "formulation_rationale": "On the serotonin side, 5-HTP provides a direct precursor for serotonin synthesis, while inositol (1g) supports serotonin receptor signaling and second messenger function. On the dopamine side, L-tyrosine (400mg) is the amino acid precursor, and mucuna pruriens (400mg, 10% L-Dopa) provides a naturally occurring intermediate in the dopamine synthesis pathway. L-theanine (Suntheanine, 100mg) modulates glutamate activity and promotes alpha-wave brain states without sedation. The cofactor suite is what ties everything together: P5P (active B6) is the rate-limiting cofactor for both aromatic amino acid decarboxylase reactions, Quatrefolic methylfolate and methylcobalamin support the methylation reactions needed for neurotransmitter metabolism, and vitamin C, iron, and zinc each serve as cofactors at specific enzymatic steps. Niacin helps prevent diversion of tryptophan away from serotonin synthesis. Magnesium supports NMDA receptor regulation. The result is a formula that supports synthesis, recycling, and receptor function across both major mood-regulating systems.",
+  "benefit_bullets": [
+    "Provides direct precursors for both serotonin and dopamine pathways alongside the enzymatic cofactors needed for their synthesis.",
+    "L-theanine (Suntheanine) and inositol support relaxed alertness and healthy serotonin receptor signaling without sedation.",
+    "P5P, methylfolate, methylcobalamin, vitamin C, iron, zinc, and niacin ensure that precursors can be efficiently converted to active neurotransmitters.",
+    "By supplying the raw materials for neurotransmitter production, the formula helps maintain mood balance during periods of increased demand.",
+    "Addresses synthesis, recycling, and receptor function across both major mood-regulating systems rather than targeting a single precursor."
+  ],
+  "who_its_for": "People who feel the effects of daily stress on their emotional balance and want to support healthy serotonin and dopamine levels through comprehensive precursor supplementation rather than a single-compound approach.",
+  "how_to_take": "For best absorption, take on an empty stomach or with a small amount of food. Taking with a large, protein-heavy meal can reduce uptake of the amino acid precursors. If you experience any nausea, taking with a light snack is a reasonable compromise.",
+  "safety_note": "Contains 5-HTP and L-Dopa (from mucuna pruriens). Do not combine with SSRIs, SNRIs, MAOIs, or other serotonergic medications without medical supervision, as serotonin syndrome is a risk. Do not use alongside levodopa/carbidopa for the same reason. Contains iron (5mg), which may interact with thyroid medications and certain antibiotics.",
+  "bundle_callout": {
+    "bundle_name": "Mood Lift",
+    "bundle_slug": "mood-lift",
+    "message": "Part of the Mood Lift bundle. Direct neurotransmitter precursors for both serotonin and dopamine pathways, paired with SAMe, omega-3, and methylated B12."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "l-theanine",
+      "name": "L-Theanine",
+      "reason": "Additional L-theanine can further support calm focus, especially during high-stress periods."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium threonate crosses the blood-brain barrier to support NMDA receptor function, complementing the neurotransmitter precursor approach."
+    },
+    {
+      "slug": "super-b-complex",
+      "name": "Super B Complex",
+      "reason": "Additional methylated B vitamins further support the enzymatic reactions involved in neurotransmitter synthesis and methylation."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

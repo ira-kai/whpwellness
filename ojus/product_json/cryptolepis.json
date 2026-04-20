@@ -1,0 +1,45 @@
+{
+  "slug": "cryptolepis",
+  "name": "Cryptolepis",
+  "price": 42.9,
+  "serving_size": "0.7 mL",
+  "servings_per_container": 42,
+  "focus_keyword": "cryptolepis sanguinolenta herbal extract",
+  "meta_title": "Cryptolepis | Liquid Herbal Extract Tincture",
+  "meta_description": "Cryptolepis sanguinolenta root extract (1:5) liquid tincture. A practitioner-grade West African botanical for targeted immune and microbial support protocols.",
+  "category": "Herbal Support",
+  "brand": "ojus",
+  "description": "Cryptolepis sanguinolenta is a West African botanical with a long history of traditional use for immune support. Its primary active compounds are cryptolepine and related indoquinoline alkaloids. This liquid extract is prepared at a 1:5 extraction ratio, which preserves the full spectrum of those alkaloids and allows for precise, adjustable dosing. This is a practitioner-grade botanical, meaning it is intended for use within targeted protocols rather than as a casual daily supplement.",
+  "formulation_rationale": "The 1:5 liquid extract format is chosen for two reasons. First, it captures the range of indoquinoline alkaloids present in the root, not just isolated compounds, maintaining the full-spectrum profile of the plant. Second, liquid extracts offer faster absorption than dried herb capsules and allow practitioners and users to adjust the dose in fine increments based on individual protocols. That precision matters when working with potent botanicals.",
+  "benefit_bullets": [
+    "Traditional immune support. Cryptolepis sanguinolenta root has been used in West African traditional medicine for centuries to support the body's natural defenses.",
+    "Full-spectrum extraction. The 1:5 ratio captures the range of indoquinoline alkaloids present in the root, maintaining the plant's complete active profile.",
+    "Precise, flexible dosing. Liquid format allows dose adjustment in fine increments, which is important when working within practitioner-guided protocols."
+  ],
+  "who_its_for": "For adults working with a knowledgeable practitioner on targeted immune or microbial support protocols where precise dosing and a full-spectrum botanical extract are priorities.",
+  "how_to_take": "Can be taken directly or mixed into a small amount of water. Follow your practitioner's dosing instructions for timing and frequency.",
+  "safety_note": "Cryptolepis is a potent botanical. Use only under practitioner guidance. May interact with medications metabolized by the liver. Not recommended during pregnancy or breastfeeding. Discontinue if you experience nausea or GI discomfort.",
+  "bundle_callout": {
+    "bundle_name": "Candida Protocol",
+    "bundle_slug": "candida-protocol",
+    "message": "Part of the Candida Protocol. Provides a different antimicrobial mechanism than oregano and berberine, reducing the chance of resistance during protocols."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Broad-spectrum immune support complements Cryptolepis during targeted protocols."
+    },
+    {
+      "slug": "n-a-c",
+      "name": "NAC",
+      "reason": "NAC supports glutathione production and liver detoxification, which can be valuable during intensive herbal protocols."
+    },
+    {
+      "slug": "liver-sauce-1",
+      "name": "Liver Sauce",
+      "reason": "Liver support helps the body process and clear herbal compounds efficiently."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

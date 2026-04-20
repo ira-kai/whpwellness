@@ -1,0 +1,45 @@
+{
+  "slug": "dhea-5-mg",
+  "name": "DHEA 5mg",
+  "price": 15.99,
+  "serving_size": "1 tablet",
+  "servings_per_container": 60,
+  "focus_keyword": "DHEA 5mg low dose hormone",
+  "meta_title": "DHEA 5mg | Low-Dose Hormone Precursor",
+  "meta_description": "DHEA 5mg tablets for precise hormone precursor support. A lower-dose option for women, sensitive individuals, or fine-tuned dosing protocols.",
+  "category": "Hormone Support",
+  "brand": "ojus",
+  "description": "Not everyone needs 25mg of DHEA. Women generally require lower doses than men, and some individuals are more sensitive to hormonal shifts. Because DHEA converts to downstream hormones, the right dose varies significantly between people, and overshooting can create its own problems. This 5mg tablet allows for careful titration: one tablet provides a gentle starting dose, and multiple tablets can be combined to reach any target between 5 and 25mg without going past what your body needs.",
+  "formulation_rationale": "DHEA is the body's upstream hormone precursor, converting into testosterone, estrogen, and other hormones as needed. The 5mg dose exists because granularity matters with hormone precursors. Women often reach optimal DHEA-S levels at doses well below what men need, and starting too high can cause unwanted androgenic effects. The tablet format allows for precise titration based on lab results and individual response. A clean, single-ingredient approach keeps the variable simple: one compound, one dose you can adjust.",
+  "benefit_bullets": [
+    "Precise dose control. 5mg increments allow for careful titration based on lab results and individual response, avoiding the overshooting that can come with larger doses.",
+    "Appropriate starting dose for women. Lower DHEA doses are often more suitable for women, who typically need less than men to reach optimal levels.",
+    "Supports healthy hormone balance. Even small doses of DHEA can meaningfully support age-related hormonal decline because it functions as an upstream precursor."
+  ],
+  "who_its_for": "For adults who need a lower starting dose of DHEA, particularly women or those sensitive to hormonal changes. Best used under practitioner guidance with regular lab monitoring of DHEA-S levels so the dose stays matched to your needs.",
+  "how_to_take": "In the morning, which aligns with your body's natural hormone production rhythm.",
+  "safety_note": "DHEA is a hormone precursor. Even at 5mg, it can influence testosterone and estrogen levels. Use with lab monitoring (DHEA-S). Not recommended for individuals with hormone-sensitive conditions without medical supervision. Not for use by individuals under 18.",
+  "bundle_callout": {
+    "bundle_name": "Her Desire",
+    "bundle_slug": "her-desire",
+    "message": "Part of the Her Desire bundle. Low-dose DHEA (5mg, appropriate for women) supports the hormonal substrate behind desire, paired with adaptogens and relaxation support."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "dhea-25-mg",
+      "name": "DHEA 25mg",
+      "reason": "Combine with the 25mg capsule for total doses that fall between standard increments (e.g., 30mg)."
+    },
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Supports the adrenal glands that naturally produce DHEA, addressing both the precursor and the source."
+    },
+    {
+      "slug": "estro-fem",
+      "name": "Estro-Fem",
+      "reason": "For women, low-dose DHEA and ERr 731 can work together to support hormone balance through complementary pathways."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

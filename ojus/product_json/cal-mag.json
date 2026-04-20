@@ -1,0 +1,46 @@
+{
+  "slug": "cal-mag",
+  "name": "Cal-Mag",
+  "price": 44.8,
+  "serving_size": "2 capsules",
+  "servings_per_container": 60,
+  "focus_keyword": "calcium magnesium multi-form chelate",
+  "meta_title": "Cal-Mag | Multi-Form Calcium + Magnesium",
+  "meta_description": "Cal-Mag delivers calcium and magnesium in four bioavailable forms each, including TRAACS chelates, for balanced mineral absorption across multiple transport pathways.",
+  "category": "Minerals",
+  "brand": "ojus",
+  "description": "Most calcium and magnesium supplements rely on a single mineral form. The problem with that approach is absorption. Each mineral form uses a specific transport pathway and works best at a particular gut pH. When you take a large dose of one form, that pathway saturates, and a meaningful portion passes through unabsorbed. Cal-Mag provides 200mg calcium and 175mg magnesium, each delivered across four distinct mineral forms. This spreads absorption across multiple transport mechanisms so more of what you take actually gets used.",
+  "formulation_rationale": "On the calcium side, hydroxyapatite provides calcium in its bone-matrix form. Citrate absorbs well in lower-acid environments. DimaCal (dicalcium malate) offers high elemental yield with good solubility. TRAACS bisglycinate chelate stays intact through the stomach, reducing free mineral release and GI irritation. The magnesium side mirrors this logic: DiMag malate supports energy production, citrate supports bowel tolerance, and TRAACS lysinate glycinate chelate provides a highly absorbable form with calming properties. The multi-form approach also reduces the GI discomfort that high-dose single-form minerals often cause, because no single pathway is being overwhelmed.",
+  "benefit_bullets": [
+    "Multi-pathway calcium absorption. Four forms (hydroxyapatite, citrate, malate, bisglycinate chelate) use different transport mechanisms so you are not saturating any single one.",
+    "Multi-pathway magnesium absorption. Four forms (malate, citrate, lysinate glycinate chelate) provide coverage across gut pH levels and transport systems.",
+    "Supports bone and muscle health. Calcium and magnesium in balanced ratio support skeletal integrity, muscle function, and nerve signaling.",
+    "Gentle on the stomach. Spreading the dose across multiple forms reduces the GI discomfort that commonly accompanies single-form mineral supplements."
+  ],
+  "who_its_for": "For adults looking to support bone density, muscle function, and mineral balance. Particularly worth considering if you have experienced stomach discomfort with other calcium or magnesium supplements in the past.",
+  "how_to_take": "With a meal for best absorption. If you take thyroid medication or tetracycline antibiotics, separate dosing by at least two hours.",
+  "safety_note": "If you take thyroid medication or tetracycline antibiotics, separate dosing by at least 2 hours, as calcium can interfere with absorption. High-dose magnesium may cause loose stools; this multi-form approach reduces but does not eliminate that possibility.",
+  "bundle_callout": {
+    "bundle_name": "Bone Strong",
+    "bundle_slug": "bone-strong",
+    "message": "Part of the Bone Strong bundle. Multi-form calcium and magnesium paired with Vital K+D for bone density support that goes beyond a basic calcium supplement."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium L-threonate crosses the blood-brain barrier for cognitive support, complementing Cal-Mag's systemic mineral coverage."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Fat-soluble nutrient absorption benefits from adequate mineral status, and both support cardiovascular function."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Magnesium and curcumin both support a healthy inflammatory response through complementary pathways."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

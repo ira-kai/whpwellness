@@ -1,0 +1,47 @@
+{
+  "slug": "redox-u",
+  "name": "Redox-U",
+  "price": 55,
+  "serving_size": "3 capsules",
+  "servings_per_container": null,
+  "focus_keyword": "polyphenol antioxidant supplement",
+  "meta_title": "Redox-U | Polyphenol Antioxidant Complex | Ojus",
+  "meta_description": "Quercetin, vitamin C, luteolin, tart cherry, and apple polyphenols in a multi-pathway antioxidant formula for cellular protection and inflammatory balance.",
+  "category": "antioxidant support",
+  "brand": "ojus",
+  "description": "Oxidative stress is not a single problem, and a single antioxidant is not a complete answer. Different polyphenols modulate different oxidative and inflammatory pathways, which is why a broad-spectrum approach tends to outperform any one compound on its own. Redox-U combines six complementary compounds: vitamin C and quercetin anchor the formula with well-studied redox activity, while luteolin, tart cherry, apple polyphenols, and celery seed extend coverage across additional inflammatory signaling pathways.",
+  "formulation_rationale": "Polyphenols differ in which oxidative and inflammatory pathways they modulate. Quercetin (500mg) and luteolin target overlapping but distinct NF-kB and mast cell stabilization pathways. Apple polyphenols contribute chlorogenic acid and phloridzin, which support vascular and metabolic antioxidant defenses. Tart cherry provides anthocyanins linked to post-exercise recovery and uric acid balance, while celery seed adds apigenin and related compounds that support healthy fluid balance. Vitamin C (500mg) serves dual roles: direct free radical scavenging and regeneration of other antioxidants, including quercetin itself. Together, these ingredients create layered redox coverage rather than relying on any single mechanism.",
+  "benefit_bullets": [
+    "Six compounds cover multiple oxidative stress pathways, providing more comprehensive cellular defense than any single antioxidant alone.",
+    "Quercetin, luteolin, and tart cherry each modulate inflammatory signaling through different mechanisms, reinforcing one another's effects.",
+    "Tart cherry anthocyanins and vitamin C support muscle comfort and recovery after physical activity.",
+    "Tart cherry and celery seed contribute to healthy uric acid metabolism and normal fluid balance.",
+    "Apple polyphenols provide chlorogenic acid and phloridzin, which support cardiovascular and metabolic health markers."
+  ],
+  "who_its_for": "People who want daily antioxidant coverage beyond a basic vitamin C, particularly those with active lifestyles, elevated oxidative stress, or a need to support healthy inflammatory balance across multiple pathways.",
+  "how_to_take": "Take with a meal. The polyphenols in this formula absorb better alongside food, and taking with a meal reduces any chance of stomach sensitivity.",
+  "safety_note": "Quercetin may interact with certain antibiotics (fluoroquinolones) and blood thinners. Celery seed is not recommended during pregnancy. If you take anticoagulant or antiplatelet medications, consult your provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Longevity",
+    "bundle_slug": "longevity",
+    "message": "Part of the Longevity bundle. Quercetin, CoQ10, PQQ, and tart cherry for mitochondrial support and antioxidant defense alongside NAD+, curcumin, and omega-3."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ and polyphenol antioxidants work on complementary aspects of cellular energy and repair."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin and quercetin modulate overlapping inflammatory pathways through different mechanisms, broadening coverage."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids address lipid-based inflammatory mediators, complementing the polyphenol-driven pathways in Redox-U."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

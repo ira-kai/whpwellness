@@ -1,0 +1,41 @@
+{
+  "slug": "melatonin",
+  "name": "Melatonin",
+  "price": 18.99,
+  "serving_size": "1 Tablet",
+  "servings_per_container": 100,
+  "focus_keyword": "sublingual melatonin 1mg",
+  "meta_title": "Melatonin | Sublingual 1mg, Fast-Dissolving",
+  "meta_description": "Sublingual melatonin (1mg) dissolves under the tongue in about a minute for rapid absorption. Physiological dose, no next-day grogginess. 100 tablets.",
+  "category": "Sleep",
+  "brand": "ojus",
+
+  "description": "A sublingual melatonin tablet that dissolves under your tongue in about a minute. Because it absorbs directly through the oral mucosa into the bloodstream, it bypasses digestion and first-pass liver metabolism entirely. That means faster onset compared to swallowed melatonin, more closely mimicking the natural rise in melatonin your body produces as light decreases in the evening.",
+
+  "formulation_rationale": "Most melatonin on the market comes as gummies, chewables, or capsules at doses of 3 to 10mg. Two things are worth understanding about that. First, your pineal gland naturally produces roughly 0.1 to 0.8mg of melatonin per cycle. Doses well above that range can overwhelm melatonin receptors, leading to next-day grogginess, vivid dreams, or, paradoxically, worse sleep over time. Second, whether you chew it or swallow it, melatonin that goes through the digestive tract has to survive the stomach, get absorbed through the intestinal wall, and pass through the liver before reaching circulation. Sublingual delivery sidesteps that entire process. The tablet dissolves under your tongue and enters the bloodstream within minutes through the mucosal tissue. The result is a cleaner signal at a dose your body recognizes.",
+
+  "benefit_bullets": [
+    "Sublingual delivery for rapid absorption. Dissolves under the tongue in about a minute, bypassing digestion and liver metabolism for faster onset than gummies, chewables, or capsules.",
+    "1mg physiological dose. Aligned with the body's natural melatonin production range, supporting sleep onset without the grogginess or receptor desensitization that higher doses can cause.",
+    "Over three months per bottle. 100 tablets at under $0.19 per night.",
+    "Clean, simple formula. One active ingredient. No unnecessary additives."
+  ],
+
+  "who_its_for": "People who have trouble falling asleep, deal with jet lag or shift work, or who have found that higher-dose melatonin products leave them feeling groggy the next morning.",
+  "how_to_take": "Place under your tongue and allow to dissolve completely, about one minute. Do not chew or swallow whole. Take 30 to 60 minutes before bed.",
+
+  "safety_note": "Melatonin may interact with blood pressure medications, immunosuppressants, and diabetes medications. Not recommended during pregnancy or breastfeeding without practitioner guidance.",
+
+  "bundle_callout": {
+    "bundle_name": "Can't Sleep",
+    "bundle_slug": "cant-sleep",
+    "message": "Part of the Can't Sleep bundle. Sublingual 1mg melatonin for circadian signaling, paired with magnesium for body relaxation and GABA + L-Theanine for mental quieting."
+  },
+
+  "pairs_well_with": [
+    {"slug": "mag-threonate", "name": "Mag-Threonate", "reason": "Magnesium L-Threonate crosses the blood-brain barrier, supporting relaxation and sleep quality alongside melatonin's onset signaling."},
+    {"slug": "calm", "name": "Calm", "reason": "GABA and L-Theanine for nervous system calming. Melatonin handles the circadian signal; Calm supports the mental wind-down."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

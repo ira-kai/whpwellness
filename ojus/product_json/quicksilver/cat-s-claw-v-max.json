@@ -1,0 +1,37 @@
+{
+  "slug": "cat-s-claw-v-max",
+  "name": "Cat's Claw V-Max",
+  "price": 75.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 20,
+  "focus_keyword": "liposomal cat's claw immune antimicrobial",
+  "meta_title": "Cat's Claw V-Max | Quicksilver Scientific Advanced Immune",
+  "meta_description": "Quicksilver Scientific's Cat's Claw V-Max is a higher-potency liposomal immune formula with olive leaf extract, propolis, vitamin D3, and monolaurin.",
+  "category": "Immune Support",
+  "brand": "quicksilver",
+
+  "description": "Cat's Claw V-Max is the higher-potency version of Quicksilver Scientific's cat's claw line. It delivers Uncaria tomentosa bark extract alongside olive leaf extract (standardized to 70% oleuropeins), propolis extract, monolaurin, lemon balm, and a higher dose of vitamin D3 (62.5 mcg, 313% DV). Where Cat's Claw Elite is designed for everyday immune maintenance, V-Max is built for periods of increased immune demand.",
+
+  "why_we_carry_it": "There are situations where daily-dose immune support is not enough and a practitioner wants to push the immune response harder. V-Max fills that role. The olive leaf extract standardized to 70% oleuropeins is a potent antimicrobial with research supporting activity against a range of pathogens. Propolis adds broad-spectrum antimicrobial and anti-inflammatory activity. The higher vitamin D3 dose (62.5 mcg vs. 25 mcg in Elite) reflects the immune-activating role that vitamin D plays, particularly during acute immune challenges. All of this is wrapped in Quicksilver's phospholipid delivery for absorption that standard capsules cannot match. We carry both the Elite and V-Max because they serve different clinical situations.",
+
+  "benefit_bullets": [
+    "Higher-potency immune formula. More concentrated than Cat's Claw Elite, designed for periods of increased immune demand rather than daily maintenance.",
+    "Olive leaf extract at 70% oleuropeins. One of the most potent standardizations available, with research supporting broad-spectrum antimicrobial activity.",
+    "Propolis extract. A natural antimicrobial compound produced by bees with documented anti-inflammatory and immune-stimulating properties.",
+    "Vitamin D3 at 62.5 mcg (2,500 IU). A higher immune-support dose for acute situations, delivered in the same liposomal system as the botanical compounds."
+  ],
+
+  "who_its_for": "People working with a practitioner during periods of active immune challenge who need stronger support than a daily maintenance formula. Not intended as an everyday supplement for most people.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth as directed by your healthcare provider. Hold in the mouth for 30 seconds before swallowing. Dosing frequency depends on your practitioner's protocol.",
+
+  "safety_note": "This is a higher-potency immune formula intended for practitioner-guided use. Cat's claw may interact with blood pressure medications, anticoagulants, and immunosuppressants. Olive leaf extract can lower blood pressure and blood sugar. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "cat-s-claw-elite", "name": "Cat's Claw Elite", "reason": "Some practitioners use Elite for daily maintenance and step up to V-Max during acute immune challenges."},
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Glutathione supports immune cell function and the detoxification demands that increase during active immune protocols."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

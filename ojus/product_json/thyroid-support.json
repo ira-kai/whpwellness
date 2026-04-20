@@ -1,0 +1,47 @@
+{
+  "slug": "thyroid-support",
+  "name": "Thyroid Support",
+  "price": 45.99,
+  "serving_size": "4 capsules",
+  "servings_per_container": null,
+  "focus_keyword": "thyroid support supplement",
+  "meta_title": "Thyroid Support | Comprehensive Thyroid Formula | Ojus",
+  "meta_description": "NAC, L-tyrosine, ashwagandha, selenium, iodine, zinc, guggul, and key vitamins for multi-layer thyroid support: synthesis, conversion, and tissue protection.",
+  "category": "thyroid and endocrine support",
+  "brand": "ojus",
+  "description": "Thyroid hormone production is a multi-step process, and each step has distinct nutritional requirements. Synthesis needs tyrosine and iodine. Conversion of T4 to active T3 depends on selenium. The reaction that incorporates iodine generates significant hydrogen peroxide, which means the thyroid tissue itself needs robust antioxidant protection just to do its normal job. Most thyroid supplements address one or two of these layers. This formula addresses all of them: amino acid precursors, essential trace minerals, adaptogenic herbs, and antioxidant vitamins in a single coordinated formula.",
+  "formulation_rationale": "L-tyrosine (400mg) is the amino acid backbone of both T4 and T3. Iodine (200mcg) is incorporated into tyrosine residues on thyroglobulin by thyroid peroxidase (TPO), a reaction that generates significant hydrogen peroxide. This is where the antioxidant components become critical: NAC (500mg) supports glutathione production to protect thyroid cells from this oxidative byproduct, vitamin C (200mg) provides additional antioxidant defense, and selenium (200mcg as SelenExcell) is required by both glutathione peroxidase (which neutralizes H2O2 in thyroid tissue) and the deiodinase enzymes that convert T4 to active T3. Zinc (20mg, TRAACS chelate) is needed for TSH receptor function and T3 binding to nuclear receptors. Ashwagandha (300mg, 1.5% withanolides) has been studied for its ability to support healthy TSH and T4 levels. Guggul (150mg, 2.5% guggulsterones) supports thyroid hormone metabolism and may enhance T4-to-T3 conversion. Turmeric (100mg) and vitamins A and E provide additional antioxidant and receptor-level support.",
+  "benefit_bullets": [
+    "L-tyrosine and iodine provide the two essential building blocks the thyroid gland needs to produce T4 and T3.",
+    "Selenium (SelenExcell, 200mcg) is a required cofactor for the deiodinase enzymes that convert T4 to active T3, and guggul supports this conversion process.",
+    "NAC, vitamin C, selenium, and vitamin E help neutralize the hydrogen peroxide generated during normal thyroid hormone production, protecting thyroid tissue from oxidative damage.",
+    "Ashwagandha (1.5% withanolides) and zinc (TRAACS chelate) support healthy TSH levels and thyroid axis signaling.",
+    "Addresses synthesis, conversion, tissue protection, and receptor sensitivity simultaneously rather than targeting a single aspect of thyroid function."
+  ],
+  "who_its_for": "People seeking comprehensive nutritional support for thyroid gland function, particularly those with suboptimal thyroid markers, nutrient insufficiencies that affect thyroid metabolism, or those who want to support their thyroid as part of a broader endocrine health strategy.",
+  "how_to_take": "Take with a meal in the morning. If you take thyroid medication (levothyroxine, methimazole), separate your doses by at least 4 hours, as several ingredients in this formula can affect thyroid medication absorption.",
+  "safety_note": "Contains iodine (200mcg). Excessive iodine intake can worsen certain thyroid conditions, particularly Hashimoto's thyroiditis. If you have an autoimmune thyroid condition, consult your provider before use. Ashwagandha and guggul may interact with thyroid medications (levothyroxine, methimazole). Do not take within 4 hours of thyroid medication.",
+  "bundle_callout": {
+    "bundle_name": "Thyroid Reset",
+    "bundle_slug": "thyroid-reset",
+    "message": "Part of the Thyroid Reset bundle. Every ingredient targets a specific step in the thyroid hormone pathway, paired with iron and Vital K+D."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "vitamin-d",
+      "name": "Vitamin D",
+      "reason": "Vitamin D receptors are present on thyroid cells, and adequate vitamin D status supports healthy immune regulation relevant to thyroid function."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids support the inflammatory balance that influences thyroid gland health and hormone receptor sensitivity."
+    },
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Thyroid and adrenal function are closely linked. Supporting adrenal health can improve thyroid hormone utilization."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

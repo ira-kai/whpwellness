@@ -1,0 +1,47 @@
+{
+  "slug": "vision-pro",
+  "name": "Vision Pro",
+  "price": 90,
+  "serving_size": "2 capsules",
+  "servings_per_container": null,
+  "focus_keyword": "eye vision supplement lutein zeaxanthin",
+  "meta_title": "Vision Pro | Comprehensive Eye Support | Ojus",
+  "meta_description": "Lutein (30mg), zeaxanthin, bilberry, taurine, NAC, ginkgo, and zinc for macular support, lens clarity, retinal antioxidant defense, and ocular blood flow.",
+  "category": "eye and vision support",
+  "brand": "ojus",
+  "description": "The eye is one of the most metabolically active and oxidatively stressed tissues in your body. Constant light exposure, high oxygen consumption, and unique structural demands create a biochemical environment that requires specialized nutritional support. Vision Pro addresses the visual system at multiple levels: macular pigment density with lutein and zeaxanthin, lens clarity with NAC, retinal antioxidant defense with ALA and taurine, and ocular blood flow with bilberry and ginkgo. Zinc, quercetin, and lycopene round out the formula.",
+  "formulation_rationale": "Lutein (30mg) and zeaxanthin (1.5mg) are the only carotenoids that concentrate in the macula, where they filter blue light and quench singlet oxygen. Taurine (400mg) is the most abundant amino acid in the retina and supports photoreceptor cell membrane stability. NAC (200mg) is a glutathione precursor critical for maintaining lens transparency. ALA (150mg) is a universal antioxidant that regenerates other antioxidants (including glutathione and vitamin C) in ocular tissue. Bilberry (150mg, 36% anthocyanosides) supports microcirculation in the delicate retinal vasculature and contributes additional antioxidant protection. Ginkgo (60mg, 22% flavonol glycosides) further supports ocular blood flow. Quercetin (100mg) adds broad-spectrum antioxidant and mast cell stabilizing properties. Lycopene (6mg) provides additional carotenoid protection. Zinc (15mg, TRAACS chelate) is essential for retinal metabolism, particularly the conversion of retinol to retinal in the visual cycle.",
+  "benefit_bullets": [
+    "Lutein (30mg) and zeaxanthin concentrate in the macula, filtering high-energy blue light and protecting photoreceptor cells from oxidative damage.",
+    "NAC supports glutathione levels in the lens, the primary antioxidant defense maintaining lens transparency over time.",
+    "Taurine stabilizes photoreceptor cell membranes, while zinc is essential for the visual cycle enzyme that converts retinol to retinal.",
+    "Bilberry anthocyanosides and ginkgo flavonol glycosides support microcirculation in the retinal vasculature.",
+    "ALA, quercetin, lycopene, and bilberry provide antioxidant protection through different mechanisms, addressing the intense oxidative stress the eye endures daily."
+  ],
+  "who_its_for": "People concerned about long-term eye health, those with significant screen time or blue light exposure, or anyone seeking comprehensive nutritional support for visual acuity, macular health, and lens clarity as they age.",
+  "how_to_take": "Take with a meal containing fat. Lutein and zeaxanthin are fat-soluble carotenoids that absorb significantly better alongside dietary fat.",
+  "safety_note": "Ginkgo may interact with blood thinners and antiplatelet medications. NAC may interact with nitroglycerin. If you take anticoagulants or cardiovascular medications, consult your provider before use. High-dose lutein may cause harmless, temporary yellowing of the skin (carotenodermia).",
+  "bundle_callout": {
+    "bundle_name": "Eye Health",
+    "bundle_slug": "eye-health",
+    "message": "Part of the Eye Health bundle. Comprehensive ocular antioxidant support beyond AREDS2, paired with omega-3 DHA for retinal membrane integrity."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "DHA is a major structural component of retinal photoreceptor membranes, complementing the protective compounds in Vision Pro."
+    },
+    {
+      "slug": "redox-u",
+      "name": "Redox-U",
+      "reason": "Additional quercetin and vitamin C extend systemic antioxidant protection that benefits ocular tissue."
+    },
+    {
+      "slug": "vitamin-d",
+      "name": "Vitamin D",
+      "reason": "Vitamin D receptors are present in ocular tissue, and adequate vitamin D status supports healthy immune and inflammatory balance in the eye."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

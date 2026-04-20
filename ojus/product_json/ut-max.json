@@ -1,0 +1,46 @@
+{
+  "slug": "ut-max",
+  "name": "UT Max",
+  "price": 43,
+  "serving_size": "1 capsule",
+  "servings_per_container": 30,
+  "focus_keyword": "urinary tract support supplement",
+  "meta_title": "UT Max | Urinary Tract Support Formula | Ojus",
+  "meta_description": "Cranberry extract (36mg PACs), dandelion leaf, and hibiscus flower for multi-mechanism urinary tract support: bacterial clearance, urine flow, and pH balance.",
+  "category": "urinary tract support",
+  "brand": "ojus",
+  "description": "Urinary tract health depends on three things happening at once: preventing bacterial adhesion to the uroepithelium, maintaining adequate urine flow to flush organisms, and supporting an environment that discourages microbial colonization. Most cranberry supplements address the first mechanism and stop there. UT Max combines cranberry extract standardized to 36mg proanthocyanidins with dandelion leaf for its natural diuretic properties and hibiscus flower for its antimicrobial and pH-modulating effects. Three botanicals, three complementary mechanisms.",
+  "formulation_rationale": "Cranberry extract (120mg Anthocran, providing 36mg proanthocyanidins) contains A-type PACs that interfere with the fimbrial adhesion mechanism bacteria use to attach to urinary tract walls. Dandelion leaf (225mg) has traditional and research-supported use as a natural diuretic, increasing urine volume and promoting mechanical flushing of the urinary tract. Hibiscus flower (200mg) contributes organic acids that support urinary pH and has demonstrated antimicrobial properties in research. The combination creates a multi-mechanism approach: block adhesion, flush the system, and make the environment less favorable for microbial growth.",
+  "benefit_bullets": [
+    "Cranberry A-type proanthocyanidins interfere with bacterial adhesion to the uroepithelium, making it harder for organisms to establish colonies.",
+    "Dandelion leaf supports natural diuresis, increasing urine volume to help mechanically flush the urinary tract.",
+    "Hibiscus flower contributes organic acids and antimicrobial compounds that support a urinary environment less favorable to microbial growth.",
+    "Anthocran cranberry extract provides a consistent 36mg of proanthocyanidins per serving, the specific compounds responsible for cranberry's urinary tract benefits."
+  ],
+  "who_its_for": "People seeking daily urinary tract maintenance, or those prone to recurrent urinary discomfort who want a multi-mechanism botanical approach rather than relying on cranberry alone.",
+  "how_to_take": "Can be taken with or without food. Drink plenty of water throughout the day, as hydration supports the flushing mechanism that the dandelion leaf in this formula promotes.",
+  "safety_note": "Dandelion has diuretic properties. Ensure adequate hydration. May interact with lithium, diuretic medications, or blood sugar-lowering agents. Cranberry may interact with warfarin. If you take any of these medications, consult your provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Sexually Active & Smart",
+    "bundle_slug": "sexually-active-and-smart",
+    "message": "Part of the Sexually Active & Smart bundle. Cranberry PACs prevent E. coli adhesion to the urinary tract, paired with antimicrobial support and vaginal probiotics."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "vitamin-d",
+      "name": "Vitamin D",
+      "reason": "Vitamin D supports immune function in mucosal tissues, including the urinary tract lining."
+    },
+    {
+      "slug": "saccharomyces",
+      "name": "Saccharomyces",
+      "reason": "S. boulardii supports overall microbial balance, which can influence urogenital health through the gut-urinary axis."
+    },
+    {
+      "slug": "redox-u",
+      "name": "Redox-U",
+      "reason": "Quercetin and vitamin C support immune and antioxidant defenses that complement targeted urinary tract support."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

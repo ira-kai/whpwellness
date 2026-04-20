@@ -1,0 +1,43 @@
+{
+  "slug": "restorative-powder",
+  "name": "Restorative Powder",
+  "price": 110,
+  "serving_size": "2 scoops (33.8g)",
+  "servings_per_container": 14,
+  "focus_keyword": "detox meal replacement supplement",
+  "meta_title": "Restorative Powder | Detox Meal Support | Ojus",
+  "meta_description": "15g hypoallergenic rice protein, 8g fiber from 7 sources, glycine, and magnesium citrate. Clean meal support for detox and GI restoration protocols.",
+  "category": "detox and digestive support",
+  "brand": "ojus",
+  "description": "During a detox or elimination protocol, the gut needs support from multiple directions at once, but many of the foods you would normally rely on are temporarily off the table. Restorative Powder provides a nutritional foundation for those periods: 15g of hypoallergenic rice protein, 8g of fiber from seven diverse sources, plus glycine and magnesium citrate to support phase II detoxification and gut motility. At 120 calories per serving, it delivers meaningful nutrition without overtaxing a compromised digestive system.",
+  "formulation_rationale": "Rice protein provides a hypoallergenic amino acid source that avoids common triggers (dairy, soy, gluten) while still delivering the building blocks for hepatic conjugation reactions. The fiber blend is deliberately diverse: resistant tapioca dextrin and Sunfiber (PHGG) feed beneficial bacteria selectively, glucomannan supports bile acid binding, flax adds soluble and insoluble fiber, and larch arabinogalactan acts as both a prebiotic and an immune-modulating polysaccharide. Fig and prune contribute natural sorbitol for gentle motility support. Glycine (750mg) is a direct substrate for glutathione synthesis and phase II glycine conjugation. Magnesium citrate (750mg) supports both bowel regularity and the hundreds of enzymatic reactions involved in detoxification. The formula brings all of this together in a single serving so you are not juggling six separate supplements during a protocol that already requires attention.",
+  "benefit_bullets": [
+    "Delivers protein, fiber, and key detox cofactors in a single serving, simplifying structured elimination or cleanse protocols.",
+    "Seven fiber sources (resistant dextrin, flax, PHGG, glucomannan, fig, prune, larch arabinogalactan) feed different bacterial populations and support different aspects of GI function.",
+    "Glycine is a direct conjugation substrate for phase II liver detoxification, and the amino acid profile from rice protein provides additional hepatic support.",
+    "Free from dairy, soy, gluten, and common allergens, making it appropriate for sensitive individuals or those on elimination diets.",
+    "Magnesium citrate and natural sorbitol from fig and prune support comfortable, consistent bowel regularity."
+  ],
+  "who_its_for": "People following a structured detox, elimination diet, or GI restoration protocol who need clean, hypoallergenic meal support. Particularly relevant when common protein and fiber sources are temporarily restricted and you need a single formula that covers protein, prebiotic fiber, and detoxification cofactors.",
+  "how_to_take": "Mix two scoops into water or a smoothie. Can be used as a meal replacement or between meals. Mix thoroughly and drink promptly, as the fiber blend expands in liquid.",
+  "safety_note": "Glucomannan expands significantly in liquid. Always mix thoroughly and drink promptly. Not recommended for individuals with esophageal narrowing or swallowing difficulties. The fiber content may cause temporary bloating in sensitive individuals; consider starting with one scoop.",
+  "bundle_callout": null,
+  "pairs_well_with": [
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "GI Rebuild supports mucosal lining repair while Restorative Powder provides the nutritional foundation and prebiotic support."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Spore-based probiotics complement the prebiotic fiber blend, supporting a more complete microbiome restoration strategy."
+    },
+    {
+      "slug": "aloe",
+      "name": "Aloe",
+      "reason": "Aloe supports gut soothing and mucosal comfort alongside the restorative nutrition this powder provides."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

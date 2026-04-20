@@ -1,0 +1,46 @@
+{
+  "slug": "l-carnitine",
+  "name": "L-Carnitine",
+  "price": 52.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "l-carnitine fatty acid metabolism supplement",
+  "meta_title": "L-Carnitine | Fatty Acid Transport & Energy Support",
+  "meta_description": "500mg L-Carnitine per capsule. Supports mitochondrial fatty acid transport, cellular energy production, and healthy fat metabolism.",
+  "category": "Energy & Metabolism",
+  "brand": "ojus",
+  "description": "Your mitochondria can only burn fat for fuel if fatty acids can get inside them. L-Carnitine is the molecule that makes that transport possible. It shuttles long-chain fatty acids across the inner mitochondrial membrane, the rate-limiting step in fat oxidation. Without adequate carnitine, that process slows. L-Carnitine delivers 500mg per capsule in a single-ingredient format. One capsule daily.",
+  "formulation_rationale": "L-Carnitine is a conditionally essential amino acid derivative that serves as the transport molecule for long-chain fatty acids across the inner mitochondrial membrane. While the body synthesizes carnitine from lysine and methionine, synthesis depends on adequate iron, vitamin C, B6, and niacin, and many people fall short of one or more of those cofactors. Endogenous production also declines with age. Vegetarians and vegans are particularly susceptible to lower carnitine levels, since the richest dietary sources are red meat and dairy. Beyond fatty acid transport, carnitine supports mitochondrial membrane integrity by shuttling toxic acyl groups out of the mitochondrial matrix, protecting against metabolic byproduct accumulation. The single-ingredient format keeps it clean and flexible, allowing precise dosing and easy stacking with other metabolic or energy support products.",
+  "benefit_bullets": [
+    "Supports mitochondrial fatty acid transport. L-Carnitine is the shuttle molecule that carries long-chain fatty acids across the inner mitochondrial membrane for beta-oxidation, the rate-limiting step in fat metabolism.",
+    "Promotes efficient energy production from fat. By facilitating that transport step, carnitine supports your body's ability to use stored fat as a fuel source.",
+    "Protects mitochondrial function. Carnitine helps export toxic acyl groups from the mitochondrial matrix, reducing metabolic byproduct accumulation and supporting mitochondrial membrane integrity.",
+    "Addresses common insufficiencies. Endogenous carnitine production declines with age and depends on multiple cofactors. Vegetarians, vegans, and older adults are especially likely to benefit from supplementation."
+  ],
+  "who_its_for": "People seeking metabolic and energy support, particularly those focused on healthy body composition, exercise performance, or fat metabolism. Also valuable for vegetarians, vegans, and older adults whose carnitine levels tend to be lower.",
+  "how_to_take": "Can be taken with or without food. If you exercise regularly, taking it in the morning or before activity works well.",
+  "safety_note": "L-Carnitine is generally well-tolerated. People with hypothyroidism should be aware that carnitine may interfere with thyroid hormone action at high doses. If you are on thyroid medication, consult your healthcare provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Get Fit (Her)",
+    "bundle_slug": "get-fit-her",
+    "message": "Part of the Get Fit (Her) bundle. Shuttles fatty acids into mitochondria for energy production, supporting body composition alongside clean protein, magnesium, and active B vitamins."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ is essential for the electron transport chain that completes the energy production cycle carnitine initiates by delivering fatty acids to the mitochondria."
+    },
+    {
+      "slug": "amp-k",
+      "name": "AMP-K",
+      "reason": "AMPK activation upregulates fat oxidation pathways, making carnitine's fatty acid shuttle function even more relevant."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Provides the long-chain fatty acids (EPA, DHA) that carnitine transports into mitochondria, supporting both structural and energy metabolism."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

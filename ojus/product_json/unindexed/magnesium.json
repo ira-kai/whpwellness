@@ -1,0 +1,42 @@
+{
+  "slug": "magnesium",
+  "name": "Magnesium",
+  "price": 34.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 60,
+  "focus_keyword": "multi-form chelated magnesium capsules",
+  "meta_title": "Magnesium | Triple-Form Chelated (235mg)",
+  "meta_description": "Three chelated magnesium forms in one capsule: malate for energy, citrate for absorption, Albion glycinate for calm. Broader coverage than any single form.",
+  "category": "Minerals",
+  "brand": "ojus",
+
+  "description": "235mg of magnesium from three different chelated forms: DiMagnesium Malate, Magnesium Citrate, and Albion Magnesium Lysinate Glycinate Chelate. Each form absorbs through a different pathway and has a slightly different tissue affinity. Rather than choosing one form and hoping it covers everything, this formula uses all three.",
+
+  "formulation_rationale": "If you've ever looked into magnesium supplements, you've probably encountered the question of which form to take. The reason that question exists is that different forms genuinely do different things. Magnesium malate includes malic acid, a direct intermediate in the Krebs cycle, which makes it a good choice for energy production and muscle comfort. Magnesium citrate is one of the most consistently well-absorbed oral forms. And magnesium lysinate glycinate chelate (Albion Minerals) stays intact through the stomach, giving it the lowest GI side effect profile of any form. Most products pick one. This formula combines all three so they draw from multiple absorption pathways at once rather than saturating a single channel. It's a practical approach for people who want one magnesium product instead of three.",
+
+  "benefit_bullets": [
+    "Three chelated forms, three absorption pathways. Malate, citrate, and Albion glycinate each use different transport mechanisms, reducing the bottleneck effect of single-form magnesium.",
+    "Malic acid via DiMagnesium Malate. Malic acid is a direct Krebs cycle intermediate, supporting cellular energy production and muscle comfort.",
+    "Albion lysinate glycinate chelate. One of the most studied chelated mineral forms, with strong data on bioavailability and tolerability due to the chelate staying intact through the stomach.",
+    "Capsule format. Two capsules per serving, 60 servings per bottle."
+  ],
+
+  "who_its_for": "People who want daily magnesium coverage from a single product rather than choosing between malate, citrate, and glycinate. Useful for energy, muscle function, stress, and general mineral support.",
+  "how_to_take": "Can be taken with or without food. If using for sleep support, take in the evening.",
+
+  "safety_note": "Well tolerated at recommended doses. If you take blood pressure or heart rhythm medications, consult your healthcare provider, as magnesium may enhance their effects.",
+
+  "bundle_callout": {
+    "bundle_name": "Her Daily Foundation",
+    "bundle_slug": "her-daily-foundation",
+    "message": "Part of the Her Daily Foundation bundle. Triple-form chelated magnesium for sleep, mood, muscle function, and stress response alongside a methylated multi, omega-3, and iron."
+  },
+
+  "pairs_well_with": [
+    {"slug": "mag-threonate", "name": "Mag-Threonate", "reason": "Magnesium L-Threonate is the only form shown to cross the blood-brain barrier (Slutsky et al., 2010, Neuron). This capsule covers systemic magnesium; Mag-Threonate targets the brain specifically."},
+    {"slug": "magnesium-powder", "name": "Magnesium Powder", "reason": "Albion bisglycinate powder (300mg) for days when you want a higher dose or prefer mixing into a drink."},
+    {"slug": "cal-mag", "name": "Cal-Mag", "reason": "If you also need calcium, Cal-Mag provides multi-form calcium and magnesium together."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

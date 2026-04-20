@@ -1,0 +1,46 @@
+{
+  "slug": "inflamaq",
+  "name": "InflamaQ",
+  "price": 49.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "quercetin inflammatory response supplement",
+  "meta_title": "InflamaQ | Quercetin, Nettle & Bromelain Formula",
+  "meta_description": "Quercetin, stinging nettle, vitamin C, bromelain, and NAC for balanced inflammatory and histamine response. Five targeted compounds, two capsules.",
+  "category": "Inflammatory Response",
+  "brand": "ojus",
+  "description": "Inflammation is a necessary process. The problem is not inflammation itself, but inflammation that becomes excessive or poorly regulated. InflamaQ combines quercetin, stinging nettle, vitamin C, bromelain, and NAC, five compounds that work across overlapping pathways to help your body manage inflammatory and histamine signaling with precision rather than blunt suppression. Two capsules daily.",
+  "formulation_rationale": "Quercetin (400mg) stabilizes mast cells and inhibits the release of histamine and pro-inflammatory cytokines, making it one of the most versatile flavonoids for inflammatory modulation. Stinging nettle (400mg) has a long clinical history of supporting seasonal comfort through its effects on histamine receptors and inflammatory prostaglandins. Vitamin C (300mg) works synergistically with quercetin, recycling it back to its active form and supporting its bioavailability. Bromelain (100mg, 240 GDU) is a proteolytic enzyme that supports healthy tissue response and also enhances quercetin absorption across the gut lining. NAC (50mg) contributes glutathione precursor support, helping manage the oxidative stress that accompanies inflammatory activation. The synergies are intentional: bromelain increases quercetin uptake, vitamin C regenerates quercetin, and nettle complements quercetin's histamine effects through a different receptor pathway.",
+  "benefit_bullets": [
+    "Supports mast cell stability. Quercetin (400mg) helps regulate histamine release and inflammatory cytokine production at the cellular level.",
+    "Promotes seasonal comfort. Stinging nettle (400mg) supports healthy histamine receptor activity and prostaglandin balance through mechanisms that complement quercetin.",
+    "Enhances quercetin bioavailability. Bromelain (100mg, 240 GDU) increases quercetin absorption, and vitamin C (300mg) recycles quercetin back to its active form. Both are included because quercetin on its own is poorly absorbed.",
+    "Supports antioxidant defense during inflammatory activation. NAC provides glutathione precursor support to manage the oxidative stress that accompanies your body's inflammatory response."
+  ],
+  "who_its_for": "People looking for support with seasonal respiratory comfort, histamine sensitivity, or a healthy inflammatory response. Particularly relevant during seasonal transitions or for those who want to support balanced immune reactivity year-round.",
+  "how_to_take": "Take with a meal. Bromelain in this formula also enhances quercetin absorption when taken alongside food.",
+  "safety_note": "Bromelain may enhance the effects of blood-thinning medications. Quercetin can interact with certain antibiotics (fluoroquinolones) and cyclosporine. Consult your healthcare provider if you are on anticoagulant therapy or immunosuppressive medications.",
+  "bundle_callout": {
+    "bundle_name": "Joint & Movement",
+    "bundle_slug": "joint-and-movement",
+    "message": "Part of the Joint & Movement bundle. Quercetin, bromelain, and stinging nettle modulate inflammation through different pathways than curcumin or omega-3."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Additional vitamin C, zinc, and NAC to support broader immune function alongside InflamaQ's targeted inflammatory response support."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "EPA and DHA support the production of specialized pro-resolving mediators (SPMs) that help the body resolve inflammation naturally."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin works through NF-kB and COX-2 pathways, complementing quercetin's mast cell and histamine-focused mechanisms."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

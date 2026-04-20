@@ -1,0 +1,47 @@
+{
+  "slug": "vira-calm",
+  "name": "Vira-Calm",
+  "price": 43.99,
+  "serving_size": "2 capsules",
+  "servings_per_container": null,
+  "focus_keyword": "immune support viral response supplement",
+  "meta_title": "Vira-Calm | Immune & Viral Response Support | Ojus",
+  "meta_description": "Vitamins A and C, elderberry, astragalus, andrographis, echinacea, L-lysine, and zinc for multi-pathway immune support during seasonal and acute challenges.",
+  "category": "immune support",
+  "brand": "ojus",
+  "description": "Your immune system is not a single mechanism. It is a coordinated network of innate and adaptive responses, and supporting just one node of that network often leaves gaps. Vira-Calm addresses multiple arms of the immune response simultaneously. Vitamin A, vitamin C, and zinc provide foundational immune nutrition. Elderberry, astragalus, andrographis, and echinacea each activate different branches of immune defense. L-lysine adds targeted support for managing the body's response to certain viral challenges.",
+  "formulation_rationale": "Vitamin A (4500mcg) maintains mucosal barrier integrity, the body's first line of defense. Vitamin C (300mg from ascorbic acid and acerola) supports neutrophil function and acts as an antioxidant during immune activation, when oxidative stress increases dramatically. Zinc (4mg) is essential for T-cell maturation and function. Astragalus (250mg) is an adaptogenic immune modulator that supports both innate and adaptive immunity. European elderberry (250mg, 13% anthocyanins) has been studied for its ability to support healthy cytokine signaling. Andrographis (200mg, 30% andrographolides) supports immune activation during acute challenges. Echinacea (100mg, 4% phenols) stimulates macrophage and NK cell activity. L-lysine (100mg) competes with arginine for absorption, which is relevant to certain viral replication cycles. Pantothenic acid (10mg) and B12 (2.5mcg) support the energy demands of an activated immune system. Each ingredient was chosen for a specific role in the immune response, so the formula provides layered support rather than redundant doses of similar compounds.",
+  "benefit_bullets": [
+    "Elderberry, astragalus, andrographis, and echinacea each stimulate different branches of innate and adaptive immunity, providing layered support rather than a single-pathway approach.",
+    "Vitamin A maintains the structural integrity of mucosal tissues in the respiratory and GI tracts, your body's first physical barrier against pathogens.",
+    "Vitamin C and elderberry anthocyanins help manage the oxidative burst that accompanies immune cell activation.",
+    "L-lysine competes with arginine, an amino acid utilized in certain viral replication pathways, adding targeted support.",
+    "Zinc, vitamin C, and vitamin A address the most common nutritional bottlenecks in immune function."
+  ],
+  "who_its_for": "People seeking robust immune support during seasonal challenges, acute immune stressors, or periods of increased exposure. Appropriate as short-term intensive support when your body's defenses are under greater demand.",
+  "how_to_take": "Take with a meal. Vitamin A is fat-soluble and absorbs better with dietary fat, and taking zinc with food reduces the chance of stomach discomfort.",
+  "safety_note": "Vitamin A at 4500mcg is a meaningful dose. Do not combine with other high-dose vitamin A supplements without calculating total intake. Not recommended during pregnancy due to vitamin A content. Andrographis may interact with blood pressure and blood sugar medications. Echinacea is generally avoided in autoimmune conditions. Intended for short-term or periodic use rather than indefinite daily supplementation.",
+  "bundle_callout": {
+    "bundle_name": "Immune Season",
+    "bundle_slug": "immune-season",
+    "message": "Part of the Immune Season bundle. Acute-response botanicals (elderberry, andrographis, echinacea) for when you feel something coming on."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "vitamin-d",
+      "name": "Vitamin D",
+      "reason": "Vitamin D is a critical immune modulator that supports both innate and adaptive immune responses, complementing the immune-activating botanicals in Vira-Calm."
+    },
+    {
+      "slug": "zinc",
+      "name": "Zinc",
+      "reason": "Additional zinc can further support T-cell function and immune enzyme activity during acute immune challenges."
+    },
+    {
+      "slug": "redox-u",
+      "name": "Redox-U",
+      "reason": "Quercetin supports mast cell stability and has its own antiviral properties, adding another layer to immune support."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

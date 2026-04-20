@@ -1,0 +1,47 @@
+{
+  "slug": "gi-restore",
+  "name": "GI Restore",
+  "price": 87.99,
+  "serving_size": "2 scoops",
+  "servings_per_container": 14,
+  "focus_keyword": "GI restore meal replacement gut support",
+  "meta_title": "GI Restore | Gut Support Meal Replacement Powder",
+  "meta_description": "GI Restore delivers 19g protein and 200 calories from rice protein and flaxseed, with 2.5g L-Glutamine and MCTs. Built for gut restoration protocols.",
+  "category": "Gut Health",
+  "brand": "ojus",
+  "description": "During gut restoration, nutrition needs to be both supportive and non-provocative. That is a harder balance than it sounds. Your body needs calories and protein to heal, but the foods that typically provide those can be the same ones stressing a compromised digestive system. GI Restore is a meal replacement powder built specifically for this situation. It delivers 200 calories and 19g protein per serving from rice protein and flaxseed (a hypoallergenic base that avoids dairy, soy, gluten, and eggs), with L-Glutamine (2.5g) and MCTs for targeted intestinal support.",
+  "formulation_rationale": "Rice protein and flaxseed are chosen because they avoid the common triggers that challenge compromised digestive systems. L-Glutamine at 2.5g is the primary fuel source for enterocytes, directly supporting mucosal repair and barrier integrity. MCTs bypass the standard fat digestion pathway (they do not require bile acid emulsification), providing energy without demanding anything from a stressed digestive system. The 2-scoop serving size reflects the higher nutritional needs of individuals in active gut repair protocols compared to casual meal replacement use. Every ingredient is selected to nourish without adding to the digestive burden.",
+  "benefit_bullets": [
+    "Built for gut restoration. Every ingredient is chosen to support intestinal recovery while avoiding common allergens and irritants.",
+    "L-Glutamine for mucosal repair. 2.5g of the primary fuel for intestinal epithelial cells, supporting barrier integrity and cell turnover.",
+    "Hypoallergenic protein base. Rice protein avoids the dairy, soy, gluten, and egg proteins that can challenge a compromised gut.",
+    "Easy-to-digest fats. MCTs absorb directly through the portal vein without requiring bile acids, reducing digestive workload.",
+    "Protocol-ready nutrition. 200 calories and 19g protein per serving provide meaningful nourishment during elimination diets and gut healing protocols."
+  ],
+  "who_its_for": "For adults in active gut restoration protocols who need clean, easily digestible nutrition that supports intestinal healing. Commonly used during elimination diets, post-antibiotic recovery, or structured GI repair programs where food choices are limited and nutrient needs are high.",
+  "how_to_take": "Mix two scoops into water, milk, or a smoothie. Can be used as a meal replacement or between meals.",
+  "safety_note": "Contains flaxseed. If you are on blood-thinning medications, note that flaxseed contains ALA omega-3 which may have mild antiplatelet effects at high doses. If you have known flax allergy, do not use.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Pairs with the Gut Reset bundle. Alternative to EZ Meal as hypoallergenic nutritional support during gut repair protocols."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Immunoglobulins and spore probiotics address gut immune function and microbial balance while GI Restore handles nutrition and mucosal support."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzymes ensure maximum nutrient extraction from GI Restore, which matters when the gut's own enzyme production may be compromised."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Once tolerance allows, adding prebiotic fiber feeds the beneficial bacteria that support long-term gut ecosystem recovery."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

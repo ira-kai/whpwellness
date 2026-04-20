@@ -1,0 +1,42 @@
+{
+  "slug": "glutathione-cacao-mint",
+  "name": "Glutathione Cacao Mint",
+  "price": 45.00,
+  "serving_size": "2.5 mL (1/2 tsp)",
+  "servings_per_container": 40,
+  "focus_keyword": "liposomal glutathione cacao mint",
+  "meta_title": "Glutathione | Quicksilver Scientific Liposomal (Cacao Mint)",
+  "meta_description": "Quicksilver Scientific's liposomal glutathione in a cacao mint flavor. Phospholipid delivery protects glutathione from stomach acid so it actually reaches your cells.",
+  "category": "Antioxidant & Detox",
+  "brand": "quicksilver",
+
+  "description": "Liposomal glutathione from Quicksilver Scientific in a cacao mint flavor. Glutathione is your body's most abundant endogenous antioxidant, central to detoxification, immune function, and cellular protection. The challenge with oral glutathione has always been absorption: stomach acid and peptidases break it down before it reaches the bloodstream. Quicksilver's liposomal delivery wraps glutathione in phospholipid spheres that protect it through the GI tract and deliver it intact to your cells.",
+
+  "why_we_carry_it": "Glutathione is one of those supplements where the delivery technology matters as much as the ingredient itself. Standard oral glutathione gets broken down into its component amino acids in the stomach, which means you are essentially paying for cysteine, glycine, and glutamic acid rather than intact glutathione. Liposomal encapsulation changes that equation. Quicksilver's phospholipid delivery has pharmacokinetic data showing meaningful increases in blood glutathione levels after oral dosing. The cacao mint flavor also makes compliance easier. Glutathione on its own has a sulfurous taste that makes many people reluctant to take it consistently.",
+
+  "benefit_bullets": [
+    "Liposomal protection from gastric breakdown. Standard oral glutathione is degraded by stomach acid and peptidases. Phospholipid encapsulation delivers it intact to the bloodstream.",
+    "The body's master antioxidant. Glutathione is central to Phase II liver detoxification, immune cell function, and protection against oxidative stress.",
+    "Cacao mint flavor for compliance. Glutathione has a naturally sulfurous taste. This formulation makes daily use palatable.",
+    "40 servings per bottle. Nearly six weeks of daily support."
+  ],
+
+  "who_its_for": "People who want to support glutathione levels directly rather than relying solely on precursors like NAC. Commonly used alongside detoxification protocols, for immune support, or as part of an antioxidant strategy.",
+  "how_to_take": "Take 2.5 mL (1/2 teaspoon) by mouth. Hold in the mouth for 30 seconds before swallowing for best absorption. Can be taken on an empty stomach or with food.",
+
+  "safety_note": "Generally well tolerated. People undergoing active detoxification protocols should work with a practitioner to manage the pace of toxin mobilization. Not recommended during pregnancy or breastfeeding without practitioner guidance.",
+
+  "bundle_callout": {
+    "bundle_name": "The Detox",
+    "bundle_slug": "the-detox",
+    "message": "Part of The Detox bundle. Direct liposomal glutathione supply alongside NAC for production and Liver Sauce for recycling. Three approaches to the liver's most critical antioxidant."
+  },
+
+  "pairs_well_with": [
+    {"slug": "liver-sauce-1", "name": "Liver Sauce", "reason": "Liver Sauce includes R-lipoic acid, which recycles glutathione back to its active form after it neutralizes free radicals. Supply plus recycling."},
+    {"slug": "n-a-c", "name": "N-A-C", "reason": "NAC provides cysteine, the rate-limiting amino acid for your body's own glutathione production. Direct glutathione plus endogenous production support."},
+    {"slug": "vita-c", "name": "Vita-C", "reason": "Vitamin C works synergistically with glutathione, each helping to regenerate the other in the antioxidant cycle."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

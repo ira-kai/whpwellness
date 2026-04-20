@@ -1,0 +1,46 @@
+{
+  "slug": "cardio-ox",
+  "name": "Cardio-Ox",
+  "price": 68.0,
+  "serving_size": "2 capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "pomegranate pine bark cardiovascular polyphenol",
+  "meta_title": "Cardio-Ox | Mediterranean Polyphenol Heart Support",
+  "meta_description": "Cardio-Ox combines Pomanox pomegranate (650mg), OLIGOPIN pine bark (150mg), and Mediteanox olive polyphenols (50mg) for cardiovascular and antioxidant support.",
+  "category": "Cardiovascular",
+  "brand": "ojus",
+  "description": "The traditional Mediterranean diet is associated with some of the strongest cardiovascular outcomes in nutritional research. A significant part of that benefit comes from polyphenols, the plant compounds found in pomegranates, olives, and grape seeds. Cardio-Ox concentrates the most well-studied of these polyphenols into three standardized extracts: Pomanox pomegranate (650mg), OLIGOPIN French maritime pine bark (150mg), and Mediteanox olive extract (50mg). Each one supports cardiovascular function through a different mechanism, and together they cover vascular tone, endothelial function, and oxidative stress from three angles.",
+  "formulation_rationale": "Pomegranate (Pomanox) provides punicalagins and ellagic acid, which support healthy arterial function and antioxidant status. French maritime pine bark (OLIGOPIN) delivers oligomeric proanthocyanidins (OPCs) that support nitric oxide production and vascular flexibility. Olive extract (Mediteanox) contributes hydroxytyrosol, one of the most potent natural antioxidants measured by ORAC, which supports healthy LDL oxidation status. The three sources represent different classes of polyphenols working through distinct vascular pathways. Rather than loading up on one polyphenol source, this formula mirrors the diversity that makes the Mediterranean dietary pattern effective.",
+  "benefit_bullets": [
+    "Supports vascular health. Pomegranate punicalagins support arterial flexibility and healthy blood flow.",
+    "Promotes nitric oxide production. Pine bark OPCs support endothelial nitric oxide synthesis, which is essential for healthy vascular tone.",
+    "Antioxidant protection for LDL. Olive-derived hydroxytyrosol supports protection of LDL particles from oxidative modification.",
+    "Polyphenol diversity. Three standardized extracts deliver the breadth of polyphenol classes found in traditional cardioprotective diets."
+  ],
+  "who_its_for": "For adults focused on long-term cardiovascular wellness and vascular health. A practical option if you want the polyphenol benefits associated with a Mediterranean diet in a concentrated, consistent daily dose.",
+  "how_to_take": "With a meal for best absorption. Polyphenols absorb better in the presence of food.",
+  "safety_note": "Pomegranate and pine bark may have mild blood-pressure-lowering effects. If you are on antihypertensive medication, monitor blood pressure when starting. Pine bark may also slow platelet aggregation; discuss with your provider if you take anticoagulants.",
+  "bundle_callout": {
+    "bundle_name": "Heart & Circulation",
+    "bundle_slug": "heart-and-circulation",
+    "message": "Part of the Heart & Circulation bundle. Mediterranean polyphenol extracts for vascular health, paired with nitric oxide support, nattokinase, and omega-3."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids complement polyphenols by supporting healthy triglyceride levels and cell membrane fluidity."
+    },
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ supports vascular endothelial cell energy metabolism, pairing well with polyphenol-driven vascular support."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin provides additional antioxidant and inflammatory response support through a complementary pathway."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

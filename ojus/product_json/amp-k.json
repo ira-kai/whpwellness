@@ -1,0 +1,46 @@
+{
+  "slug": "amp-k",
+  "name": "AMP-K",
+  "price": 54.0,
+  "serving_size": "3 capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "berberine ALA metabolic support",
+  "meta_title": "AMP-K | Berberine + ALA Metabolic Support",
+  "meta_description": "AMP-K pairs 1g berberine with 200mg alpha-lipoic acid to support glucose metabolism, AMPK activation, and healthy metabolic function through complementary pathways.",
+  "category": "Metabolic Support",
+  "brand": "ojus",
+  "description": "Your cells have a built-in energy sensor called AMPK. When it is active, your body manages glucose more efficiently, lipid metabolism stays in balance, and mitochondria produce energy more effectively. The challenge is that AMPK activity tends to decline with age and metabolic stress. AMP-K combines berberine (1g) and alpha-lipoic acid (200mg), two compounds that independently activate AMPK through different mechanisms, so the metabolic signal is reinforced rather than relying on a single pathway.",
+  "formulation_rationale": "Berberine activates AMPK in the liver and muscle tissue, supporting glucose uptake and lipid metabolism. Alpha-lipoic acid reinforces that signal through its role as a mitochondrial cofactor and its own AMPK-activating effects. The pairing is intentional: ALA enhances mitochondrial energy production downstream of the metabolic shift that berberine initiates, creating a more complete metabolic support profile than either compound alone. Berberine handles the upstream signaling. ALA supports the mitochondrial machinery that carries it out.",
+  "benefit_bullets": [
+    "Supports healthy glucose metabolism. Berberine at 1g daily activates AMPK, the central enzyme governing cellular energy balance and glucose utilization.",
+    "Promotes healthy lipid levels. Berberine supports cholesterol and triglyceride metabolism through its effects on liver AMPK and LDLR expression.",
+    "Enhances mitochondrial energy production. Alpha-lipoic acid serves as a cofactor in mitochondrial energy pathways, supporting efficient ATP generation.",
+    "Broad antioxidant coverage. ALA is both water- and fat-soluble, giving it access to support redox balance across cellular compartments."
+  ],
+  "who_its_for": "For adults focused on metabolic function, healthy blood sugar already within normal range, and cellular energy. Particularly relevant if metabolic resilience is part of your broader wellness priorities.",
+  "how_to_take": "With meals, ideally split across two meals if taking the full serving. Taking with food reduces the likelihood of GI discomfort.",
+  "safety_note": "Berberine inhibits CYP2D6, CYP3A4, and CYP2C9 liver enzymes, which means it can significantly alter the metabolism of many medications. Do not combine with metformin, statins, or warfarin without direct supervision from your prescribing physician. May lower blood sugar; monitor glucose if you are on any glucose-lowering medication or fasting protocols.",
+  "bundle_callout": {
+    "bundle_name": "The GLP-1 Stack",
+    "bundle_slug": "glp-1-stack",
+    "message": "Part of The GLP-1 Stack. Berberine activates bitter taste receptors on gut L-cells, triggering GLP-1 secretion through a distinct pathway from fiber or curcumin."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "inositol-blend-1",
+      "name": "Inositol Blend",
+      "reason": "Myo- and D-chiro-inositol complement berberine's AMPK activation by supporting insulin signaling at the receptor level."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Prebiotic fiber supports the gut microbiome changes that influence berberine's absorption and metabolic effects."
+    },
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ precursors support the mitochondrial energy pathways that AMP-K activates."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

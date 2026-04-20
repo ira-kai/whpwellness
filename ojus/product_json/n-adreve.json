@@ -1,0 +1,47 @@
+{
+  "slug": "n-adreve",
+  "name": "N-Adreve",
+  "price": 54.2,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "cognitive adaptogen nootropic supplement",
+  "meta_title": "N-Adreve | Cognitive Adaptogen & Nootropic Formula",
+  "meta_description": "Bacopa (Bacognize), ashwagandha, rhodiola, eleuthero, Suntheanine, and phosphatidylserine. Six compounds for cognitive resilience under stress.",
+  "category": "Brain & Cognitive",
+  "brand": "ojus",
+  "description": "Cognitive performance under stress is where most people break down. Focus narrows, working memory suffers, and the mental fatigue compounds. N-Adreve is built for exactly that scenario. It combines fast-acting nootropics with longer-arc adaptogens: Bacopa (Bacognize), ashwagandha, rhodiola, eleuthero, Suntheanine L-Theanine, and phosphatidylserine. Some of these compounds work within hours. Others build their effects over days and weeks. Together, they support mental clarity, memory, and sustained focus when demand is highest. Two capsules daily.",
+  "formulation_rationale": "Bacopa monnieri (300mg, Bacognize standardized to 12% bacosides) is one of the best-studied botanical nootropics, supporting memory consolidation and information processing speed through cholinergic and antioxidant mechanisms. Ashwagandha (250mg, 1.5% withanolides) modulates cortisol and supports GABA receptor activity, helping maintain cognitive function when stress hormones would otherwise impair it. Rhodiola rosea (200mg, 3% rosavins) enhances mental stamina and reduces perception of effort during cognitive tasks by modulating monoamine neurotransmitters and HPA axis output. Eleuthero (200mg, 0.8% eleutherosides) is a classic adaptogen that supports sustained attention and work capacity over long periods. L-Theanine (100mg, Suntheanine) provides immediate alpha wave support for calm focus, bridging the gap while the slower-acting adaptogens build their effects. Phosphatidylserine (100mg) is a structural phospholipid in neuronal membranes that supports cell-to-cell communication, cortisol modulation, and cognitive function during aging. The combination works across time scales: theanine and rhodiola within hours, bacopa and ashwagandha over weeks.",
+  "benefit_bullets": [
+    "Supports memory and information processing. Bacognize Bacopa (300mg, 12% bacosides) is clinically studied for its effects on memory consolidation, learning rate, and information processing speed.",
+    "Modulates cortisol for cognitive protection. Ashwagandha (250mg) and phosphatidylserine (100mg) both support healthy cortisol levels, helping protect cognitive function during sustained stress.",
+    "Enhances mental stamina. Rhodiola (200mg, 3% rosavins) and eleuthero (200mg) support sustained attention and reduce the subjective experience of mental fatigue during demanding tasks.",
+    "Provides immediate calm focus. Suntheanine L-Theanine (100mg) promotes alpha wave activity within 30 to 40 minutes, bridging the gap while slower-acting adaptogens build over days and weeks.",
+    "Supports neuronal membrane integrity. Phosphatidylserine (100mg) is a key structural phospholipid in brain cell membranes, supporting cell signaling and cognitive function across the lifespan."
+  ],
+  "who_its_for": "Professionals, students, and anyone facing sustained cognitive demands who needs both immediate focus support and long-term cognitive resilience. Distinct from N-Adrenal (which is adrenal-axis focused): N-Adreve is built for the brain.",
+  "how_to_take": "Take in the morning with or without food. Rhodiola has mild stimulant properties and the adaptogen blend is designed for daytime cognitive performance, so morning dosing works best.",
+  "safety_note": "Ashwagandha belongs to the nightshade family and may not be appropriate for individuals with nightshade sensitivity. Bacopa may have mild cholinergic effects; use caution if you are on acetylcholinesterase inhibitors. Rhodiola may interact with SSRIs and MAOIs. Consult your healthcare provider if you are on any psychiatric or neurological medications.",
+  "bundle_callout": {
+    "bundle_name": "The Student Stack",
+    "bundle_slug": "student-stack",
+    "message": "Part of The Student Stack. Bacopa for long-game memory consolidation, phosphatidylserine for cell membranes, and adaptogens for exam stress."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Brain-bioavailable magnesium supports synaptic density and NMDA receptor regulation, deepening the cognitive foundation N-Adreve builds."
+    },
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ supports neuronal energy metabolism, which is essential for sustaining the cognitive demands N-Adreve helps you meet."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "DHA is the primary structural fatty acid in neuronal membranes, complementing phosphatidylserine's membrane support in N-Adreve."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

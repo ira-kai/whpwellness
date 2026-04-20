@@ -1,0 +1,45 @@
+{
+  "slug": "dhea-25-mg",
+  "name": "DHEA 25mg",
+  "price": 22.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "DHEA 25mg hormone precursor",
+  "meta_title": "DHEA 25mg | Hormone Precursor Support",
+  "meta_description": "DHEA 25mg provides the standard supplemental dose of this key adrenal hormone precursor to support healthy hormone levels, energy, and vitality with age.",
+  "category": "Hormone Support",
+  "brand": "ojus",
+  "description": "DHEA (dehydroepiandrosterone) is the most abundant circulating steroid hormone in your body, and it serves as the upstream precursor to both androgens and estrogens. Your body converts it into testosterone, estrogen, and other hormones as needed. The practical issue is that DHEA levels peak in early adulthood and decline steadily from there, which is why targeted supplementation becomes a consideration for many adults over 40. This formula provides 25mg per capsule, the most commonly used supplemental dose.",
+  "formulation_rationale": "DHEA is a single compound that functions as the body's upstream hormone precursor. At 25mg, this provides a meaningful daily dose appropriate for most adults looking to support age-related DHEA decline. The simplicity is intentional. DHEA does not need cofactors or companion nutrients to function, and keeping it as a standalone allows for precise dosing based on lab results and practitioner guidance. The right dose varies between individuals, so a clean, single-ingredient format is the most practical approach.",
+  "benefit_bullets": [
+    "Supports healthy hormone levels. DHEA serves as the precursor to both androgens and estrogens, supporting your body's ability to produce these hormones as needed.",
+    "Supports vitality and energy. Healthy DHEA levels are associated with general well-being, energy, and resilience.",
+    "Addresses age-related decline. DHEA levels peak in early adulthood and decline steadily, making supplementation relevant for adults whose levels have dropped below optimal range."
+  ],
+  "who_its_for": "For adults (typically over 40) whose DHEA levels have been tested and found to be below optimal range. Best used under practitioner guidance with lab monitoring so the dose matches what your body actually needs.",
+  "how_to_take": "In the morning, which aligns with your body's natural hormone production rhythm.",
+  "safety_note": "DHEA is a hormone precursor and should ideally be used based on lab testing (DHEA-S levels). Not recommended for individuals with hormone-sensitive conditions without medical supervision. May affect testosterone and estrogen levels. Not appropriate for use by individuals under 18.",
+  "bundle_callout": {
+    "bundle_name": "His Prime",
+    "bundle_slug": "his-prime",
+    "message": "Part of the His Prime bundle. DHEA supports the hormonal cascade alongside pregnenolone, with cardiovascular and mitochondrial support from Cardio-Ox and L-Carnitine."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "dhea-5-mg",
+      "name": "DHEA 5mg",
+      "reason": "The 5mg option allows fine-tuning of total DHEA dose when 25mg increments are too large."
+    },
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Adrenal adaptogen support complements DHEA by supporting the gland that naturally produces it."
+    },
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ supports cellular energy pathways that intersect with steroid hormone synthesis."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

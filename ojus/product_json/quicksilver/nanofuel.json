@@ -1,0 +1,37 @@
+{
+  "slug": "nanofuel",
+  "name": "Nanofuel",
+  "price": 69.00,
+  "serving_size": "2.5 mL (1/2 tsp)",
+  "servings_per_container": 40,
+  "focus_keyword": "liposomal cognitive energy nootropic",
+  "meta_title": "Nanofuel | Quicksilver Scientific Cognitive Energy",
+  "meta_description": "Quicksilver Scientific's Nanofuel combines GPC, DMAE, guarana, bacopa, and adaptogenic ginsengs in a liposomal delivery for rapid cognitive energy support.",
+  "category": "Brain & Cognitive",
+  "brand": "quicksilver",
+
+  "description": "Nanofuel is a liquid nootropic formula from Quicksilver Scientific that combines multiple cognitive support compounds in a single liposomal delivery. It includes Alpha-GPC for acetylcholine production, DMAE for membrane support, Bacopa monnieri for memory, and a blend of adaptogenic ginsengs (Panax notoginseng, American ginseng, and fermented Korean ginseng via GS15-4). Theacrine provides smooth, non-jittery energy alongside a small amount of guarana.",
+
+  "why_we_carry_it": "This is the kind of formula that would be difficult to replicate by stacking individual supplements. It layers six or seven cognitive compounds together in a way that covers acetylcholine synthesis, cerebral blood flow, adaptogenic stress buffering, and sustained alertness. Quicksilver's liposomal delivery means these compounds reach circulation without being degraded in the stomach or filtered through first-pass metabolism. For patients who need cognitive support and prefer one product over a handful of capsules, this is one of the most thoughtfully constructed options available.",
+
+  "benefit_bullets": [
+    "Multi-pathway cognitive support. Alpha-GPC for acetylcholine, DMAE for membrane integrity, Bacopa for memory consolidation, and ginsengs for adaptive stress response.",
+    "Theacrine (as TeaCrine) for clean energy. Similar alertness benefits to caffeine, but without the tolerance buildup or crash that caffeine can produce over time.",
+    "GS15-4 fermented Korean ginseng. Fermentation increases ginsenoside bioavailability compared to standard ginseng extracts.",
+    "Liposomal liquid format. Absorbs through the oral mucosa, bypassing digestion for faster onset and higher bioavailability."
+  ],
+
+  "who_its_for": "People looking for cognitive energy, focus, and mental clarity in a single product. Commonly used by professionals, students, or anyone managing cognitive demands who prefers a comprehensive formula over individual nootropic supplements.",
+  "how_to_take": "Take 2.5 mL (1/2 teaspoon) by mouth. Hold in the mouth for 30 seconds before swallowing for best absorption. Can be taken in the morning or early afternoon. Avoid late-day dosing due to the stimulatory compounds.",
+
+  "safety_note": "Contains guarana and caffeine anhydrous. If you are sensitive to caffeine or stimulants, start with a smaller dose. Not recommended during pregnancy or breastfeeding. Consult your healthcare provider if you take medications for blood pressure or blood clotting.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "mag-threonate", "name": "Mag-Threonate", "reason": "Magnesium L-threonate is the only magnesium form shown to cross the blood-brain barrier. Supports the neural environment alongside Nanofuel's cognitive activators."},
+    {"slug": "omega-capsules", "name": "Omega Capsules", "reason": "Omega-3 fatty acids provide structural support for neuronal membranes, complementing the signaling compounds in Nanofuel."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -1,0 +1,42 @@
+{
+  "slug": "pregnenolone",
+  "name": "Pregnenolone",
+  "price": 19.99,
+  "serving_size": "1 Tablet",
+  "servings_per_container": 100,
+  "focus_keyword": "pregnenolone supplement hormone precursor",
+  "meta_title": "Pregnenolone | The Mother Hormone (10mg)",
+  "meta_description": "Pregnenolone (10mg), the upstream precursor to cortisol, DHEA, progesterone, testosterone, and estrogen. Your body decides where it goes.",
+  "category": "Hormone Support",
+  "brand": "ojus",
+
+  "description": "Pregnenolone is sometimes called the \"mother hormone\" because it sits at the very top of the steroid hormone cascade. Your body makes it from cholesterol, and from there it branches into cortisol, DHEA, progesterone, testosterone, and estrogen. Rather than supplementing one of those downstream hormones directly (which can create imbalances), pregnenolone provides the upstream starting material and lets your body allocate it where it's actually needed.",
+
+  "formulation_rationale": "There is a meaningful difference between supplementing a downstream hormone like DHEA and supplementing its upstream precursor. When you take DHEA, you push one branch of the steroid hormone tree. When you take pregnenolone, you feed the trunk and let your body's own enzymatic pathways decide which branches need more support. This upstream approach works with the body's regulatory intelligence rather than overriding it. Pregnenolone production declines naturally with age. By some estimates, levels at age 75 are roughly 60% lower than at age 35. That gradual decline can quietly limit the body's ability to respond to hormonal demands across the board. Pregnenolone is also a neurosteroid, with research suggesting roles in memory consolidation and neuroprotection (Mayo et al., 2003, Progress in Neurobiology).",
+
+  "benefit_bullets": [
+    "Upstream precursor to all major steroid hormones. Cortisol, DHEA, progesterone, testosterone, and estrogen all originate from pregnenolone.",
+    "Supports the body's own allocation. Rather than pushing one hormonal pathway, pregnenolone provides the common starting material and lets your enzymes direct it where it's needed.",
+    "Neurosteroid with cognitive relevance. Research suggests roles in memory consolidation and neuroprotection (Mayo et al., 2003, Progress in Neurobiology).",
+    "100 tablets. Over three months of daily support."
+  ],
+
+  "who_its_for": "Adults, typically over 40, looking to support the body's hormonal foundation as endogenous production naturally declines. Best used with practitioner guidance and appropriate lab work.",
+  "how_to_take": "In the morning, which aligns with your body's natural hormone production rhythm.",
+
+  "safety_note": "Pregnenolone is a hormone precursor and should be used under practitioner guidance, especially for anyone with a history of hormone-sensitive conditions. Not recommended during pregnancy or breastfeeding. May affect levels of downstream hormones including cortisol, DHEA, and progesterone.",
+
+  "bundle_callout": {
+    "bundle_name": "The Perimenopause Protocol",
+    "bundle_slug": "perimenopause-protocol",
+    "message": "Part of The Perimenopause Protocol. The upstream precursor to all steroid hormones, supporting whatever hormonal production the body can still maintain during perimenopause."
+  },
+
+  "pairs_well_with": [
+    {"slug": "dhea-25-mg", "name": "DHEA 25mg", "reason": "DHEA is one branch of the pregnenolone cascade. Some practitioners use both for precursor support at two levels of the pathway."},
+    {"slug": "n-adrenal", "name": "N-Adrenal", "reason": "Adaptogenic adrenal support alongside upstream hormone precursor replenishment. Different mechanisms, complementary goals."},
+    {"slug": "dim-cdg", "name": "DIM-CDG", "reason": "If downstream estrogen metabolism is a concern, DIM-CDG supports healthy Phase I and Phase II estrogen clearance."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

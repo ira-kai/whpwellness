@@ -1,0 +1,47 @@
+{
+  "slug": "detox-2",
+  "name": "Detox-2",
+  "price": 26.15,
+  "serving_size": "3 capsules",
+  "servings_per_container": 6,
+  "focus_keyword": "liver detox phase 2 support",
+  "meta_title": "Detox-2 | Phase II Liver Detox Support",
+  "meta_description": "Detox-2 supports Phase II liver detoxification with dandelion, artichoke, milk thistle, methionine, inositol, choline, and turmeric. Designed for short, targeted protocols.",
+  "category": "Liver & Detox",
+  "brand": "ojus",
+  "description": "Your liver processes compounds in two phases. Phase I activates them (often making them temporarily more reactive), and Phase II attaches chemical groups so they can be safely excreted. Problems arise when Phase II cannot keep pace with Phase I, because those activated intermediates accumulate. Detox-2 provides the raw materials and botanical support that Phase II conjugation reactions depend on: dandelion, artichoke, milk thistle, L-methionine, inositol, choline, garlic, and turmeric. The container holds six servings, reflecting how intensive liver support protocols are typically structured, in short, targeted bursts.",
+  "formulation_rationale": "Phase II liver detoxification depends on conjugation reactions (methylation, sulfation, glucuronidation, glutathione conjugation) that attach chemical groups to activated toxins so they can be excreted. L-Methionine provides methyl groups for methylation. Inositol and choline support phospholipid metabolism and bile formation, the liver's primary excretion route. Milk thistle (58% silymarin) protects hepatocytes during the detoxification process. Artichoke (5% cynarin) and dandelion stimulate bile flow to move conjugated compounds out. Garlic provides sulfur compounds for sulfation pathways. Turmeric supports the inflammatory response that detoxification processes can trigger. Each ingredient addresses a specific bottleneck in the Phase II pathway.",
+  "benefit_bullets": [
+    "Phase II conjugation support. L-Methionine, inositol, and choline supply the substrates needed for the conjugation reactions that prepare compounds for excretion.",
+    "Bile flow stimulation. Artichoke (5% cynarin) and dandelion promote bile production and flow, the liver's main route for clearing processed compounds.",
+    "Hepatocyte protection. Milk thistle (58% silymarin) supports liver cell integrity during periods of increased detoxification demand.",
+    "Sulfur pathway support. Garlic provides organosulfur compounds that feed sulfation, one of the liver's key Phase II pathways.",
+    "Protocol-based format. Six servings per container reflects the focused, time-limited nature of intensive liver support."
+  ],
+  "who_its_for": "For adults doing a structured liver support or detoxification protocol under practitioner guidance. The small container size is intentional, matching how these protocols are typically used: targeted and time-limited rather than ongoing.",
+  "how_to_take": "With a meal. The choleretic herbs in this formula work best when bile flow is already active during digestion.",
+  "safety_note": "Contains multiple choleretic herbs (artichoke, dandelion) that stimulate bile flow. Do not use if you have bile duct obstruction or active gallbladder issues without medical clearance. This formula accelerates Phase II detox; ensure Phase I is not overwhelmed by pairing with appropriate support. Not for use during pregnancy.",
+  "bundle_callout": {
+    "bundle_name": "The Detox",
+    "bundle_slug": "the-detox",
+    "message": "Part of The Detox bundle. Phase II conjugation support alongside Liver Sauce, NAC for glutathione production, and direct liposomal glutathione."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "liver-sauce-1",
+      "name": "Liver Sauce",
+      "reason": "Liver Sauce supports Phase I detoxification, and pairing with Detox-2 ensures both phases are adequately supported."
+    },
+    {
+      "slug": "n-a-c",
+      "name": "NAC",
+      "reason": "NAC drives glutathione production, supporting the glutathione conjugation pathway that Phase II detox depends on."
+    },
+    {
+      "slug": "glutathione-cacao-mint",
+      "name": "Glutathione Cacao Mint",
+      "reason": "Direct glutathione supplementation ensures this critical conjugation molecule is available during intensive detox protocols."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

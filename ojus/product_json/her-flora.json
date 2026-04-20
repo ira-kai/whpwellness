@@ -1,0 +1,46 @@
+{
+  "slug": "her-flora",
+  "name": "Her Flora",
+  "price": 45.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 30,
+  "focus_keyword": "vaginal probiotic Lactobacillus reuteri rhamnosus",
+  "meta_title": "Her Flora | Vaginal & Urogenital Probiotic Support",
+  "meta_description": "Clinically studied L. reuteri RC-14 and L. rhamnosus GR-1 strains at 2 billion CFU. Targeted oral probiotic for vaginal and urogenital microbiome balance.",
+  "category": "Women's Health",
+  "brand": "ojus",
+  "description": "The vaginal microbiome is a distinct ecosystem, dominated by Lactobacillus species, and not every probiotic strain reaches it. Most don't. Her Flora delivers two of the most extensively studied strains for vaginal and urogenital colonization, Lactobacillus reuteri RC-14 and Lactobacillus rhamnosus GR-1, at 2 billion CFU per capsule. These strains were developed and studied together, and they work together. One capsule daily, taken orally.",
+  "formulation_rationale": "L. rhamnosus GR-1 and L. reuteri RC-14 are the two most clinically validated strains for vaginal colonization when taken orally. They survive GI transit, ascend from the intestinal tract, and adhere to vaginal epithelial cells. GR-1 produces biosurfactants that inhibit adhesion of unwanted organisms, while RC-14 produces hydrogen peroxide and signaling molecules that support a healthy vaginal pH environment. The two-strain approach is intentional: these strains were co-developed, and their synergy is well-documented across multiple clinical trials. The 2 billion CFU dose reflects the range used in published research on these specific strains. This is not a general gut probiotic. It is a targeted vaginal and urogenital formula.",
+  "benefit_bullets": [
+    "Supports vaginal Lactobacillus colonization. L. rhamnosus GR-1 and L. reuteri RC-14 are clinically shown to reach vaginal tissue after oral administration, a delivery route that is both practical and well-supported by research.",
+    "Promotes a healthy vaginal pH environment. RC-14 produces hydrogen peroxide and signaling molecules that help maintain the acidic conditions characteristic of a balanced vaginal microbiome.",
+    "Supports urogenital defense. GR-1 produces biosurfactants that reduce adhesion of unwanted microorganisms to vaginal and urinary tract epithelial cells.",
+    "Oral dosing, vaginal benefit. These strains survive gastric transit and migrate from the GI tract to the vaginal epithelium, making daily oral supplementation effective without topical application."
+  ],
+  "who_its_for": "Women looking to support vaginal and urogenital microbiome balance, particularly during or after antibiotic use, hormonal transitions, or recurrent discomfort. Also suitable as ongoing maintenance for vaginal flora health.",
+  "how_to_take": "Can be taken with or without food. Consistency matters more than timing with this one, so pick a time of day that is easy to remember.",
+  "safety_note": "Generally well-tolerated. If you are immunocompromised or on immunosuppressive therapy, consult your healthcare provider before using any probiotic supplement.",
+  "bundle_callout": {
+    "bundle_name": "Sexually Active & Smart",
+    "bundle_slug": "sexually-active-and-smart",
+    "message": "Part of the Sexually Active & Smart bundle. L. rhamnosus GR-1 and L. reuteri RC-14 maintain vaginal pH and prevent pathogenic overgrowth after sexual activity."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "estro-fem",
+      "name": "Estro Fem",
+      "reason": "Hormonal balance directly influences vaginal flora composition. Supporting healthy estrogen metabolism helps maintain the glycogen supply that Lactobacillus species depend on."
+    },
+    {
+      "slug": "probiotic-100",
+      "name": "Probiotic-100",
+      "reason": "A high-potency multi-strain gut probiotic that supports overall microbial diversity, complementing Her Flora's targeted vaginal support."
+    },
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Vitamin C, zinc, and NAC support mucosal immune defenses throughout the body, including the urogenital tract."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

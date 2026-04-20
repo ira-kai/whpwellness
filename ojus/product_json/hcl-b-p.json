@@ -1,0 +1,46 @@
+{
+  "slug": "hcl-b-p",
+  "name": "HCl-B-P",
+  "price": 42.0,
+  "serving_size": "2 capsules",
+  "servings_per_container": 60,
+  "focus_keyword": "betaine HCl pepsin stomach acid",
+  "meta_title": "HCl-B-P | Betaine HCl + Pepsin Digestive Support",
+  "meta_description": "1,040mg Betaine HCl and 208mg Pepsin per serving. Supports stomach acid levels, protein digestion, and the mineral absorption that depends on both.",
+  "category": "Digestive Health",
+  "brand": "ojus",
+  "description": "Digestion starts in the stomach, and it starts with acid. Without sufficient hydrochloric acid, protein goes undigested, minerals pass through unabsorbed, and the cascade of pancreatic enzymes and bile that should follow never fully activates. HCl-B-P provides Betaine HCl (1,040mg) and Pepsin (208mg) per two-capsule serving to support that foundational first step.",
+  "formulation_rationale": "Stomach acid does more than break down food. It activates pepsinogen into pepsin (the enzyme that begins protein digestion), triggers the release of pancreatic enzymes downstream, sterilizes incoming food, and is required for the absorption of minerals like iron, calcium, and zinc, as well as vitamin B12. Many adults produce less HCl than they need, particularly with age, stress, or prolonged PPI use. Betaine HCl provides supplemental hydrochloric acid in a stable, capsule-compatible form. Pepsin is included because it requires an acidic environment to function. Supplementing both together ensures that the acid you are adding is immediately put to work on protein digestion. The pairing is direct: acid plus the enzyme that acid activates.",
+  "benefit_bullets": [
+    "Supports stomach acid levels. 1,040mg Betaine HCl supplements hydrochloric acid production for those whose output has declined with age, stress, or medication use.",
+    "Activates protein digestion. 208mg Pepsin begins protein breakdown in the stomach, where it is meant to start, setting up efficient downstream digestion.",
+    "Supports mineral and B12 absorption. Adequate stomach acid is required for the absorption of iron, calcium, zinc, and vitamin B12, nutrients that many people supplement without realizing absorption depends on gastric pH.",
+    "Supports downstream digestive signaling. Stomach acid triggers the cascade that releases pancreatic enzymes and bile. Correcting HCl levels can improve the entire digestive sequence, not just the stomach phase."
+  ],
+  "who_its_for": "Adults experiencing signs of low stomach acid, such as bloating or heaviness after protein-rich meals, undigested food in stool, or known hypochlorhydria. Best used under practitioner guidance, often with a structured HCl challenge protocol.",
+  "how_to_take": "Take at the beginning of a meal that contains protein. This allows the supplemental HCl and pepsin to work alongside your body's own digestive process from the start of the meal.",
+  "safety_note": "Do not use if you have active gastric or duodenal ulcers, gastritis, or if you are currently taking NSAIDs (ibuprofen, aspirin, naproxen), as these can damage the stomach lining and HCl supplementation could worsen irritation. Do not use with proton pump inhibitors (PPIs) without practitioner guidance. If you experience burning or warmth in the stomach, reduce the dose.",
+  "bundle_callout": {
+    "bundle_name": "Bloated & Over It",
+    "bundle_slug": "bloated-and-over-it",
+    "message": "Part of the Bloated & Over It bundle. Restores stomach acid for proper protein breakdown, addressing the upstream cause of fermentation-driven bloating."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "HCl-B-P handles the stomach phase of digestion while D-Enzyme supports the intestinal phase, covering both stages."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Adequate stomach acid supports a healthy gastric microbial barrier, complementing Bio-Spore's intestinal microbial support."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Supports the intestinal lining downstream of the stomach, ensuring the entire GI tract is addressed."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

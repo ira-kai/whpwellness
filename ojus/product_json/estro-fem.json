@@ -1,0 +1,46 @@
+{
+  "slug": "estro-fem",
+  "name": "Estro-Fem",
+  "price": 49.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 30,
+  "focus_keyword": "ERr 731 rhapontic rhubarb menopause",
+  "meta_title": "Estro-Fem | ERr 731 Rhapontic Rhubarb Extract",
+  "meta_description": "Estro-Fem delivers 4mg ERr 731 rhapontic rhubarb extract, the clinical trial dose studied for menopausal comfort. Hormone-free, ER-beta selective.",
+  "category": "Women's Health",
+  "brand": "ojus",
+  "description": "Hot flashes, disrupted sleep, and mood shifts during menopause are not random. They trace back to changes in estrogen receptor signaling, particularly in the areas of the brain that regulate temperature and mood. ERr 731, a proprietary extract of Rheum rhaponticum (rhapontic rhubarb) root, works by selectively binding to estrogen receptor beta (ER-beta), which mediates thermoregulation and mood, while showing minimal activity at ER-alpha. That selectivity is what makes it distinct from soy isoflavones or black cohosh. Each capsule delivers 4mg, the exact dose used in published clinical trials.",
+  "formulation_rationale": "ERr 731's active compounds (primarily rhaponticin and desoxyrhaponticin) bind to ER-beta with high selectivity. ER-beta mediates the thermoregulatory and mood-related benefits women are looking for during menopause, while ER-alpha is the receptor associated with proliferative tissue concerns. This selectivity profile is the reason ERr 731 was chosen as a standalone ingredient at 4mg, matching the clinically studied dose. The single-ingredient approach keeps the mechanism clear and the dose precise. ERr 731 is not a hormone. It works by modulating estrogen receptor activity, not by adding estrogen to your system.",
+  "benefit_bullets": [
+    "Clinical trial dose. Each capsule delivers exactly 4mg ERr 731, matching the dose validated in published clinical studies.",
+    "Selective ER-beta activity. ERr 731 preferentially binds estrogen receptor beta, supporting thermoregulation and mood without the concerns associated with ER-alpha stimulation.",
+    "Supports menopausal comfort. Clinical evidence supports ERr 731 for common menopausal discomforts, including hot flashes, sleep quality, and mood changes.",
+    "Hormone-free approach. ERr 731 modulates estrogen receptor activity rather than adding estrogen to your system."
+  ],
+  "who_its_for": "For women in perimenopause or menopause who want non-hormonal support for hot flashes, sleep disruption, and mood changes. Particularly relevant if you are looking for an approach with a selective receptor profile.",
+  "how_to_take": "Can be taken with or without food. Take at the same time each day for consistent support.",
+  "safety_note": "Although ERr 731 shows ER-beta selectivity, women with a history of estrogen-sensitive conditions should consult their oncologist or gynecologist before use. Not a replacement for hormone therapy; discuss with your provider if you are considering or currently using HRT.",
+  "bundle_callout": {
+    "bundle_name": "The Perimenopause Protocol",
+    "bundle_slug": "perimenopause-protocol",
+    "message": "Part of The Perimenopause Protocol. ERr 731 at the exact clinical trial dose for hot flash and mood relief, paired with estrogen metabolism and adaptogenic support."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "dim-cdg",
+      "name": "DIM-CDG",
+      "reason": "DIM and calcium D-glucarate support healthy estrogen metabolism, complementing ERr 731's receptor-level activity."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium L-threonate supports sleep and cognitive function, two areas commonly affected during menopause."
+    },
+    {
+      "slug": "calm",
+      "name": "Calm",
+      "reason": "GABA and L-Theanine support the mood and relaxation challenges that often accompany hormonal transitions."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

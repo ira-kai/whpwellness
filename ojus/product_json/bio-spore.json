@@ -1,0 +1,46 @@
+{
+  "slug": "bio-spore",
+  "name": "Bio-Spore",
+  "price": 54.9,
+  "serving_size": "3 capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "serum bovine immunoglobulin spore probiotic",
+  "meta_title": "Bio-Spore | Immunoglobulins + Spore Probiotics",
+  "meta_description": "Bio-Spore combines serum-derived bovine immunoglobulins (480mg IgG) with three spore-forming Bacillus probiotics for gut immune and microbial support.",
+  "category": "Gut Health",
+  "brand": "ojus",
+  "description": "Your gut immune system and your gut microbiome are not separate systems. They depend on each other. When the immune environment in the intestinal lumen is overloaded with microbial antigens and toxins, beneficial bacteria struggle to establish themselves. And when microbial balance is off, the immune burden on your intestinal lining increases. Bio-Spore addresses both sides of that relationship. It pairs serum-derived bovine immunoglobulins (ImmunoLin, providing 480mg IgG per serving) with three spore-forming probiotics: Bacillus coagulans, B. clausii, and B. subtilis.",
+  "formulation_rationale": "Serum-derived bovine immunoglobulins bind to and neutralize microbial components and toxins directly in the gut lumen, reducing the immune burden on your intestinal lining. The three Bacillus strains are chosen for their survivability through stomach acid and for their distinct roles: B. coagulans produces lactic acid to support a favorable pH, B. clausii supports resilience during and after antibiotic use, and B. subtilis produces antimicrobial compounds and supports biofilm disruption. By calming the immune environment first, the immunoglobulins create conditions where the probiotics can establish more effectively. The two halves of the formula make each other work better.",
+  "benefit_bullets": [
+    "Supports gut immune function. ImmunoLin delivers 480mg of IgG antibodies that bind microbial antigens directly in the intestinal lumen, reducing the load on your gut lining.",
+    "Promotes microbial balance. Three spore-forming Bacillus strains (totaling 4 billion CFU) survive stomach acid and colonize the intestine through distinct mechanisms.",
+    "Supports intestinal barrier integrity. By neutralizing antigenic material in the gut lumen, immunoglobulins help ease the workload on the intestinal epithelium.",
+    "Shelf-stable and acid-resistant. Spore-forming probiotics are inherently resilient, requiring no refrigeration and surviving the transit to where they are needed."
+  ],
+  "who_its_for": "For adults working on gut health, particularly those dealing with ongoing digestive sensitivity, recovering from antibiotic use, or following a gut restoration protocol where both immune and microbial support matter.",
+  "how_to_take": "Can be taken with or without food.",
+  "safety_note": "Contains bovine-derived ingredients (serum immunoglobulins). Not suitable for individuals with confirmed cow's milk protein allergy, though serum-derived IgG is distinct from casein and whey. If you have a known sensitivity, consult your provider.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Part of the Gut Reset bundle. Spore-based probiotics survive gastric transit and modulate existing microbiota, working alongside colostrum, immunoglobulins, and prebiotic fiber."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Provides structural support for the intestinal lining while Bio-Spore handles immune and microbial balance."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Enzymes ensure thorough nutrient breakdown, reducing undigested food particles that can challenge the gut immune system."
+    },
+    {
+      "slug": "probiotic-100",
+      "name": "Probiotic-100",
+      "reason": "Adds Lactobacillus and Bifidobacterium strains to complement the Bacillus spore-based approach."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

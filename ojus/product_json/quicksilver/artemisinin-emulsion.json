@@ -1,0 +1,37 @@
+{
+  "slug": "artemisinin-emulsion",
+  "name": "Artemisinin Emulsion",
+  "price": 79.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 24,
+  "focus_keyword": "liposomal artemisinin emulsion",
+  "meta_title": "Artemisinin Emulsion | Quicksilver Scientific Liposomal",
+  "meta_description": "Quicksilver Scientific's Artemisinin Emulsion delivers 40mg artemisinin in a phospholipid nanoemulsion for enhanced absorption. Used in practitioner-guided protocols.",
+  "category": "Antimicrobial Support",
+  "brand": "quicksilver",
+
+  "description": "Artemisinin Emulsion delivers 40mg of artemisinin per serving in a phospholipid nanoemulsion from Quicksilver Scientific. Artemisinin is a compound originally derived from sweet wormwood (Artemisia annua), with a long history in traditional herbalism and well-documented antimicrobial properties. The phosphatidylcholine base (450mg per serving) both enhances absorption and provides its own benefits for cell membrane integrity and liver support.",
+
+  "why_we_carry_it": "Artemisinin is one of the more difficult compounds to deliver effectively in oral form. It has poor water solubility and is rapidly metabolized by the liver, which limits how much reaches systemic circulation from a standard capsule. Quicksilver's nanoemulsion format addresses both of those problems. The phospholipid encapsulation improves solubility and protects artemisinin from premature hepatic clearance. This matters because artemisinin is typically used in protocols where consistent tissue-level concentrations are important. The 450mg of phosphatidylcholine in each serving is a meaningful dose on its own, supporting the cell membrane and liver function that are often relevant in the same clinical contexts where artemisinin is used.",
+
+  "benefit_bullets": [
+    "40mg artemisinin per serving. A clinically relevant dose of this antimicrobial compound from sweet wormwood, used in practitioner-guided protocols.",
+    "Nanoemulsion for bioavailability. Artemisinin has poor oral absorption in standard form. Phospholipid delivery improves solubility and protects against rapid liver clearance.",
+    "450mg phosphatidylcholine per serving. The delivery vehicle itself provides meaningful cell membrane and liver support.",
+    "24 servings per bottle. Designed for protocol-length use under practitioner guidance."
+  ],
+
+  "who_its_for": "People working with a practitioner on antimicrobial or immune support protocols. Artemisinin is a targeted compound that should be used with professional guidance, not as a general daily supplement.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth as directed by your healthcare provider. Hold in the mouth for 30 seconds before swallowing. Timing and cycling protocols vary; follow your practitioner's recommendations.",
+
+  "safety_note": "Artemisinin should be used under practitioner supervision. It may interact with medications metabolized by the liver, particularly CYP enzymes. Not recommended during pregnancy or breastfeeding. Extended use should be monitored with appropriate lab work.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Glutathione supports the detoxification pathways that become more active during antimicrobial protocols."},
+    {"slug": "liver-sauce-1", "name": "Liver Sauce", "reason": "Liver support is important during protocols that increase the body's detoxification demands."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

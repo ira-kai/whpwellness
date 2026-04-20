@@ -1,0 +1,47 @@
+{
+  "slug": "probiotic-100",
+  "name": "Probiotic-100",
+  "price": 74.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 30,
+  "focus_keyword": "100 billion CFU probiotic supplement",
+  "meta_title": "Probiotic-100 | 100 Billion CFU 6-Strain Probiotic",
+  "meta_description": "Six clinically documented strains at 100 billion CFU, including L. rhamnosus GG and B. lactis Bl-04. High-potency probiotic support for active gut restoration.",
+  "category": "Gut Health",
+  "brand": "ojus",
+  "description": "Most probiotics on the market provide a handful of generic species at maintenance-level doses. That approach works for some people. But if your microbiome has been significantly disrupted, whether from antibiotics, GI issues, or chronic stress, a maintenance dose may not be enough to shift the balance. Probiotic-100 delivers 100 billion CFU across six clinically documented strains in a single capsule: L. acidophilus La-14, B. bifidum Bb-02, L. rhamnosus GG, B. lactis Bl-04, L. plantarum Lp-115, and L. paracasei Lpc-37. Every strain carries a specific designation with published research behind it. One capsule daily.",
+  "formulation_rationale": "Strain selection matters more than total CFU count. But when you combine well-chosen strains at therapeutic potency, the effects compound. L. rhamnosus GG is the most studied probiotic strain in the world, with robust evidence for gut barrier support, immune modulation, and resilience during antibiotic use. L. acidophilus La-14 supports vaginal and intestinal health through lactic acid production and competitive exclusion of unwanted organisms. B. bifidum Bb-02 colonizes the large intestine and supports the mucosal immune system. B. lactis Bl-04 has specific clinical evidence for upper respiratory immune support. L. plantarum Lp-115 produces bacteriocins, natural antimicrobial peptides that help maintain a healthy microbial environment. L. paracasei Lpc-37 supports immune regulation and has demonstrated benefits for seasonal immune challenges. Lactobacillus strains predominantly colonize the small intestine, while Bifidobacterium strains target the large intestine. That full-tract coverage is intentional. At 100 billion CFU, this formula is built for active repletion: during and after antibiotic courses, during GI restoration protocols, or for anyone whose microbiome needs more than gentle upkeep.",
+  "benefit_bullets": [
+    "Every strain carries a specific clinical designation (La-14, GG, Bl-04) backed by published research, not generic species-level claims.",
+    "100 billion CFU per capsule supports active microbiome repletion, particularly during or after antibiotic use when beneficial populations have been depleted.",
+    "Lactobacillus strains colonize the small intestine while Bifidobacterium strains target the large intestine, providing coverage across the full GI tract.",
+    "B. lactis Bl-04 and L. paracasei Lpc-37 extend benefits beyond digestion, supporting upper respiratory immune function and healthy immune regulation.",
+    "L. plantarum Lp-115 generates bacteriocins that help maintain a healthy microbial environment through competitive exclusion of unwanted organisms."
+  ],
+  "who_its_for": "People whose gut flora has been significantly disrupted and who need more than a maintenance-dose probiotic. That includes anyone in the middle of or recovering from antibiotic therapy, following a GI restoration protocol, or working to rebuild microbial diversity after a period of chronic digestive issues.",
+  "how_to_take": "Can be taken with or without food. If you are also taking antibiotics, separate your probiotic dose by at least 2 hours.",
+  "safety_note": "The high CFU count may cause temporary bloating or gas as the microbiome adjusts, typically resolving within 3 to 5 days. If you are immunocompromised or on immunosuppressive therapy, consult your healthcare provider before using any high-potency probiotic. Store according to label instructions to maintain potency.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Part of the Gut Reset bundle. High-count multi-strain probiotics work alongside spore-based probiotics, colostrum, immunoglobulins, and prebiotic fiber."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio Spores",
+      "reason": "Spore-based probiotics recondition the gut environment, making it more hospitable for the Lactobacillus and Bifidobacterium strains in Probiotic-100 to colonize."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "A healthy gut lining is essential for probiotic colonization. GI Rebuild supports the mucosal surface that beneficial bacteria adhere to."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Prebiotic fibers feed the beneficial strains you are introducing, supporting their growth and short-chain fatty acid production."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

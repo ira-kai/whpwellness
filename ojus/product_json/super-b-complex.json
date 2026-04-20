@@ -1,0 +1,47 @@
+{
+  "slug": "super-b-complex",
+  "name": "Super B Complex",
+  "price": 26,
+  "serving_size": "1 capsule",
+  "servings_per_container": null,
+  "focus_keyword": "methylated B complex supplement",
+  "meta_title": "Super B Complex | Methylated B Vitamins | Ojus",
+  "meta_description": "All eight B vitamins in their active, coenzyme forms. Quatrefolic methylfolate, methylcobalamin B12, and P5P B6 in a single daily capsule.",
+  "category": "vitamin and mineral support",
+  "brand": "ojus",
+  "description": "A significant portion of the population carries genetic variants that reduce their ability to convert inactive B vitamins into the forms the body actually uses. For those individuals, a standard B complex with folic acid and cyanocobalamin may not deliver the expected benefit. Super B Complex provides the full spectrum of B vitamins in their bioactive, coenzyme forms: folate as Quatrefolic methylfolate (not folic acid), B12 as methylcobalamin (not cyanocobalamin), and B6 as P5P. One capsule daily.",
+  "formulation_rationale": "B vitamins function as a team. They serve as coenzymes across energy metabolism, methylation, neurotransmitter synthesis, red blood cell formation, and DNA repair. Deficiency in one often masks or exacerbates deficiency in another. This formula delivers each B vitamin in its already-activated form, bypassing common conversion bottlenecks. Quatrefolic methylfolate (680mcg DFE) sidesteps the MTHFR polymorphism that affects up to 40% of certain populations. Methylcobalamin (500mcg) provides B12 in the form used directly by methionine synthase. The addition of choline (19mg) and inositol (50mg) rounds out the formula, as both are closely related to B vitamin metabolism and support cell membrane integrity and second messenger signaling.",
+  "benefit_bullets": [
+    "Every B vitamin is provided in its coenzyme form, ready for immediate use without requiring enzymatic conversion your body may not perform efficiently.",
+    "Methylfolate and methylcobalamin directly fuel the methionine cycle, supporting homocysteine metabolism and methyl group availability.",
+    "B1, B2, niacin, pantothenic acid, and biotin are essential cofactors in the Krebs cycle and mitochondrial electron transport chain, supporting cellular energy production.",
+    "B vitamins are critical for myelin synthesis, neurotransmitter production, and nerve signal transmission throughout the nervous system.",
+    "A complete B complex in a single daily capsule."
+  ],
+  "who_its_for": "Anyone who wants a foundational B complex with active, methylated forms rather than synthetic precursors. Particularly relevant for individuals with MTHFR variants, those on medications that deplete B vitamins (oral contraceptives, metformin, PPIs), or those looking to support energy, mood, and methylation from a single daily capsule.",
+  "how_to_take": "Take with a meal, preferably in the morning. B vitamins can be energizing and may interfere with sleep if taken late in the day.",
+  "safety_note": "High-dose B2 may cause harmless bright yellow urine. Individuals with cobalt sensitivity should be aware that B12 contains cobalt. If you take levodopa, consult your provider, as B6 can reduce its effectiveness when not combined with carbidopa.",
+  "bundle_callout": {
+    "bundle_name": "The Student Stack",
+    "bundle_slug": "student-stack",
+    "message": "Part of The Student Stack. Active methylated B vitamins are required cofactors for neurotransmitter synthesis. The raw materials your brain needs to make the chemicals that let you think."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "same",
+      "name": "SAMe",
+      "reason": "B vitamins are essential cofactors for recycling SAMe through the methylation cycle."
+    },
+    {
+      "slug": "mb12",
+      "name": "MB12",
+      "reason": "For individuals needing higher-dose methylation support, MB12 provides additional methylfolate and methylcobalamin."
+    },
+    {
+      "slug": "serevital",
+      "name": "Serevital",
+      "reason": "B vitamins serve as cofactors for neurotransmitter synthesis, amplifying the precursor support Serevital provides."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

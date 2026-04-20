@@ -1,0 +1,37 @@
+{
+  "slug": "cat-s-claw-elite",
+  "name": "Cat's Claw Elite",
+  "price": 47.00,
+  "serving_size": "1 mL (2 Pumps)",
+  "servings_per_container": 50,
+  "focus_keyword": "liposomal cat's claw immune support",
+  "meta_title": "Cat's Claw Elite | Quicksilver Scientific Immune Support",
+  "meta_description": "Quicksilver Scientific's Cat's Claw Elite combines liposomal Uncaria tomentosa with vitamin D3, lemon balm, and monolaurin for broad-spectrum immune support.",
+  "category": "Immune Support",
+  "brand": "quicksilver",
+
+  "description": "Cat's Claw Elite is a liposomal immune support formula from Quicksilver Scientific built around Uncaria tomentosa bark extract. It includes vitamin D3 (25 mcg, 125% DV), monolaurin (a lauric acid derivative with antimicrobial properties), and lemon balm leaf extract and oil. The combination targets multiple branches of the immune system: cat's claw modulates immune cell activity, vitamin D supports immune regulation, monolaurin disrupts microbial lipid envelopes, and lemon balm provides calming and antiviral support.",
+
+  "why_we_carry_it": "Cat's claw (Uncaria tomentosa) has solid research behind its immune-modulating effects, but most cat's claw products are simple bark capsules with questionable absorption. Quicksilver's version delivers the extract in liposomal form alongside three complementary immune compounds. The addition of monolaurin is particularly thoughtful. Monolaurin is a monoglyceride derived from lauric acid with documented activity against enveloped viruses and certain bacteria. Having it in the same liposomal delivery system as cat's claw means both compounds reach circulation with higher bioavailability than their standalone equivalents. At 50 servings per bottle, this is also one of the better values in the Quicksilver line.",
+
+  "benefit_bullets": [
+    "Liposomal cat's claw extract. Uncaria tomentosa bark with research supporting immune cell modulation, delivered in phospholipid form for improved absorption.",
+    "Vitamin D3 at 25 mcg (1,000 IU). Supports immune regulation, innate defense, and healthy inflammatory response.",
+    "Monolaurin for antimicrobial support. A lauric acid derivative that disrupts microbial lipid envelopes.",
+    "Lemon balm for calming and antiviral support. Research supports both its nervous system calming effects and activity against certain enveloped viruses."
+  ],
+
+  "who_its_for": "People looking for daily immune support with broader coverage than cat's claw alone. A good option for those who want a multi-compound immune formula in a convenient pump format.",
+  "how_to_take": "Take 1 mL (2 pumps) by mouth. Hold in the mouth for 30 seconds before swallowing. Can be taken daily for ongoing immune support or increased during times of immune challenge, as directed by your healthcare provider.",
+
+  "safety_note": "Cat's claw may interact with blood pressure medications, anticoagulants, and immunosuppressants. Consult your healthcare provider before use if you take any of these medications or have an autoimmune condition. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "vita-c", "name": "Vita-C", "reason": "Vitamin C supports immune cell function and works alongside vitamin D in immune regulation."},
+    {"slug": "zinc", "name": "Zinc", "reason": "Zinc is essential for immune cell development and function. A foundational mineral alongside cat's claw's immune-modulating botanicals."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "inositol-blend-1",
+  "name": "Inositol Blend",
+  "price": 46.0,
+  "serving_size": "1 Scoop (7 grams)",
+  "servings_per_container": 30,
+  "focus_keyword": "myo d-chiro inositol 40:1 supplement",
+  "meta_title": "Inositol Blend | Myo + D-Chiro 40:1 with Chromium",
+  "meta_description": "Myo and D-Chiro Inositol in the physiological 40:1 ratio, plus resistant starch, chromium, zinc, and copper. Metabolic and insulin signaling support.",
+  "category": "Metabolic Support",
+  "brand": "ojus",
+  "description": "Your body maintains myo-inositol and D-chiro-inositol in a precise 40:1 ratio across tissues. That ratio matters because both forms serve as second messengers in insulin signaling, and flooding one at the expense of the other can disrupt the balance rather than support it. Inositol Blend provides both forms in that physiological ratio (2.05g total), alongside Solnul resistant potato starch, ChromeMate chromium, zinc, and copper. One scoop daily, mixed into water or a smoothie.",
+  "formulation_rationale": "Inositol is a critical second messenger in insulin signaling. Myo-inositol (the larger portion) supports insulin receptor sensitivity and ovarian function. D-chiro-inositol supports glycogen synthesis and androgen metabolism. Supplementing in the 40:1 ratio respects the body's natural balance rather than overloading one pathway. The resistant potato starch (3.5g Solnul) serves a dual purpose: it feeds beneficial gut bacteria to produce short-chain fatty acids (particularly butyrate), which independently improve insulin sensitivity, and it blunts postprandial glucose spikes. ChromeMate chromium (100mcg) enhances insulin receptor binding and glucose transporter activity. Zinc (2mg) and copper (0.2mg) are included in a balanced ratio because both minerals play roles in insulin signaling, and zinc supplementation without copper can deplete copper status over time. Every component in this formula touches the insulin signaling pathway from a different angle.",
+  "benefit_bullets": [
+    "Supports insulin receptor sensitivity. Myo and D-Chiro Inositol in the 40:1 ratio mirror your body's physiological balance, supporting healthy insulin signaling without disrupting tissue-specific ratios.",
+    "Feeds the gut-metabolic axis. Solnul resistant potato starch (3.5g) serves as a prebiotic substrate for butyrate-producing bacteria, supporting both gut health and metabolic function.",
+    "Enhances glucose transporter activity. ChromeMate chromium (100mcg) is a niacin-bound form that supports insulin receptor binding and cellular glucose uptake.",
+    "Maintains mineral balance. Zinc (2mg) and copper (0.2mg) are included in a physiologically appropriate ratio to support insulin signaling without creating downstream mineral imbalances."
+  ],
+  "who_its_for": "People looking to support healthy blood sugar metabolism, insulin sensitivity, or hormonal balance (particularly for ovarian health). Also suitable for anyone seeking metabolic support alongside a balanced diet and exercise program.",
+  "how_to_take": "Mix one scoop into water or a smoothie. Can be taken with or without food. Some people prefer taking it with a meal to support postprandial blood sugar management.",
+  "safety_note": "Inositol at higher doses may lower blood sugar. If you are on diabetes medications or insulin, monitor blood glucose closely and consult your healthcare provider before starting this supplement. Chromium may also enhance the effects of blood sugar-lowering medications.",
+  "bundle_callout": {
+    "bundle_name": "PCOS Support",
+    "bundle_slug": "pcos-support",
+    "message": "Part of the PCOS Support bundle. The gold-standard PCOS supplement: myo-inositol + D-chiro-inositol in the 40:1 ratio that reflects physiological plasma ratios."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "amp-k",
+      "name": "AMP-K",
+      "reason": "AMPK activation complements inositol's insulin-sensitizing effects by supporting cellular energy sensing and metabolic flexibility."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Additional prebiotic fiber supports the gut-metabolic connection, enhancing short-chain fatty acid production and postprandial glucose management."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids support healthy cell membrane fluidity, which influences insulin receptor function and glucose transporter activity."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

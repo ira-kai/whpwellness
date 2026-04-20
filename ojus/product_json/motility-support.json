@@ -1,0 +1,46 @@
+{
+  "slug": "motility-support",
+  "name": "Motility Support",
+  "price": 41.0,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 30,
+  "focus_keyword": "prokinetic motility support supplement",
+  "meta_title": "Motility Support | Prokinetic Gastric Motility Aid",
+  "meta_description": "Prodigest blend (artichoke leaf + ginger root) with calcium for healthy gastric motility. Supports the migrating motor complex and comfortable digestion.",
+  "category": "Gut Health",
+  "brand": "ojus",
+  "description": "Healthy digestion depends not just on what you eat or how well you break it down, but on how efficiently your GI tract moves contents forward. The migrating motor complex (MMC) is the housekeeping wave that sweeps debris, bacteria, and residual food through the small intestine between meals. When that motility slows, you get bloating, early satiety, and bacterial accumulation where it should not occur. Motility Support is a targeted prokinetic formula built around Prodigest (320mg), a clinically studied blend of artichoke leaf and ginger root extracts, with calcium (30mg). One capsule daily.",
+  "formulation_rationale": "Prodigest (320mg) combines two botanicals with complementary prokinetic mechanisms. Artichoke leaf extract stimulates bile flow and supports gastric motility through its cynarin and chlorogenic acid content. Ginger root extract activates serotonin (5-HT3 and 5-HT4) receptors in the enteric nervous system, directly promoting gastric emptying and antroduodenal contractions. Together, they support the coordinated muscular activity that defines healthy GI transit. Calcium (30mg) is included as a cofactor for smooth muscle contraction, the mechanical basis of peristalsis. This is a clean, focused formula: two botanicals with clear mechanisms, one mineral cofactor.",
+  "benefit_bullets": [
+    "Supports the migrating motor complex. Prodigest's ginger extract activates enteric serotonin receptors (5-HT3, 5-HT4) that drive the interdigestive housekeeping waves responsible for clearing the small intestine.",
+    "Promotes healthy gastric emptying. Ginger root extract supports antroduodenal contractions, helping food move from the stomach into the small intestine at an appropriate pace.",
+    "Stimulates bile flow. Artichoke leaf extract contains cynarin and chlorogenic acid, which support bile secretion and overall upper GI motility.",
+    "Clinically studied blend. Prodigest is a standardized combination of artichoke and ginger extracts developed specifically for functional digestive comfort."
+  ],
+  "who_its_for": "People experiencing occasional bloating, early satiety, or sluggish digestion. Particularly relevant for anyone focused on supporting healthy GI motility as part of a broader gut health protocol, or for those who notice that digestive comfort improves when food moves through at the right pace.",
+  "how_to_take": "Take on an empty stomach, ideally 30 minutes before a meal or at bedtime. The prokinetic ingredients work best when the GI tract is between meals, supporting the migrating motor complex during its natural housekeeping window.",
+  "safety_note": "Ginger has mild blood-thinning properties. If you are on anticoagulant medications or preparing for surgery, consult your healthcare provider. Artichoke extract may stimulate bile flow, so use caution if you have gallstones or bile duct obstruction.",
+  "bundle_callout": {
+    "bundle_name": "Bloated & Over It",
+    "bundle_slug": "bloated-and-over-it",
+    "message": "Part of the Bloated & Over It bundle. Prokinetic support that stimulates the migrating motor complex, getting food and gas moving through the GI tract."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzymes break food down, while Motility Support keeps it moving. Together they address both chemical and mechanical aspects of digestion."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Structural gut lining support pairs well with motility support, especially for people working on comprehensive GI restoration."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio Spores",
+      "reason": "Healthy motility helps prevent bacterial overgrowth, and spore-based probiotics support microbial balance throughout the GI tract."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

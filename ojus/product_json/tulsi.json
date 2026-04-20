@@ -1,0 +1,46 @@
+{
+  "slug": "tulsi",
+  "name": "Tulsi",
+  "price": 63.99,
+  "serving_size": "1 soft gel",
+  "servings_per_container": 90,
+  "focus_keyword": "antimicrobial essential oil supplement",
+  "meta_title": "Tulsi | Antimicrobial Essential Oil Blend | Ojus",
+  "meta_description": "Thyme, clove, and oregano essential oils standardized to thymol, eugenol, and carvacrol for broad-spectrum antimicrobial support across multiple mechanisms.",
+  "category": "antimicrobial support",
+  "brand": "ojus",
+  "description": "Thymol, eugenol, and carvacrol are structurally related phenolic monoterpenoids, but each disrupts microbial membranes through slightly different interactions and targets different organisms with varying potency. Using all three creates a broader antimicrobial spectrum than any single essential oil alone. Tulsi combines thyme oil (standardized to 30-75% thymol), clove oil (80%+ eugenol), and oregano oil (55-80% carvacrol) in a convenient soft gel. Note: despite its name, this product contains thyme, clove, and oregano oils rather than holy basil (tulsi).",
+  "formulation_rationale": "Thyme oil (200mg, 30-75% thymol) provides the strongest gram-positive activity. Oregano oil (100mg, 55-80% carvacrol) is well-studied for its effects on gram-negative organisms and biofilm disruption. Clove oil (100mg, 80%+ eugenol) adds antifungal activity and is particularly studied for its effects on Candida species. The combination also reduces the likelihood of microbial resistance, since organisms would need to develop resistance to three different membrane-disrupting compounds simultaneously. Each oil is standardized to its primary bioactive compound, ensuring consistent potency from capsule to capsule.",
+  "benefit_bullets": [
+    "Three phenolic essential oils target bacteria, fungi, and biofilms through complementary membrane-disrupting mechanisms, providing broader coverage than any single oil.",
+    "Each oil is standardized to its primary active compound (thymol, eugenol, carvacrol), ensuring consistent potency across servings.",
+    "Useful during protocols targeting microbial overgrowth in the GI tract or other mucosal tissues.",
+    "Encapsulated in soft gels to protect against gastric degradation and reduce the strong taste associated with liquid essential oils."
+  ],
+  "who_its_for": "People following antimicrobial protocols or seeking support for microbial balance in the GI tract, as directed by their healthcare provider. The multi-oil approach is relevant when broad-spectrum coverage is the goal.",
+  "how_to_take": "Take with food. Essential oils can cause GI irritation on an empty stomach. Taking with a meal helps buffer the oils and improves tolerability.",
+  "safety_note": "Essential oils are potent. May cause GI irritation, heartburn, or nausea, especially on an empty stomach. Take with food. Not recommended during pregnancy or breastfeeding. May interact with blood thinners (eugenol has mild antiplatelet activity). Not recommended for long-term continuous use without practitioner guidance. Discontinue if you experience burning or irritation.",
+  "bundle_callout": {
+    "bundle_name": "Candida Protocol",
+    "bundle_slug": "candida-protocol",
+    "message": "Part of the Candida Protocol. Essential oil antimicrobials (thymol, carvacrol, eugenol) that disrupt Candida biofilms, enabling the antifungal compounds to penetrate."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "saccharomyces",
+      "name": "Saccharomyces",
+      "reason": "S. boulardii supports microbial rebalancing alongside antimicrobial protocols and is resistant to these essential oils."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Spore-based probiotics are resilient enough to take alongside antimicrobial agents and help repopulate beneficial organisms."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "GI Rebuild supports mucosal lining repair, which is important during and after antimicrobial protocols."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

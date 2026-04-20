@@ -1,0 +1,37 @@
+{
+  "slug": "kidney-care-1",
+  "name": "Kidney Care",
+  "price": 73.00,
+  "serving_size": "5 mL (1 tsp)",
+  "servings_per_container": 20,
+  "focus_keyword": "liposomal kidney support astragaloside",
+  "meta_title": "Kidney Care | Quicksilver Scientific Renal Support",
+  "meta_description": "Quicksilver Scientific's Kidney Care combines astragaloside IV, ferulic acid, and traditional renal botanicals in liposomal delivery for kidney function support.",
+  "category": "Organ Support",
+  "brand": "quicksilver",
+
+  "description": "Kidney Care is a liposomal botanical formula from Quicksilver Scientific designed to support renal function. It combines astragaloside IV (from Astragalus), ferulic acid, and a proprietary blend of kidney-supportive herbs including dandelion leaf, goldenrod, fu ling (Poria cocos), zhu ling (Polyporus umbellatus), and he shou wu (fo-ti). These botanicals have long histories of use in both Western herbalism and Traditional Chinese Medicine for supporting healthy kidney filtration and fluid balance.",
+
+  "why_we_carry_it": "Kidney support is one of the more underserved areas in supplement formulation. Most products in this space are simple herbal blends without much thought behind the delivery or the evidence base for the individual compounds. Quicksilver's version includes astragaloside IV, which has research supporting its role in renal cell protection, alongside ferulic acid for antioxidant support in kidney tissue. The liposomal format matters here because many of these botanicals have poor oral bioavailability in standard capsule or tincture form. Wrapping them in phospholipids meaningfully changes how much actually reaches the target tissue.",
+
+  "benefit_bullets": [
+    "Astragaloside IV for renal cell support. Research suggests protective effects on kidney tissue through antioxidant and anti-inflammatory pathways.",
+    "Traditional renal botanicals. Dandelion leaf, goldenrod, and fu ling have centuries of use supporting healthy kidney filtration and fluid balance.",
+    "Ferulic acid for tissue-level antioxidant support. A phenolic compound with research on protecting cells from oxidative stress.",
+    "Liposomal delivery for bioavailability. These compounds absorb poorly in standard form. Phospholipid encapsulation improves delivery to target tissues."
+  ],
+
+  "who_its_for": "People working with a practitioner on kidney function support, especially those who want a comprehensive botanical approach with improved bioavailability over standard herbal capsules or tinctures.",
+  "how_to_take": "Take 5 mL (1 teaspoon) by mouth. Hold in the mouth for 30 seconds before swallowing. Best taken on an empty stomach or as directed by your healthcare provider.",
+
+  "safety_note": "Contains he shou wu (fo-ti), which has been associated with liver concerns in rare cases at high doses. Use under practitioner supervision, especially if you have existing liver or kidney conditions. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "n-a-c", "name": "N-A-C", "reason": "NAC supports glutathione production, which plays a role in protecting kidney tissue from oxidative damage."},
+    {"slug": "vital-k-d", "name": "Vital K+D", "reason": "Vitamin D status is closely linked to kidney function. Many people with renal concerns have suboptimal vitamin D levels."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

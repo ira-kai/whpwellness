@@ -1,0 +1,45 @@
+{
+  "slug": "aloe",
+  "name": "Aloe",
+  "price": 25.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "cape aloe bowel regularity",
+  "meta_title": "Aloe | Cape Aloe for Bowel Regularity",
+  "meta_description": "Cape Aloe (Aloe ferox) at 450mg per capsule. A single-ingredient formula that supports gentle bowel regularity through naturally occurring anthraquinones and polysaccharides.",
+  "category": "Digestive Health",
+  "brand": "ojus",
+  "description": "Your body has its own rhythm when it comes to bowel regularity, and sometimes it just needs a nudge rather than a push. This formula delivers 450mg of Cape Aloe (Aloe ferox) leaf per capsule. Aloe ferox has been used traditionally for centuries to support intestinal motility, and its naturally occurring anthraquinones and polysaccharides work with your body's own digestive timing rather than overriding it.",
+  "formulation_rationale": "There is a reason this formula contains one ingredient. Cape Aloe provides both anthraquinones, which support intestinal motility and stool consistency, and polysaccharides, which have a soothing effect on the intestinal lining. Unlike Aloe vera, Aloe ferox offers a broader spectrum of these active compounds because it uses the whole leaf. Nothing else is needed here. The plant provides both the motility support and the mucosal comfort in a single source.",
+  "benefit_bullets": [
+    "Supports bowel regularity. Cape Aloe's natural anthraquinone content promotes healthy intestinal motility without the harshness of stimulant laxatives.",
+    "Promotes GI comfort. The polysaccharide fraction of Aloe ferox supports a soothing effect on the intestinal lining, so motility support does not come at the expense of comfort.",
+    "One ingredient, precise dosing. A single-ingredient capsule lets you control your dose exactly, adjusting up or down based on your response."
+  ],
+  "who_its_for": "For adults who want gentle, predictable support for bowel regularity. Particularly well suited if you prefer single-ingredient formulas where you know exactly what you are taking and can adjust the dose to match your needs.",
+  "how_to_take": "Can be taken with or without food. If you are new to Cape Aloe, start with one capsule and adjust based on your response.",
+  "safety_note": "Not intended for long-term daily use without practitioner guidance. Anthraquinone-containing herbs may cause dependency if used continuously. Reduce dose if stools become loose. Not recommended during pregnancy.",
+  "bundle_callout": {
+    "bundle_name": "Bloated & Over It",
+    "bundle_slug": "bloated-and-over-it",
+    "message": "Part of the Bloated & Over It bundle. Gentle bowel support alongside motility, HCl, and digestive enzymes for a layered approach to bloating relief."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Supports the intestinal lining while Aloe promotes motility, addressing both structure and function."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzymes support nutrient breakdown upstream while Aloe supports transit downstream."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Prebiotic fiber adds bulk and feeds beneficial bacteria to complement Aloe's motility support."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

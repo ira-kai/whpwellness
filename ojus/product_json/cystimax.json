@@ -1,0 +1,46 @@
+{
+  "slug": "cystimax",
+  "name": "CystiMax",
+  "price": 52.99,
+  "serving_size": "2 capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "urinary tract support uva ursi",
+  "meta_title": "CystiMax | Urinary Tract Support Formula",
+  "meta_description": "CystiMax combines Uva Ursi (20% arbutin), berberine, marshmallow root, bladderwrack, and celery seed for multi-mechanism urinary tract support.",
+  "category": "Urinary Health",
+  "brand": "ojus",
+  "description": "Urinary tract comfort depends on three things working together: a healthy microbial environment, soothed mucosal tissue, and consistent urine flow to flush the tract. Most urinary support formulas address only one of those. CystiMax addresses all three. It combines Uva Ursi (standardized to 20% arbutin), berberine, marshmallow root, bladderwrack, and celery seed, with each ingredient targeting a different aspect of urinary health.",
+  "formulation_rationale": "Uva Ursi is the anchor. Its arbutin converts to hydroquinone in alkaline urine, where it supports a healthy microbial environment in the urinary tract. Berberine provides additional microbial support through a different mechanism, disrupting microbial cell structure. Marshmallow root contributes mucilaginous polysaccharides that coat and soothe irritated urinary mucosa, addressing the discomfort side of the equation. Bladderwrack and celery seed both act as gentle diuretics, increasing urine flow to help flush the urinary tract mechanically. The formula works across the microbial environment, tissue comfort, and mechanical flushing simultaneously because urinary issues rarely involve just one of those factors in isolation.",
+  "benefit_bullets": [
+    "Supports urinary microbial balance. Uva Ursi (650mg, standardized to 20% arbutin) and berberine support a healthy microbial environment through complementary mechanisms.",
+    "Soothes urinary tissue. Marshmallow root's mucilaginous compounds coat and comfort irritated urinary mucosa.",
+    "Promotes healthy urine flow. Bladderwrack and celery seed support gentle diuresis, helping flush the urinary tract naturally.",
+    "Multi-mechanism approach. Five ingredients address microbial balance, tissue comfort, and urinary flow in a single formula."
+  ],
+  "who_its_for": "For adults seeking proactive urinary tract support, or those who are prone to occasional urinary discomfort and want a formula that addresses multiple aspects of urinary health at once.",
+  "how_to_take": "Can be taken with or without food. Drink plenty of water throughout the day to support urinary flushing.",
+  "safety_note": "Uva Ursi is not intended for continuous long-term use (typically recommended for 7 to 14 day periods). Contains berberine, which can interact with medications metabolized by CYP enzymes. Not recommended during pregnancy. If urinary symptoms persist beyond a few days, consult your healthcare provider.",
+  "bundle_callout": {
+    "bundle_name": "Sexually Active & Smart",
+    "bundle_slug": "sexually-active-and-smart",
+    "message": "Part of the Sexually Active & Smart bundle. Direct urinary antimicrobial support alongside UT Max's adhesion prevention and Her Flora's vaginal microbiome support."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "vita-c",
+      "name": "Vita-C",
+      "reason": "Vitamin C supports immune function and can influence urinary pH as part of a comprehensive urinary support strategy."
+    },
+    {
+      "slug": "probiotic-100",
+      "name": "Probiotic-100",
+      "reason": "Probiotics support the broader microbial ecosystem, including vaginal and urinary microbiomes."
+    },
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Systemic immune support complements the targeted urinary support CystiMax provides."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

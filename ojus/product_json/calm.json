@@ -1,0 +1,46 @@
+{
+  "slug": "calm",
+  "name": "Calm",
+  "price": 30.99,
+  "serving_size": "2 mL",
+  "servings_per_container": 30,
+  "focus_keyword": "GABA L-theanine calm liquid",
+  "meta_title": "Calm | GABA + L-Theanine Liquid Calm Support",
+  "meta_description": "A liquid formula with GABA, Suntheanine L-Theanine, and Huperzine A for fast-acting support of relaxation and mental composure without sedation.",
+  "category": "Stress & Mood",
+  "brand": "ojus",
+  "description": "There is a difference between feeling calm and feeling sedated. Sedation dulls you. Calm means your nervous system has settled, but you are still mentally present. That distinction is what this formula is built around. Calm combines GABA (the brain's primary inhibitory neurotransmitter), Suntheanine (a patented, pure-form L-Theanine), and Huperzine A in a liquid format for faster absorption and flexible dosing.",
+  "formulation_rationale": "GABA directly promotes neural calm by inhibiting excitatory signaling. L-Theanine (as Suntheanine) increases alpha brain wave activity, the pattern associated with relaxed alertness, and supports the body's own GABA production. Huperzine A inhibits acetylcholinesterase, helping maintain acetylcholine levels that support focused attention. The three work together so that GABA and L-Theanine quiet the noise while Huperzine A keeps you mentally sharp. The liquid format bypasses tablet dissolution for faster onset, and it lets you adjust the dose up or down to match what you actually need on a given day.",
+  "benefit_bullets": [
+    "Fast-acting format. Liquid delivery allows GABA and L-Theanine to begin absorbing rapidly, supporting a noticeable shift within minutes rather than waiting for capsule dissolution.",
+    "Promotes relaxed focus. Suntheanine increases alpha wave activity, the brainwave pattern of calm alertness, not drowsiness.",
+    "Supports mental clarity. Huperzine A maintains acetylcholine levels, keeping cognitive function sharp even as the nervous system settles.",
+    "Adjustable dosing. The liquid format lets you fine-tune the dose based on your individual response and the demands of the moment."
+  ],
+  "who_its_for": "For adults who experience occasional stress, mental tension, or racing thoughts and want to feel calm and present without the fog that comes with sedation.",
+  "how_to_take": "Can be taken any time you need calming support. If using for sleep, take 30 to 60 minutes before bed. The liquid format allows you to adjust the dose based on your needs.",
+  "safety_note": "Huperzine A inhibits acetylcholinesterase. Do not combine with cholinesterase inhibitors (donepezil, rivastigmine) or cholinergic medications without medical supervision. If you experience vivid dreams or GI discomfort, reduce the dose.",
+  "bundle_callout": {
+    "bundle_name": "Can't Sleep",
+    "bundle_slug": "cant-sleep",
+    "message": "Part of the Can't Sleep bundle. GABA and L-Theanine quiet mental chatter, working alongside magnesium for body relaxation and melatonin for circadian signaling."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Adaptogenic herbs support the HPA axis over time while Calm provides immediate calming support."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium L-threonate crosses the blood-brain barrier to support GABA receptor function, deepening the calming effect."
+    },
+    {
+      "slug": "l-theanine",
+      "name": "L-Theanine",
+      "reason": "Additional L-Theanine capsules can extend the duration of calm support throughout the day."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

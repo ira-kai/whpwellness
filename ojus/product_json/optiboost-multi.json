@@ -1,0 +1,47 @@
+{
+  "slug": "optiboost-multi",
+  "name": "OptiBoost Multi",
+  "price": 68.99,
+  "serving_size": "4 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "methylated multivitamin chelated minerals supplement",
+  "meta_title": "OptiBoost Multi | Methylated B + Chelated Minerals",
+  "meta_description": "Comprehensive multi with methylfolate, methylcobalamin, Albion chelated minerals, R-Lipoic Acid, and targeted phytonutrients. Bioactive forms throughout.",
+  "category": "Multivitamin",
+  "brand": "ojus",
+  "description": "Most multivitamins use the cheapest forms of each nutrient: folic acid instead of methylfolate, cyanocobalamin instead of methylcobalamin, mineral oxides instead of chelates. The result is a product that looks good on the label but underperforms in the body. OptiBoost Multi takes a different approach. Methylated B vitamins, Albion chelated minerals, and targeted phytonutrient cofactors including R-Lipoic Acid, green tea extract, resveratrol, and TrueBroc sulforaphane precursor. Four capsules deliver the forms and doses your body actually uses.",
+  "formulation_rationale": "Methylfolate (800mcg) and methylcobalamin (250mcg) are the bioactive forms that bypass the enzymatic conversion steps required by folic acid and cyanocobalamin, making them accessible even to the estimated 30 to 40% of the population with MTHFR polymorphisms. All minerals (zinc, selenium, manganese, chromium) are Albion chelated forms, meaning each mineral is bound to amino acids for dramatically improved absorption and reduced GI irritation. R-Lipoic Acid (200mg) is the biologically active isomer of alpha-lipoic acid, a universal antioxidant that regenerates both vitamin C and vitamin E and supports healthy blood sugar metabolism. Green tea extract (50mg, 95% EGCg) provides catechins for antioxidant and metabolic support. Resveratrol (10mg) activates sirtuin pathways involved in cellular longevity. TrueBroc (5mg) delivers glucoraphanin, the direct precursor to sulforaphane, which activates Nrf2-mediated detoxification and antioxidant gene expression. The four-capsule serving size is deliberate: it allows therapeutic amounts of each ingredient rather than the token doses found in single-capsule multis.",
+  "benefit_bullets": [
+    "Methylated B vitamins for broad accessibility. Methylfolate (800mcg) and methylcobalamin (250mcg) bypass MTHFR-dependent conversion steps, supporting methylation, energy, and mood regardless of genetic background.",
+    "Albion chelated minerals for real absorption. Zinc, selenium, manganese, and chromium in amino acid chelate forms provide dramatically better bioavailability and gentler GI tolerance than oxide or carbonate forms.",
+    "R-Lipoic Acid for universal antioxidant support. 200mg of the biologically active R-isomer regenerates vitamins C and E, supports healthy blood sugar, and crosses both water- and fat-soluble cellular compartments.",
+    "Nrf2 pathway activation. TrueBroc (5mg glucoraphanin) is a direct sulforaphane precursor that activates the master antioxidant switch, upregulating the body's own production of glutathione and phase II detoxification enzymes.",
+    "Phytonutrient cofactors included. Green tea EGCg (50mg) and resveratrol (10mg) support antioxidant defense and sirtuin-mediated cellular maintenance pathways."
+  ],
+  "who_its_for": "Anyone looking for a daily multivitamin that uses bioactive forms across the board, with no compromises on absorption. Particularly valuable for people with known MTHFR variants, those with GI sensitivity to standard multis, or anyone building a supplement protocol that needs a solid nutritional foundation.",
+  "how_to_take": "Take with a meal, preferably breakfast or lunch. This formula contains fat-soluble vitamins that absorb better with dietary fat, and the methylated B vitamins can be energizing, so earlier in the day is ideal.",
+  "safety_note": "This multi contains meaningful doses of methylated B vitamins. If you are new to methylated folate and have known MTHFR polymorphisms, some people experience initial overmethylation symptoms (anxiety, irritability). Start with 2 capsules and increase to the full 4-capsule dose over a week. Green tea extract contains caffeine (small amount at 50mg extract). If you are on blood sugar-lowering medications, R-Lipoic Acid and chromium may enhance their effects.",
+  "bundle_callout": {
+    "bundle_name": "Her Daily Foundation",
+    "bundle_slug": "her-daily-foundation",
+    "message": "Part of the Her Daily Foundation bundle. Methylated B vitamins, chelated minerals, and Nrf2 activators. The foundation everything else builds on."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "A high-quality multi and a high-quality omega-3 together form the two foundational pillars of any well-built supplement protocol."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Most multis cannot fit therapeutic magnesium doses into their serving size. Mag Threonate fills this gap with brain-targeted magnesium."
+    },
+    {
+      "slug": "probiotic-100",
+      "name": "Probiotic-100",
+      "reason": "Nutrient absorption depends on gut health. A high-potency probiotic supports the microbial environment that determines how much of your multi you actually absorb."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

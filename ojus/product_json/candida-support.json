@@ -1,0 +1,47 @@
+{
+  "slug": "candida-support",
+  "name": "Candida Support",
+  "price": 42.0,
+  "serving_size": "2 capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "candida support antifungal herbal",
+  "meta_title": "Candida Support | Multi-Pathway Microbial Balance",
+  "meta_description": "Candida Support combines berberine, oregano, caprylic acid, and six targeted botanicals with biotin for multi-mechanism microbial balance support.",
+  "category": "Microbial Balance",
+  "brand": "ojus",
+  "description": "One of the challenges with microbial overgrowth is that opportunistic organisms adapt quickly. A single-mechanism approach can work initially, but it often loses effectiveness over time as the organisms adjust. Candida Support addresses that problem by combining nine active ingredients that work through different mechanisms simultaneously: berberine, oregano, caprylic acid (as sodium caprylate), Pau D'Arco, cinnamon, ginger, chamomile, rosemary, and biotin.",
+  "formulation_rationale": "Berberine disrupts microbial biofilms and energy metabolism. Oregano provides carvacrol and thymol, which compromise microbial cell membranes. Sodium caprylate dissolves fungal cell walls through a different lipid-based mechanism. Pau D'Arco contributes lapachol, a naphthoquinone with its own antimicrobial activity. Cinnamon, ginger, chamomile, and rosemary each bring distinct volatile compounds that support a hostile environment for opportunistic organisms. Biotin is included for a specific reason: Candida species can deplete biotin during overgrowth, and maintaining biotin levels supports your body's own defenses. The carminative herbs (ginger, chamomile, rosemary) also serve a practical purpose, easing the GI discomfort that can accompany microbial rebalancing.",
+  "benefit_bullets": [
+    "Multi-mechanism microbial support. Nine active ingredients work through different pathways, reducing the chance that any single approach is insufficient as organisms adapt.",
+    "Biofilm disruption. Berberine helps break down the protective biofilm structures that opportunistic organisms use to resist intervention.",
+    "Cell membrane targeting. Oregano (carvacrol and thymol) and sodium caprylate compromise microbial cell integrity through complementary lipid-based mechanisms.",
+    "Biotin replenishment. Supports biotin levels that can be depleted during microbial imbalance, maintaining your body's own protective capacity.",
+    "Built-in digestive comfort. Ginger, chamomile, and rosemary provide carminative support to ease the GI discomfort that can accompany microbial rebalancing."
+  ],
+  "who_its_for": "For adults working with a practitioner on microbial balance, particularly during protocols targeting yeast and fungal overgrowth in the GI tract.",
+  "how_to_take": "With meals. Taking with food reduces the likelihood of GI discomfort from the antimicrobial compounds.",
+  "safety_note": "This formula contains multiple antimicrobial compounds. Die-off reactions (Herxheimer response) are possible when starting; consider beginning with one capsule and increasing gradually. Berberine can interact with medications metabolized by CYP enzymes. Not recommended during pregnancy (berberine, oregano, and Pau D'Arco are contraindicated).",
+  "bundle_callout": {
+    "bundle_name": "Candida Protocol",
+    "bundle_slug": "candida-protocol",
+    "message": "Part of the Candida Protocol. Multi-compound antifungal support paired with biofilm disruption, competitive probiotics, and broad-spectrum antimicrobials."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Spore-based probiotics can help recolonize the gut with beneficial organisms after antimicrobial support clears space."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Supports intestinal lining repair that may be needed after a period of microbial imbalance."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Prebiotic fiber feeds beneficial bacteria, supporting the microbial shift that Candida Support initiates."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

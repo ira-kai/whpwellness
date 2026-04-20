@@ -1,0 +1,46 @@
+{
+  "slug": "sbi-remove",
+  "name": "SBI Remove",
+  "price": 78.1,
+  "serving_size": "1 scoop",
+  "servings_per_container": 30,
+  "focus_keyword": "serum bovine immunoglobulin gut support",
+  "meta_title": "SBI Remove | Immunoglobulin Gut Support | Ojus",
+  "meta_description": "2.5g serum-derived bovine immunoglobulins (1.2g IgG) per serving. Binds microbial antigens in the gut lumen to support intestinal immune barrier function.",
+  "category": "gut immune support",
+  "brand": "ojus",
+  "description": "Your gut lumen is where the body encounters its highest microbial load. When mucosal immunity is compromised, microbial antigens can interact more freely with the gut lining, driving immune activation and barrier disruption. SBI Remove delivers 2.5g of serum-derived bovine immunoglobulin concentrate (ImmunoLin), providing 1.2g of IgG antibodies per serving. These immunoglobulins bind to microbial components and environmental antigens directly in the gut lumen, supporting the intestinal immune barrier without triggering systemic immune activation.",
+  "formulation_rationale": "The gut lumen is the body's largest interface with the external environment, and secretory IgA is its primary immune defense. When mucosal immunity is compromised, microbial antigens can interact more freely with the gut lining, driving immune activation and barrier disruption. Serum-derived bovine immunoglobulins provide IgG that survives gastric transit and binds bacterial lipopolysaccharides (LPS), toxins, and other microbial components directly in the intestinal lumen. This binding neutralizes antigens before they can challenge the epithelial barrier. ImmunoLin provides a concentrated, purified source of these immunoglobulins at the 2.5g dose used in published research on gut barrier support.",
+  "benefit_bullets": [
+    "IgG immunoglobulins bind microbial antigens in the intestinal lumen, reducing the antigenic load on the epithelial barrier before it can trigger immune activation.",
+    "By neutralizing bacterial toxins like LPS, SBI helps maintain a healthier microbial environment throughout the gut.",
+    "Reducing the immune burden in the gut lumen can support comfortable digestion and normal bowel patterns.",
+    "SBI works locally in the gut without triggering systemic immune responses, making it appropriate for sensitive individuals."
+  ],
+  "who_its_for": "People dealing with persistent digestive discomfort or compromised gut barrier function, or those following a gut restoration protocol who need targeted immune support at the intestinal level. Particularly relevant when the goal is to reduce the antigenic burden on a gut lining that is already under stress.",
+  "how_to_take": "Mix one scoop into water or a cool beverage. Can be taken with or without food. Avoid mixing into hot liquids, as heat can denature the immunoglobulin proteins.",
+  "safety_note": "Derived from bovine serum. Not appropriate for individuals with confirmed beef or bovine protein allergy. Dairy-free (serum-derived, not from milk). If you have an autoimmune condition affecting the GI tract, consult your provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Part of the Gut Reset bundle. High-dose serum-derived immunoglobulins bind antigens and toxins in the intestinal lumen, supporting immune tolerance."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "GI Rebuild supports mucosal repair while SBI Remove reduces the antigenic challenge to the gut lining."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Spore-based probiotics help reestablish beneficial microbial populations while SBI manages pathogenic antigen load."
+    },
+    {
+      "slug": "saccharomyces",
+      "name": "Saccharomyces",
+      "reason": "S. boulardii supports microbial balance through a different mechanism, complementing the immunoglobulin-based approach of SBI."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

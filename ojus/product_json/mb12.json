@@ -1,0 +1,47 @@
+{
+  "slug": "mb12",
+  "name": "MB12",
+  "price": 33.99,
+  "serving_size": "1 tablet",
+  "servings_per_container": 60,
+  "focus_keyword": "methylfolate methylcobalamin B12 supplement",
+  "meta_title": "MB12 | High-Dose Methylfolate & B12 | Ojus",
+  "meta_description": "5,000mcg methylcobalamin and 1,000mcg Quatrefolic methylfolate. Bioactive, high-dose methylation support for homocysteine metabolism and neurological health.",
+  "category": "methylation support",
+  "brand": "ojus",
+  "description": "The methylation cycle depends on two key reactions, and both require specific nutrients in their active forms. When either methylcobalamin or methylfolate is insufficient, or when genetic variants like MTHFR reduce the body's ability to convert inactive forms, the entire cycle slows. Homocysteine accumulates, methyl group availability drops, and downstream processes (neurotransmitter synthesis, DNA methylation, phospholipid metabolism) are compromised. MB12 delivers methylcobalamin (5,000mcg) and Quatrefolic methylfolate (1,000mcg, providing 1,700mcg DFE) in a single tablet, both in their final bioactive forms.",
+  "formulation_rationale": "The methylation cycle runs on two reactions: methionine synthase (which requires methylcobalamin as a cofactor) and the folate cycle (which requires 5-MTHF to regenerate methionine from homocysteine). An estimated 30 to 40% of the population carries MTHFR variants (C677T or A1298C) that reduce the body's ability to activate folic acid. MB12 bypasses those bottlenecks entirely. Methylcobalamin at 5,000mcg saturates the methionine synthase reaction and supports neurological myelin maintenance. Quatrefolic at 1,000mcg (the glucosamine salt of 5-MTHF) delivers folate in its final, active form without requiring MTHFR. Together, they ensure the methylation cycle has the raw materials to run at full capacity.",
+  "benefit_bullets": [
+    "High-dose active methylation support. 5,000mcg methylcobalamin and 1,000mcg Quatrefolic methylfolate provide therapeutic-level support for the methylation cycle in their final, bioactive forms.",
+    "Bypasses MTHFR and conversion bottlenecks. Both nutrients are provided in forms that require no enzymatic activation, making them accessible regardless of genetic polymorphisms.",
+    "Supports healthy homocysteine metabolism. Methylfolate and methylcobalamin are the direct cofactors for the remethylation of homocysteine to methionine.",
+    "Promotes neurological health. Methylcobalamin at this dose supports myelin synthesis and nerve cell function, while methylfolate is essential for neurotransmitter metabolism.",
+    "Complements or intensifies a B complex regimen. For individuals who need more methylation support than a standard B complex provides, MB12 serves as a targeted addition."
+  ],
+  "who_its_for": "Individuals with known MTHFR polymorphisms, elevated homocysteine, or provider-directed high-dose methylation support. Also appropriate for anyone with confirmed B12 deficiency or methylation-related concerns that require more than maintenance-level supplementation.",
+  "how_to_take": "Take with a meal, preferably in the morning. Methylated B vitamins can be energizing and may interfere with sleep if taken late in the day.",
+  "safety_note": "High-dose methylfolate can cause irritability, anxiety, or insomnia in some individuals, particularly those who are overmethylators or have COMT polymorphisms. If you experience agitation or sleep disruption, reduce the dose or take in the morning only. Methylcobalamin at this dose is generally well-tolerated, as B12 has no established upper limit, but consult your provider if you are being monitored for any hematological condition. Do not use high-dose folate to mask a B12 deficiency without also supplementing B12 (this product provides both).",
+  "bundle_callout": {
+    "bundle_name": "The MTHFR Stack",
+    "bundle_slug": "mthfr-stack",
+    "message": "Part of The MTHFR Stack. Methylcobalamin + methylfolate in their final bioactive forms, completely bypassing MTHFR. Paired with SAMe and a methylated multi."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "same",
+      "name": "SAMe",
+      "reason": "MB12 supports the methylation cycle that regenerates SAMe, making them a natural pairing for comprehensive methylation support."
+    },
+    {
+      "slug": "super-b-complex",
+      "name": "Super B Complex",
+      "reason": "A full B complex provides the additional B vitamins (B2, B6) needed as cofactors elsewhere in the methylation and transsulfuration pathways."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium is a cofactor in numerous methylation-dependent reactions, and the threonate form supports the neurological benefits of healthy methylation."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

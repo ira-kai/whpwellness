@@ -1,0 +1,47 @@
+{
+  "slug": "menstracalm",
+  "name": "MenstraCalm",
+  "price": 30.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "menstrual comfort PMS support supplement",
+  "meta_title": "MenstraCalm | Menstrual Comfort & Cycle Support",
+  "meta_description": "GABA, glycine, dong quai, chelated magnesium, B6, and vitamin C. Supports smooth muscle relaxation, mood stability, and cycle-specific nutrient needs.",
+  "category": "Women's Health",
+  "brand": "ojus",
+  "description": "Menstrual discomfort is not a single problem. It involves uterine smooth muscle tension, prostaglandin-driven inflammation, neurotransmitter shifts, and nutrient depletion that compounds across the luteal phase. MenstraCalm addresses each of those dimensions: GABA and glycine for nervous system calm, chelated magnesium for smooth muscle relaxation, dong quai for uterine tone, B6 for mood-relevant neurotransmitter synthesis, and vitamin C for progesterone and antioxidant support. Two capsules daily, or as directed during your cycle.",
+  "formulation_rationale": "GABA (250mg) and glycine (225mg) are inhibitory neurotransmitters that promote calm and reduce the nervous system hyperactivation many women experience premenstrually. Glycine also functions as an anti-inflammatory amino acid that modulates cytokine signaling. Dong quai (150mg) is a traditional botanical that supports healthy uterine tone and circulation. Magnesium (100mg as DiMag Malate, Albion chelated) supports smooth muscle relaxation and is consistently depleted during the luteal phase, with lower magnesium levels directly correlating with increased menstrual discomfort. The malate form also supports cellular energy production during a phase when fatigue is common. B6 (50mg) is a cofactor in both serotonin and dopamine synthesis, supporting mood stability through hormone-driven neurotransmitter fluctuations. Vitamin C (40mg) supports progesterone production and provides antioxidant protection during the inflammatory cascade of menstruation. Each ingredient addresses a different aspect of cycle-related discomfort, and together they cover the most common pain points of the luteal and menstrual phases.",
+  "benefit_bullets": [
+    "Supports smooth muscle relaxation. Magnesium (100mg as Albion DiMag Malate) directly supports uterine and skeletal smooth muscle relaxation, one of the primary mechanisms behind menstrual discomfort.",
+    "Promotes calm during the luteal phase. GABA (250mg) and glycine (225mg) are inhibitory neurotransmitters that help counter the nervous system activation and mood shifts common premenstrually.",
+    "Supports healthy uterine tone. Dong quai (150mg) is one of the most widely used botanicals in traditional practice for promoting healthy circulation and uterine comfort during menstruation.",
+    "Addresses cycle-specific nutrient needs. B6 (50mg) supports serotonin and dopamine synthesis during the luteal phase, when hormonal shifts can deplete these pathways.",
+    "Supports progesterone and antioxidant status. Vitamin C (40mg) contributes to healthy progesterone levels and provides antioxidant support during the inflammatory aspects of menstruation."
+  ],
+  "who_its_for": "Women seeking support for menstrual comfort, premenstrual mood changes, or cycle-related tension and fatigue. Designed for use during the luteal and menstrual phases, though it can be taken daily for ongoing support.",
+  "how_to_take": "Can be taken with or without food. For menstrual comfort, many women prefer taking it in the evening when the calming effects of GABA and glycine can also support relaxation and sleep.",
+  "safety_note": "Dong quai may increase photosensitivity and has mild blood-thinning properties. Avoid concurrent use with anticoagulant medications. B6 at doses above 100mg/day over extended periods can cause peripheral neuropathy, but the 50mg dose in this formula is well within safe long-term range. Not recommended during pregnancy.",
+  "bundle_callout": {
+    "bundle_name": "That Time of the Month",
+    "bundle_slug": "that-time-of-the-month",
+    "message": "Part of the That Time of the Month bundle. GABA, magnesium, B6, and Dong Quai for cycle support, paired with additional magnesium, iron, and anti-inflammatory support."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "dim-cdg",
+      "name": "DIM-CDG",
+      "reason": "Supports healthy estrogen metabolism upstream, which directly influences the severity of menstrual symptoms downstream."
+    },
+    {
+      "slug": "estro-fem",
+      "name": "Estro Fem",
+      "reason": "Broader hormonal balance support that complements MenstraCalm's targeted symptom-phase focus."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Brain-targeted magnesium for the cognitive fog and mood disruption that often accompanies the luteal phase, complementing MenstraCalm's smooth muscle magnesium."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

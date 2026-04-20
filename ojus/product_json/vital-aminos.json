@@ -1,0 +1,47 @@
+{
+  "slug": "vital-aminos",
+  "name": "Vital Aminos",
+  "price": 42.99,
+  "serving_size": "1 scoop (8g)",
+  "servings_per_container": 30,
+  "focus_keyword": "collagen joint connective tissue supplement",
+  "meta_title": "Vital Aminos | Joint & Connective Tissue Support | Ojus",
+  "meta_description": "FORTIGEL collagen peptides, TENDAXION, MOBILEE hyaluronic acid, vitamin C, and magnesium for targeted cartilage, tendon, ligament, and synovial fluid support.",
+  "category": "joint and connective tissue support",
+  "brand": "ojus",
+  "description": "Connective tissue is not a single material. Cartilage, tendons, ligaments, and synovial fluid each have distinct compositions and repair mechanisms, which is why a generic collagen supplement can only go so far. Vital Aminos is built around three branded ingredients with specific structural roles: FORTIGEL collagen peptides for cartilage, TENDAXION for tendons and ligaments, and MOBILEE for synovial fluid quality. Vitamin C and magnesium bisglycinate provide the enzymatic cofactors needed to actually incorporate these building blocks into new connective tissue.",
+  "formulation_rationale": "FORTIGEL (5.2g gelatin hydrolysate) provides bioactive collagen peptides that have been shown to stimulate chondrocyte activity and support cartilage matrix synthesis. TENDAXION (520mg) supplies mucopolysaccharides and type I collagen specific to tendon and ligament structural support. MOBILEE (80mg chicken comb extract, providing 40mg hyaluronic acid) is a patented matrix that supports synovial fluid viscoelasticity, the joint's natural lubrication and shock absorption system. Vitamin C (100mg) is an essential cofactor for prolyl hydroxylase and lysyl hydroxylase, the enzymes that stabilize collagen's triple-helix structure. Without adequate vitamin C, collagen synthesis is structurally compromised. Magnesium (135mg as Albion bisglycinate) supports the enzymatic reactions involved in protein synthesis and muscle relaxation around joints. Each ingredient targets a different tissue type, so the formula provides structural support across the full joint system.",
+  "benefit_bullets": [
+    "FORTIGEL collagen peptides stimulate chondrocyte metabolism, supporting your body's natural cartilage renewal processes.",
+    "TENDAXION provides mucopolysaccharides and type I collagen specific to the structural demands of tendons and ligaments.",
+    "MOBILEE hyaluronic acid matrix supports the viscoelasticity of synovial fluid, promoting joint lubrication and comfortable movement.",
+    "Vitamin C is required for the hydroxylation reactions that stabilize collagen structure, and magnesium supports broader protein synthesis.",
+    "Targets cartilage, tendons, ligaments, and synovial fluid with tissue-specific ingredients rather than relying on generic collagen."
+  ],
+  "who_its_for": "Active individuals, athletes, or anyone experiencing joint stiffness who wants targeted structural support across the full joint system rather than a generic collagen supplement. Particularly relevant when the goal is not just cartilage support but comprehensive care for tendons, ligaments, and synovial fluid as well.",
+  "how_to_take": "Mix one scoop into water or juice. Can be taken with or without food. Some people prefer taking it in the morning or before activity to support connective tissue throughout the day.",
+  "safety_note": "Contains chicken-derived ingredients (MOBILEE from chicken comb). Not appropriate for individuals with poultry allergy. FORTIGEL is derived from bovine or porcine gelatin. If you follow dietary restrictions related to animal products, review the ingredient sourcing with your provider.",
+  "bundle_callout": {
+    "bundle_name": "Joint & Movement",
+    "bundle_slug": "joint-and-movement",
+    "message": "Part of the Joint & Movement bundle. FORTIGEL collagen peptides, TENDAXION for tendons, and MOBILEE hyaluronic acid for tissue-specific structural rebuilding."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin supports a healthy inflammatory response in joint tissue while Vital Aminos provides the structural building blocks for repair."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids support joint comfort through inflammatory balance, complementing the structural approach of Vital Aminos."
+    },
+    {
+      "slug": "same",
+      "name": "SAMe",
+      "reason": "SAMe supports proteoglycan synthesis in cartilage through a different mechanism, adding another layer of joint support."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

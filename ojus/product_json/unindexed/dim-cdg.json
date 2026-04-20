@@ -1,0 +1,45 @@
+{
+  "slug": "dim-cdg",
+  "name": "DIM-CDG",
+  "price": 78.0,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "DIM calcium d-glucarate estrogen metabolism",
+  "meta_title": "DIM-CDG | Estrogen Metabolism & Hormone Balance Support",
+  "meta_description": "DIM plus Calcium D-Glucarate in one formula. Supports healthy estrogen metabolism through both Phase I and Phase II pathways.",
+  "category": "Women's Hormone Health",
+  "description": "DIM-CDG pairs two of the most well-studied compounds for healthy estrogen metabolism into a single formula. Diindolylmethane (DIM) supports Phase I estrogen metabolism by promoting the favorable 2-hydroxy estrogen pathway, while Calcium D-Glucarate (1g, matching research-supported doses) supports Phase II by inhibiting beta-glucuronidase, the enzyme that can reactivate estrogen metabolites your liver has already processed for elimination. Together, they support both sides of estrogen clearance.",
+  "formulation_rationale": "Estrogen metabolism happens in two key phases, and most supplements only address one. Phase I (in the liver) converts estrogens into metabolites. DIM promotes the 2-OH pathway, which produces less proliferative metabolites compared to the 4-OH and 16-OH pathways. But Phase I is only half the equation. In Phase II, the liver conjugates those metabolites (via glucuronidation) to prepare them for excretion. If beta-glucuronidase activity is high (common with gut dysbiosis), those conjugated estrogens get cleaved and reabsorbed. Calcium D-Glucarate blocks that enzyme, ensuring the estrogens your body marked for removal actually leave. Vitamin E (as natural d-alpha tocopherol) is included for its role in reducing oxidative stress in hormone-sensitive tissues. This is a Phase I plus Phase II formula, not just a DIM capsule.",
+  "benefit_bullets": [
+    "Promotes favorable estrogen metabolism. DIM (from 300mg dietary indoles) shifts Phase I metabolism toward the protective 2-OH estrogen pathway (Thomson et al., 2017).",
+    "Supports complete estrogen clearance. Calcium D-Glucarate (1g, matching research-supported doses) inhibits beta-glucuronidase, preventing reactivation of estrogen metabolites bound for elimination (Walaszek et al., 1997).",
+    "Addresses both Phase I and Phase II pathways. Most estrogen support products only cover one.",
+    "Includes antioxidant protection. Vitamin E (33.5mg as natural d-alpha tocopherol) supports tissue health in hormone-sensitive areas."
+  ],
+  "who_its_for": "Women navigating perimenopause, menopause, or estrogen-related concerns. Also used by practitioners for patients with estrogen dominance patterns, PMS, or as part of a broader hormone-balancing protocol. Men with estrogen metabolism concerns may also benefit.",
+  "how_to_take": "With a meal for best absorption. DIM is fat-soluble and absorbs better with dietary fat.",
+  "safety_note": "DIM modulates estrogen metabolism. If you have an estrogen-receptor-positive cancer or are on hormone therapy, consult your oncologist or prescribing physician before use. Calcium D-Glucarate may theoretically affect the metabolism of medications cleared via glucuronidation.",
+  "bundle_callout": {
+    "bundle_name": "PCOS Support",
+    "bundle_slug": "pcos-support",
+    "message": "Part of the PCOS Support bundle. DIM shifts estrogen toward protective metabolites while CDG prevents reabsorption, paired with the 40:1 inositol ratio, berberine, and saw palmetto."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "estro-fem",
+      "name": "Estro-FEM",
+      "reason": "ERr 731 rhapontic rhubarb (4mg) for direct menopausal symptom relief: hot flashes, sleep, mood."
+    },
+    {
+      "slug": "menstracalm",
+      "name": "MenstraCalm",
+      "reason": "GABA, magnesium, and B6 for cycle-related mood and comfort. Addresses symptoms while DIM-CDG works on the metabolic root."
+    },
+    {
+      "slug": "liver-sauce-1",
+      "name": "Liver Sauce",
+      "reason": "Comprehensive liver support with additional Phase I and Phase II nutrients, reinforcing estrogen clearance pathways."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

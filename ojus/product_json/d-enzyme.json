@@ -1,0 +1,47 @@
+{
+  "slug": "d-enzyme",
+  "name": "D-Enzyme",
+  "price": 42.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "digestive enzyme blend comprehensive",
+  "meta_title": "D-Enzyme | Comprehensive Digestive Enzyme Blend",
+  "meta_description": "D-Enzyme delivers a full-spectrum digestive enzyme blend with artichoke leaf and gentian root. One capsule per meal to support complete nutrient breakdown and digestive comfort.",
+  "category": "Digestive Health",
+  "brand": "ojus",
+  "description": "Bloating, gas, or heaviness after meals usually comes down to incomplete digestion. Your body produces its own enzymes, but production can decline with age, stress, or other factors. D-Enzyme provides a broad spectrum of digestive enzymes (amylase, protease, bromelain, papain, lipase, lactase, cellulase, and more) alongside a CereCalase blend, artichoke leaf extract, and gentian root. One capsule per meal supports the complete breakdown of proteins, fats, carbohydrates, fiber, and dairy.",
+  "formulation_rationale": "Digestion requires many different enzymes, each specific to a particular bond type. This formula covers every major macronutrient category: proteases and peptidases for proteins, lipase for fats, amylase and glucoamylase for starches, lactase for dairy sugar, and cellulase for plant fiber. The CereCalase blend adds specialized enzymes for breaking down phytates and cell wall structures that can trap nutrients in plant foods. But enzyme supplementation alone is only half the picture. Artichoke leaf extract (standardized to 5% cynarin) stimulates bile flow, which is essential for fat emulsification before lipase can act. Gentian root is a classic bitter that triggers your body's own digestive enzyme and HCl secretion. The formula provides both direct enzyme supplementation and upstream stimulation of your body's digestive capacity.",
+  "benefit_bullets": [
+    "Full-spectrum enzyme coverage. Targeted enzymes for proteins, fats, carbohydrates, fiber, and lactose so every macronutrient class is addressed.",
+    "Bile flow support. Artichoke leaf extract (5% cynarin) stimulates bile production, which is necessary for proper fat digestion upstream of lipase activity.",
+    "Stimulates your own digestive secretions. Gentian root activates bitter receptors that trigger your body's own enzyme and acid production.",
+    "CereCalase blend. Specialized enzymes break down phytates and plant cell walls, releasing minerals and nutrients that would otherwise pass through unabsorbed.",
+    "One capsule per meal. A practical dose that fits easily into any routine."
+  ],
+  "who_its_for": "For adults who experience occasional bloating, gas, or heaviness after meals. Also valuable if reduced digestive capacity (from age, stress, or other factors) means your body is not breaking food down as completely as it should.",
+  "how_to_take": "With meals, or immediately before eating. Take one capsule at the start of each meal for best results.",
+  "safety_note": "If you have a known allergy to pineapple or papaya, use caution (contains bromelain and papain). Gentian root stimulates acid production; if you have active gastric ulcers or severe reflux, consult your provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Bloated & Over It",
+    "bundle_slug": "bloated-and-over-it",
+    "message": "Part of the Bloated & Over It bundle. Broad-spectrum digestive enzymes address incomplete digestion, one of the most common root causes of bloating."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "hcl-b-p",
+      "name": "HCl-B-P",
+      "reason": "Betaine HCl addresses stomach acid while D-Enzyme handles enzyme activity, covering both phases of upper GI digestion."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Better digestion reduces undigested food particles that can feed opportunistic organisms and challenge gut immune function."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Supports the intestinal lining that absorbs the nutrients D-Enzyme helps break down."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

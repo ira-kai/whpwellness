@@ -1,0 +1,46 @@
+{
+  "slug": "l-theanine",
+  "name": "L-Theanine",
+  "price": 43.0,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "l-theanine suntheanine calm focus supplement",
+  "meta_title": "L-Theanine | Suntheanine for Calm Focus",
+  "meta_description": "200mg Suntheanine L-Theanine per capsule. Promotes alpha brain wave activity for calm, focused alertness without drowsiness.",
+  "category": "Stress & Mood",
+  "brand": "ojus",
+  "description": "There is a difference between calm and sedated. Most compounds that reduce anxiety also reduce alertness. L-Theanine does something unusual: it increases GABA, serotonin, and dopamine while simultaneously reducing excitatory glutamate signaling. The result, consistently shown on EEG, is alpha brain wave activity, the neurological signature of relaxed, focused attention. This formula delivers 200mg of Suntheanine, the patented pure L-isomer form. One capsule daily, or as needed.",
+  "formulation_rationale": "L-Theanine crosses the blood-brain barrier within 30 to 40 minutes of ingestion and modulates neurotransmitter activity in a way that is genuinely unique among calming compounds. EEG studies consistently show that it promotes alpha wave activity, the brain wave pattern associated with wakeful relaxation, creativity, and focus. Suntheanine is the gold standard form: it is produced via an enzymatic process that yields pure L-isomer theanine (the biologically active form), unlike synthetic racemic mixtures that contain both L and D isomers. At 200mg, this matches the dose used in the majority of published clinical research on theanine's cognitive and calming effects. The single-ingredient format provides maximum flexibility for stacking and dosing.",
+  "benefit_bullets": [
+    "Promotes alpha brain wave activity. L-Theanine (200mg) increases alpha wave production within 30 to 40 minutes, supporting the calm, focused mental state associated with creative and productive work.",
+    "Supports balanced neurotransmitter levels. Theanine modulates GABA, serotonin, dopamine, and glutamate simultaneously, promoting relaxation without the drowsiness associated with GABAergic sedatives.",
+    "Pure L-isomer form. Suntheanine is produced via enzymatic synthesis, yielding exclusively the biologically active L-isomer rather than a racemic mix of L and D forms.",
+    "Flexible, stackable format. Single-ingredient capsules allow precise dosing, whether used alone for calm focus or combined with other cognitive or stress-support formulas."
+  ],
+  "who_its_for": "Anyone looking for calm focus without sedation, whether for work, study, or managing daily stress. Particularly useful for people who are sensitive to stimulants, experience racing thoughts, or want to smooth out the edges of caffeine without losing its benefits.",
+  "how_to_take": "Can be taken with or without food, any time of day. For daytime calm focus, take in the morning or early afternoon. For evening relaxation, take 30 to 60 minutes before bed. L-Theanine promotes calm without drowsiness, so it works well in either context.",
+  "safety_note": "L-Theanine is one of the most well-tolerated calming compounds available. It may enhance the effects of blood pressure-lowering medications. If you are on antihypertensive drugs, discuss with your healthcare provider.",
+  "bundle_callout": {
+    "bundle_name": "The Student Stack",
+    "bundle_slug": "student-stack",
+    "message": "Part of The Student Stack. 200mg Suntheanine promotes alpha brain waves for focused calm, pairing with Mag-Threonate, active B vitamins, and Bacopa for layered cognitive support."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Adaptogenic herbs for longer-term HPA axis support, complementing L-Theanine's immediate calming and focus effects."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium L-Threonate crosses the blood-brain barrier and supports synaptic function, deepening the neurological calm that theanine initiates."
+    },
+    {
+      "slug": "calm",
+      "name": "Calm",
+      "reason": "GABA and additional calming nutrients for comprehensive stress and mood support throughout the day."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

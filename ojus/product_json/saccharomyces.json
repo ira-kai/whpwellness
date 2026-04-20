@@ -1,0 +1,46 @@
+{
+  "slug": "saccharomyces",
+  "name": "Saccharomyces",
+  "price": 47,
+  "serving_size": "1 capsule",
+  "servings_per_container": null,
+  "focus_keyword": "saccharomyces boulardii probiotic",
+  "meta_title": "Saccharomyces Boulardii | GI Probiotic | Ojus",
+  "meta_description": "5 billion CFU of Saccharomyces boulardii, a beneficial yeast probiotic that supports GI microbial balance and gut barrier integrity, even during antibiotic use.",
+  "category": "probiotic support",
+  "brand": "ojus",
+  "description": "Most probiotics are bacteria. Saccharomyces boulardii is a beneficial yeast, and that distinction matters more than it might seem. Because it is a yeast, S. boulardii is inherently resistant to antibiotics, which means it can be taken during antibiotic therapy without being destroyed alongside the organisms it is meant to support. It also does not compete with bacterial probiotic strains for the same ecological niches. This formula delivers 5 billion CFU per capsule, supporting GI microbial balance, gut barrier integrity, and secretory IgA production through mechanisms unique to its fungal biology.",
+  "formulation_rationale": "S. boulardii occupies a unique niche in gut support. As a yeast, it is unaffected by antibiotics, making it one of the few probiotics that can be taken concurrently with antibiotic therapy. Its mechanisms are well-characterized: it produces proteases that degrade certain bacterial toxins, stimulates secretory IgA (the gut's primary immune defense), supports brush border enzyme activity, and competes with pathogenic organisms for binding sites on the intestinal epithelium. The 420mg dose delivering 5 billion CFU provides a meaningful population of viable organisms per serving.",
+  "benefit_bullets": [
+    "S. boulardii competes with pathogenic organisms for binding sites and produces enzymes that degrade microbial toxins, supporting a healthier GI microbial environment.",
+    "As a yeast, S. boulardii is unaffected by antibacterial antibiotics and can be taken alongside them without losing viability.",
+    "Stimulates secretory IgA production, strengthening the gut's frontline immune response at the mucosal surface.",
+    "Enhances brush border enzyme function, promoting more efficient nutrient breakdown and absorption in the small intestine."
+  ],
+  "who_its_for": "People who need GI microbial balance support, especially during or after antibiotic use when bacterial probiotics may be less effective. Also relevant for travelers, or as a complement to bacterial probiotic regimens where the yeast-based mechanism adds a layer of support that bacteria alone cannot provide.",
+  "how_to_take": "Can be taken with or without food. Because S. boulardii is a yeast and naturally resistant to antibiotics, you can take it at the same time as antibiotic medications without losing viability.",
+  "safety_note": "S. boulardii should be used with caution in immunocompromised individuals or those with central venous catheters, as rare cases of fungemia have been reported. Discontinue if you develop signs of systemic yeast infection. Not the same organism as Candida species.",
+  "bundle_callout": {
+    "bundle_name": "Candida Protocol",
+    "bundle_slug": "candida-protocol",
+    "message": "Part of the Candida Protocol. S. boulardii competes with Candida for adhesion sites and survives alongside the antifungal compounds in this bundle."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Combining yeast and spore-based bacterial probiotics provides microbial support through completely different biological mechanisms."
+    },
+    {
+      "slug": "sbi-remove",
+      "name": "SBI Remove",
+      "reason": "SBI immunoglobulins reduce pathogenic antigen load while S. boulardii actively competes with pathogenic organisms."
+    },
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "S. boulardii supports the microbial environment while GI Rebuild provides structural support for the mucosal lining."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "vita-c",
+  "name": "Vita-C",
+  "price": 31.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "vitamin C bioflavonoid supplement",
+  "meta_title": "Vita-C | Vitamin C with Quercetin & Bioflavonoids",
+  "meta_description": "400mg Vitamin C with quercetin, rutin, citrus bioflavonoids, acerola, and hibiscus. A whole-spectrum vitamin C formula, not just ascorbic acid.",
+  "category": "Immune & Antioxidant",
+  "brand": "ojus",
+  "description": "Vita-C is a whole-spectrum vitamin C formula that goes beyond isolated ascorbic acid. It combines 400mg vitamin C (from ascorbic acid and acerola fruit concentrate) with quercetin, rutin, citrus bioflavonoids, and hibiscus. These plant compounds naturally accompany vitamin C in food and support its absorption, recycling, and antioxidant activity.",
+  "formulation_rationale": "In nature, vitamin C never appears alone. It is always found alongside bioflavonoids, polyphenols, and other plant compounds that work with it. Quercetin and rutin help stabilize and recycle vitamin C after it neutralizes free radicals. Citrus bioflavonoids support capillary integrity and enhance vitamin C uptake. Acerola provides naturally occurring vitamin C with its own polyphenol matrix. And hibiscus adds additional anthocyanins with antioxidant activity. This formula mirrors how vitamin C works in whole foods rather than delivering it in isolation.",
+  "benefit_bullets": [
+    "400mg vitamin C from two sources. Ascorbic acid USP plus acerola fruit concentrate (standardized to 17% vitamin C) for both immediate and food-matrix delivery.",
+    "Includes quercetin (70mg). A flavonoid that supports vitamin C recycling and has its own antioxidant and immune-modulating properties.",
+    "Full bioflavonoid complex. Rutin (50mg), citrus bioflavonoids (50mg), and hibiscus (50mg) work synergistically with vitamin C for whole-spectrum antioxidant support.",
+    "One capsule per serving. Simple daily dosing."
+  ],
+  "who_its_for": "Anyone looking for daily vitamin C support that goes beyond basic ascorbic acid. Particularly relevant for immune support, antioxidant defense, and people who want the benefits of bioflavonoids alongside their vitamin C.",
+  "how_to_take": "Can be taken with or without food. If you are also taking iron, take them together to enhance iron absorption.",
+  "safety_note": "Vitamin C above 1g daily may increase oxalate levels. Use caution if you have a history of kidney stones. Quercetin may interact with certain medications metabolized by CYP3A4.",
+  "bundle_callout": {
+    "bundle_name": "Immune Season",
+    "bundle_slug": "immune-season",
+    "message": "Part of the Immune Season bundle. Additional vitamin C with bioflavonoids brings total C to 1,000mg when paired with the Immune formula."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Broader immune formula with D3, zinc, NAC, and additional quercetin for comprehensive immune defense."
+    },
+    {
+      "slug": "iron",
+      "name": "Iron",
+      "reason": "Vitamin C enhances non-heme iron absorption when taken together."
+    },
+    {
+      "slug": "immune-pro",
+      "name": "Immune Pro",
+      "reason": "Medicinal mushroom beta-glucans activate innate immune pathways, complementing vitamin C's antioxidant role."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

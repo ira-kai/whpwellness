@@ -1,0 +1,47 @@
+{
+  "slug": "ez-meal-1",
+  "name": "EZ Meal",
+  "price": 68.0,
+  "serving_size": "1 scoop",
+  "servings_per_container": 14,
+  "focus_keyword": "meal replacement powder hypoallergenic",
+  "meta_title": "EZ Meal | Clean Meal Replacement Powder",
+  "meta_description": "EZ Meal delivers 19g protein and 200 calories per scoop from rice protein and flaxseed, with L-Glutamine, MCTs, and ALA. Hypoallergenic and easy to digest.",
+  "category": "Meal Replacement",
+  "brand": "ojus",
+  "description": "When your digestive system is sensitive, finding a meal replacement that nourishes without provoking a reaction can be genuinely difficult. Most options contain dairy, soy, gluten, or eggs, and any one of those can be a problem. EZ Meal is built on a rice protein and flaxseed base, two of the least allergenic protein and fiber sources available, with added L-Glutamine (2.5g), MCTs (1.5g), and alpha-lipoic acid (1.3g). Each scoop delivers 200 calories and 19g of protein without the common allergens or irritating ingredients that limit other options.",
+  "formulation_rationale": "Rice protein and flaxseed are chosen specifically because they are safe for individuals on elimination diets or with multiple food sensitivities. L-Glutamine at 2.5g supports intestinal lining integrity, which is especially relevant for anyone using a meal replacement because of digestive challenges. MCTs at 1.5g provide rapidly absorbed fat for energy without requiring bile acid emulsification, easing the digestive burden. ALA at 1.3g supports mitochondrial energy production and glucose metabolism. The formula is designed to provide clean nutrition during periods when your digestive system needs support, not additional challenges.",
+  "benefit_bullets": [
+    "Hypoallergenic protein source. Rice protein avoids the dairy, soy, and gluten sensitivities that limit other meal replacements.",
+    "Gut-supportive nutrition. 2.5g L-Glutamine per serving supports intestinal mucosal integrity, making this more than just calories and protein.",
+    "Rapidly absorbed energy from MCTs. 1.5g of medium-chain triglycerides absorb directly into the portal vein for energy without taxing fat digestion.",
+    "Metabolic support. 1.3g alpha-lipoic acid supports mitochondrial energy production and healthy glucose metabolism.",
+    "Clean and practical. 200 calories and 19g protein per scoop, free from common allergens and artificial ingredients."
+  ],
+  "who_its_for": "For adults who need a convenient, well-tolerated meal replacement. Particularly suited if you are on an elimination diet, managing multiple food sensitivities, or need easily digestible nutrition during GI recovery.",
+  "how_to_take": "Mix one scoop into water, milk, or a smoothie. Can be used as a meal replacement or between meals.",
+  "safety_note": "Contains flaxseed. If you have a flax allergy (uncommon but possible), do not use. The ALA content may lower blood sugar; if you are on glucose-lowering medication, monitor accordingly.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Pairs with the Gut Reset bundle. Hypoallergenic meal support during gut protocols when regular food is restricted."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "A digestive enzyme with your meal replacement ensures maximum nutrient absorption, especially during GI recovery."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Adding prebiotic fiber to EZ Meal boosts the fiber content and feeds beneficial gut bacteria."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Probiotic and immunoglobulin support pairs well with a hypoallergenic meal replacement during gut restoration."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

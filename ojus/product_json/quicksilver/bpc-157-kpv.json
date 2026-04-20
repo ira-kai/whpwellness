@@ -1,0 +1,37 @@
+{
+  "slug": "bpc-157-kpv",
+  "name": "BPC-157 + KPV",
+  "price": 210.00,
+  "serving_size": "0.5 mL (1 pump)",
+  "servings_per_container": 60,
+  "focus_keyword": "BPC-157 KPV peptide gut repair",
+  "meta_title": "BPC-157 + KPV | Quicksilver Scientific Peptide Formula",
+  "meta_description": "Quicksilver Scientific's BPC-157 (500mcg) + KPV (500mcg) peptide formula for gut tissue repair and anti-inflammatory support. Liposomal delivery, 60 servings.",
+  "category": "Peptides",
+  "brand": "quicksilver",
+
+  "description": "BPC-157 + KPV is a dual-peptide formula from Quicksilver Scientific that combines two peptides with complementary mechanisms. BPC-157 (Body Protection Compound, 500mcg) is a synthetic peptide based on a sequence found in human gastric juice, with research supporting its role in tissue repair, particularly in the GI tract. KPV (500mcg) is a tripeptide fragment of alpha-MSH (alpha-melanocyte stimulating hormone) with documented anti-inflammatory activity, including research on intestinal inflammation.",
+
+  "why_we_carry_it": "Peptide therapeutics are one of the fastest-growing areas in functional medicine, but delivery has been a challenge. Peptides are fragile. Stomach acid and proteolytic enzymes break them down rapidly, which is why many peptide protocols have traditionally required injection. Quicksilver's liposomal delivery protects BPC-157 and KPV from gastric degradation, making oral peptide supplementation viable. The pairing of these two specific peptides is clinically logical: BPC-157 supports tissue repair and angiogenesis (new blood vessel formation) in damaged gut tissue, while KPV addresses the inflammatory environment that is often driving the tissue damage in the first place. Repair and calm, in one formula.",
+
+  "benefit_bullets": [
+    "BPC-157 for tissue repair. A gastric peptide with research supporting gut mucosal healing, angiogenesis, and tissue recovery in the GI tract.",
+    "KPV for anti-inflammatory support. A tripeptide from alpha-MSH with documented activity in intestinal inflammation models.",
+    "Complementary mechanisms. BPC-157 repairs tissue while KPV addresses the inflammatory environment driving tissue damage.",
+    "Liposomal peptide delivery. Protects fragile peptide bonds from stomach acid and enzymes, enabling effective oral dosing of compounds that previously required injection."
+  ],
+
+  "who_its_for": "People working with a practitioner on gut repair, intestinal inflammation, or tissue recovery protocols. Peptide supplementation should be guided by a healthcare provider.",
+  "how_to_take": "Take 0.5 mL (1 pump) by mouth. Hold in the mouth for 30 seconds before swallowing. Best taken on an empty stomach. Dosing frequency and duration should be directed by your healthcare provider.",
+
+  "safety_note": "Peptide supplementation is an emerging area of clinical research. BPC-157 and KPV should be used under practitioner guidance. Limited long-term safety data exists for oral peptide supplementation. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "gi-reinforce", "name": "GI-Reinforce", "reason": "GI-Reinforce supports mucosal barrier integrity alongside BPC-157's tissue repair activity."},
+    {"slug": "glutathione-cacao-mint", "name": "Glutathione Cacao Mint", "reason": "Glutathione supports the antioxidant environment in the gut lining, complementing KPV's anti-inflammatory action."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

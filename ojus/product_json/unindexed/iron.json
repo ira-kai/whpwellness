@@ -1,0 +1,42 @@
+{
+  "slug": "iron",
+  "name": "Iron",
+  "price": 17.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "iron bisglycinate chelate gentle",
+  "meta_title": "Iron | Ferrochel Bisglycinate Chelate (29mg)",
+  "meta_description": "Iron as Ferrochel bisglycinate chelate (29mg). Stays intact through the stomach, reducing the free iron that causes nausea and constipation. 60 capsules.",
+  "category": "Minerals",
+  "brand": "ojus",
+
+  "description": "Iron as Ferrochel ferrous bisglycinate chelate, 29mg per capsule. Ferrochel is a patented chelated iron that remains intact through the stomach and upper intestine, significantly reducing the free iron released in the gut. This matters because free iron is the reason most iron supplements cause nausea, constipation, and stomach discomfort.",
+
+  "formulation_rationale": "The most common reason people stop taking iron is side effects. Ferrous sulfate, ferrous fumarate, and ferrous gluconate release free iron ions in the gut lumen, which generate free radical byproducts that irritate the intestinal lining, slow motility, and produce the nausea and constipation that make compliance difficult. Ferrochel works differently. The bisglycinate chelate structure keeps the iron bound and protected through the stomach and upper intestine, so minimal free iron is released in the gut lumen. Less free iron means less oxidative irritation. The chelate structure also reduces competition with other minerals for absorption, which means you can take it alongside calcium, magnesium, or zinc with less interference. Clinical research has shown comparable or superior hemoglobin responses at lower elemental iron doses compared to ferrous sulfate (Pineda and Ashmead, 2001).",
+
+  "benefit_bullets": [
+    "Ferrochel bisglycinate chelate. The chelate structure keeps iron bound through the stomach and upper intestine, significantly reducing the free iron and GI side effects associated with conventional iron forms (Pineda and Ashmead, 2001).",
+    "Reduced mineral competition. The chelate structure reduces interference with other minerals, so it can be taken alongside calcium, magnesium, or zinc with less impact on absorption.",
+    "Well-studied bioavailability. Clinical research shows comparable hemoglobin response at lower elemental doses compared to ferrous sulfate.",
+    "60 capsules. A two-month supply at one capsule daily."
+  ],
+
+  "who_its_for": "People with lab-confirmed iron deficiency or low ferritin, especially those who have struggled with GI side effects from other iron forms. Commonly recommended for women of reproductive age, vegetarians, and athletes with increased iron needs.",
+  "how_to_take": "Can be taken with or without food. Bisglycinate chelate does not require an empty stomach like other iron forms. Taking with vitamin C may enhance absorption.",
+
+  "safety_note": "Iron supplementation should be guided by lab work (serum ferritin, TIBC, CBC). Supplementing iron without confirmed deficiency can lead to iron overload and oxidative damage. Keep out of reach of children.",
+
+  "bundle_callout": {
+    "bundle_name": "Her Daily Foundation",
+    "bundle_slug": "her-daily-foundation",
+    "message": "Part of the Her Daily Foundation bundle. Ferrochel bisglycinate chelate for gentle iron repletion, paired with a methylated multi, omega-3, and magnesium."
+  },
+
+  "pairs_well_with": [
+    {"slug": "vita-c", "name": "Vita-C", "reason": "Vitamin C enhances non-heme iron absorption when taken at the same meal."},
+    {"slug": "super-b-complex", "name": "Super B Complex", "reason": "B12 and folate are required for healthy red blood cell formation alongside adequate iron."},
+    {"slug": "vital-k-d", "name": "Vital K+D", "reason": "Vitamin D supports iron metabolism and healthy red blood cell production."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

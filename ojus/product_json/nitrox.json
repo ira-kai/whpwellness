@@ -1,0 +1,46 @@
+{
+  "slug": "nitrox",
+  "name": "NitroX",
+  "price": 54.99,
+  "serving_size": "4 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "nitric oxide supplement citrulline grape seed",
+  "meta_title": "NitroX | Nitric Oxide & Cardiovascular Support",
+  "meta_description": "L-Citrulline 3g, MegaNatural-BP grape seed extract, and quercetin. Three-pathway nitric oxide support for vascular flexibility and healthy blood pressure.",
+  "category": "Cardiovascular",
+  "brand": "ojus",
+  "description": "Nitric oxide (NO) is the primary signaling molecule for vascular relaxation. It tells smooth muscle cells in blood vessel walls to relax, increasing blood flow and supporting healthy blood pressure. But producing NO is only half the equation. Your body also has to protect it from oxidative breakdown before it can act. NitroX addresses both sides: L-Citrulline (3g) to generate NO, MegaNatural-BP grape seed extract (200mg) to protect endothelial function, and quercetin (200mg) to prevent premature NO degradation. Four capsules daily.",
+  "formulation_rationale": "L-Citrulline (3g) is the most efficient oral precursor to nitric oxide. Unlike L-arginine, citrulline bypasses hepatic first-pass metabolism and is converted to arginine in the kidneys, resulting in sustained, higher plasma arginine levels and greater NO synthesis than arginine supplementation itself. MegaNatural-BP grape seed extract (200mg) supports endothelial function through a different mechanism: its oligomeric proanthocyanidins promote endothelium-dependent vasodilation and help protect NO from oxidative degradation once produced. MegaNatural-BP is a patented, clinically studied extract standardized for vascular benefit. Quercetin (200mg) rounds out the formula by reducing oxidative quenching of NO (the process by which superoxide destroys NO before it can act) and by supporting healthy inflammatory signaling in the vascular endothelium. The logic is produce, protect, and preserve: citrulline generates NO, grape seed protects endothelial function, and quercetin prevents premature NO breakdown.",
+  "benefit_bullets": [
+    "Supports sustained nitric oxide production. L-Citrulline (3g) bypasses liver metabolism and converts to arginine in the kidneys, producing higher and more sustained plasma arginine levels than arginine supplementation alone.",
+    "Promotes endothelial function. MegaNatural-BP grape seed extract (200mg) is a patented, clinically studied extract whose proanthocyanidins support endothelium-dependent vasodilation.",
+    "Protects nitric oxide from oxidative breakdown. Quercetin (200mg) reduces the superoxide-mediated destruction of NO, helping preserve the nitric oxide your body produces.",
+    "Supports healthy blood pressure. All three ingredients contribute to vascular smooth muscle relaxation through complementary mechanisms, supporting blood pressure already within the normal range."
+  ],
+  "who_its_for": "People seeking cardiovascular and nitric oxide support, whether for blood pressure maintenance, exercise performance, or overall vascular health. Also relevant for anyone aware that NO production naturally declines with age.",
+  "how_to_take": "Can be taken with or without food. Some people prefer taking it 30 to 60 minutes before exercise to support nitric oxide levels during activity.",
+  "safety_note": "This formula may lower blood pressure. If you are on antihypertensive medications, monitor blood pressure closely and consult your healthcare provider before use. Quercetin may interact with cyclosporine and certain antibiotics. Not recommended for use with PDE5 inhibitors (sildenafil, tadalafil) without medical supervision, as the combination may cause excessive blood pressure reduction.",
+  "bundle_callout": {
+    "bundle_name": "Heart & Circulation",
+    "bundle_slug": "heart-and-circulation",
+    "message": "Part of the Heart & Circulation bundle. Three-pathway nitric oxide support for blood flow, paired with polyphenol extracts, nattokinase, and omega-3."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "nato-k",
+      "name": "Nato-K",
+      "reason": "Nattokinase supports healthy blood viscosity and fibrin metabolism, complementing NitroX's vascular flexibility and NO support for comprehensive circulatory health."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3s support endothelial function and healthy triglyceride levels, adding another layer to NitroX's cardiovascular benefits."
+    },
+    {
+      "slug": "mag-threonate",
+      "name": "Mag Threonate",
+      "reason": "Magnesium supports vascular smooth muscle relaxation and is a cofactor in nitric oxide synthase activity."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

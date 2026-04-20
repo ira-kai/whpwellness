@@ -1,0 +1,47 @@
+{
+  "slug": "turmeric",
+  "name": "Turmeric",
+  "price": 54.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "turmeric curcumin supplement",
+  "meta_title": "Turmeric | Complete Turmeric Matrix Extract | Ojus",
+  "meta_description": "500mg Complete Turmeric Matrix with curcuminoids, volatile oils, and turmerin protein. Full-spectrum turmeric with its natural absorption enhancers preserved.",
+  "category": "anti-inflammatory support",
+  "brand": "ojus",
+  "description": "Most curcumin supplements face a fundamental problem: curcumin alone has poor oral bioavailability. Various solutions exist (piperine, liposomal encapsulation, nanoparticle formulations), but the turmeric root itself already contains compounds that enhance curcumin's absorption and activity. This formula takes that approach. Each capsule provides 500mg of a Complete Turmeric Matrix extract that preserves the full bioactive profile of the root: 45-55% curcuminoids, 3-8% volatile oils (including ar-turmerone), and 2-6% turmerin protein. One capsule, once daily.",
+  "formulation_rationale": "The Complete Turmeric Matrix preserves the natural synergy within the turmeric root. The volatile oil fraction (ar-turmerone, turmerone) has been shown to improve curcumin absorption while also contributing its own anti-inflammatory activity. Turmerin, a water-soluble protein unique to turmeric, adds antioxidant activity through a mechanism distinct from the curcuminoids. By keeping the whole matrix intact, this extract delivers curcumin in context, the way the plant produces it, with its natural absorption enhancers and complementary bioactives preserved. The curcuminoids themselves modulate NF-kB and COX-2 pathways, two of the body's primary inflammatory signaling cascades.",
+  "benefit_bullets": [
+    "Preserves curcuminoids, volatile oils, and turmerin in their natural ratios rather than isolating curcumin alone, maintaining the synergy present in the whole root.",
+    "Curcuminoids modulate NF-kB and COX-2 pathways, two of the body's primary inflammatory signaling cascades.",
+    "The retained volatile oil fraction (including ar-turmerone) supports curcumin absorption without requiring synthetic additives like piperine.",
+    "Curcuminoids and turmerin provide antioxidant activity through different mechanisms, offering cellular protection on multiple fronts.",
+    "500mg of complete matrix in a single daily capsule."
+  ],
+  "who_its_for": "People seeking daily anti-inflammatory and antioxidant support from turmeric who prefer a whole-matrix approach that works with the plant's own chemistry rather than relying on isolated curcumin with synthetic absorption enhancers.",
+  "how_to_take": "Take with a meal containing fat. Curcumin is fat-soluble, and the natural volatile oils in this formula support absorption further when paired with dietary fat.",
+  "safety_note": "Turmeric may increase bile flow. Use caution if you have gallstones or bile duct obstruction. May interact with blood thinners, as curcumin has mild antiplatelet activity. Discontinue at least two weeks before scheduled surgery.",
+  "bundle_callout": {
+    "bundle_name": "The GLP-1 Stack",
+    "bundle_slug": "glp-1-stack",
+    "message": "Part of The GLP-1 Stack. Curcumin activates GPR40/120 receptors on L-cells, stimulating GLP-1 through a completely different pathway than fiber or berberine."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "redox-u",
+      "name": "Redox-U",
+      "reason": "Quercetin and curcumin modulate overlapping inflammatory pathways through different mechanisms, creating broader anti-inflammatory coverage."
+    },
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3s address lipid-mediated inflammation while curcumin targets NF-kB, covering complementary aspects of the inflammatory response."
+    },
+    {
+      "slug": "vital-aminos",
+      "name": "Vital Aminos",
+      "reason": "Curcumin's support for joint comfort pairs well with the collagen and connective tissue building blocks in Vital Aminos."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

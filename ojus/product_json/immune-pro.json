@@ -1,0 +1,47 @@
+{
+  "slug": "immune-pro",
+  "name": "Immune Pro",
+  "price": 35.0,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "medicinal mushroom immune supplement",
+  "meta_title": "Immune Pro | 6-Mushroom Organic Immune Blend",
+  "meta_description": "1g organic blend of Chaga, Reishi, Cordyceps, Turkey Tail, Pearl Oyster, and Shiitake. Six mushroom species for broad-spectrum immune modulation.",
+  "category": "Immune Support",
+  "brand": "ojus",
+  "description": "Different mushroom species produce different beta-glucans and polysaccharides, and those compounds engage different arms of the immune system. That is why a single mushroom, no matter how well-studied, only covers part of the picture. Immune Pro combines six organic mushroom species (Chaga, Reishi, Cordyceps, Turkey Tail, Pearl Oyster, and Shiitake) at 1g per serving for broad-spectrum immune modulation. Two capsules daily.",
+  "formulation_rationale": "No single mushroom covers the full spectrum of immune support, which is why Immune Pro combines six with complementary mechanisms. Turkey Tail is rich in PSK and PSP, polysaccharopeptides that support NK cell and T-cell activity. Reishi provides triterpenes and beta-glucans that modulate immune signaling, helping the system respond appropriately rather than overreact. Chaga concentrates betulinic acid and melanin compounds that support antioxidant defense and immune surveillance. Cordyceps supports oxygen utilization and has a long history of use for respiratory and immune vitality. Shiitake delivers lentinan, a beta-glucan studied for its ability to support macrophage and dendritic cell activation. Pearl Oyster adds pleuran, a beta-glucan with complementary immunomodulatory activity. All six are certified organic, with no fillers, mycelium-on-grain, or starch. This is fruiting body and mycelium grown to specification.",
+  "benefit_bullets": [
+    "Broad-spectrum immune modulation. Six mushroom species deliver diverse beta-glucans and polysaccharides that engage multiple arms of the immune system simultaneously.",
+    "Supports NK cell and T-cell activity. Turkey Tail polysaccharopeptides (PSK, PSP) are among the most studied compounds in mushroom immunology.",
+    "Balances immune response. Reishi triterpenes support appropriate immune signaling, helping the system calibrate rather than simply accelerate.",
+    "Certified organic, no fillers. All mushrooms are organically grown, free from mycelium-on-grain and starch fillers that dilute potency in lower-quality products.",
+    "Supports respiratory and antioxidant defense. Cordyceps and Chaga contribute complementary benefits for oxygen utilization and free radical management."
+  ],
+  "who_its_for": "Anyone looking for daily immune support through functional mushrooms, whether during seasonal challenges, periods of high stress, or as a year-round foundation for immune resilience.",
+  "how_to_take": "Can be taken with or without food. Some people find it easiest to take with breakfast as part of a daily routine.",
+  "safety_note": "Reishi and other medicinal mushrooms may have mild blood-thinning properties. If you are taking anticoagulant medications or preparing for surgery, consult your healthcare provider before use.",
+  "bundle_callout": {
+    "bundle_name": "Immune Season",
+    "bundle_slug": "immune-season",
+    "message": "Part of the Immune Season bundle. Six-mushroom beta-glucans activate innate immunity through Dectin-1 receptors, complementing the adaptive immune support in Immune."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "immune",
+      "name": "Immune",
+      "reason": "Combines vitamin- and mineral-based immune support (C, D3, zinc, NAC, quercetin) with Immune Pro's mushroom beta-glucans for comprehensive coverage."
+    },
+    {
+      "slug": "vita-c",
+      "name": "Vita-C",
+      "reason": "High-dose vitamin C for additional antioxidant and immune cell support alongside mushroom polysaccharides."
+    },
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Stress directly suppresses immune function. Adaptogenic support helps maintain immune readiness during high-demand periods."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -1,0 +1,46 @@
+{
+  "slug": "gi-reinforce",
+  "name": "GI Reinforce",
+  "price": 57.99,
+  "serving_size": "4 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "colostrum supplement gut immunity",
+  "meta_title": "GI Reinforce | Bovine Colostrum & Immunoglobulin Support",
+  "meta_description": "Bovine colostrum concentrate (2.5g) with 1g immunoglobulin G and lactoferrin. Immune and gut barrier support in one formula.",
+  "category": "Gut Health",
+  "brand": "ojus",
+  "description": "GI Reinforce delivers bovine colostrum concentrate (2.5g per serving) standardized to 1g of immunoglobulin G (IgG), plus lactoferrin. Colostrum is the first nutrition produced by mammals after birth, rich in immune factors that support gut barrier integrity, pathogen defense, and mucosal immune function. This formula brings those same protective compounds to adult gut health.",
+  "formulation_rationale": "Bovine colostrum shares over 97% structural homology with human colostrum immunoglobulins. IgG binds bacterial endotoxins (lipopolysaccharides) in the gut lumen, reducing their translocation across the intestinal barrier (Weinstock et al., 2014, Digestive Diseases and Sciences). Lactoferrin is an iron-binding glycoprotein with antimicrobial and anti-inflammatory properties. Together, they reinforce the gut's immune defense layer, the mucosal barrier that sits above the epithelial lining. GI Reinforce works at the immune layer of gut health, while products like GI Rebuild work at the structural layer.",
+  "benefit_bullets": [
+    "Delivers 1g immunoglobulin G per serving. IgG binds endotoxins in the gut lumen, reducing their passage across the intestinal barrier (Weinstock et al., 2014).",
+    "Rich in colostrum immune factors. 2.5g bovine colostrum concentrate provides a broad spectrum of immunoglobulins, growth factors, and cytokines.",
+    "Includes lactoferrin (13mg). An iron-binding glycoprotein with antimicrobial properties that supports mucosal immune defense.",
+    "Supports the immune layer of gut health. Works at the mucosal immune barrier, complementing structural gut repair formulas."
+  ],
+  "who_its_for": "People dealing with gut immune challenges, food sensitivities, or frequent GI disruption. Often used alongside structural gut repair products (like GI Rebuild) and probiotics as part of a comprehensive gut restoration protocol.",
+  "how_to_take": "Can be taken with or without food. Some people prefer taking it on an empty stomach so the immunoglobulins can act directly in the gut lumen before food arrives.",
+  "safety_note": "Derived from bovine sources. Not suitable for people with dairy or cow's milk protein allergies. If you are lactose intolerant, colostrum is generally low in lactose but individual tolerance may vary.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Part of the Gut Reset bundle. Bovine colostrum with immunoglobulins and lactoferrin for immune barrier support, working alongside gut repair, probiotics, and prebiotic fiber."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "gi-rebuild",
+      "name": "GI Rebuild",
+      "reason": "Structural gut lining support (L-Glutamine, zinc, DGL) while GI Reinforce handles the immune layer."
+    },
+    {
+      "slug": "bio-spore",
+      "name": "Bio Spores",
+      "reason": "Spore-based probiotics with additional IgG (ImmunoLin) for comprehensive gut immune and microbial support."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzymes to support nutrient absorption alongside immune and barrier repair."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

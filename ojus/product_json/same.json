@@ -1,0 +1,46 @@
+{
+  "slug": "same",
+  "name": "SAMe",
+  "price": 91.99,
+  "serving_size": "2 capsules",
+  "servings_per_container": null,
+  "focus_keyword": "SAMe methylation supplement",
+  "meta_title": "SAMe | Methylation, Mood & Joint Support | Ojus",
+  "meta_description": "400mg SAMe with Quatrefolic methylfolate. Supports methylation cycling, mood balance, joint cartilage maintenance, and liver detoxification.",
+  "category": "methylation support",
+  "brand": "ojus",
+  "description": "SAMe (S-Adenosyl-L-methionine) is your body's primary methyl donor, involved in over 100 biochemical reactions spanning mood regulation, joint cartilage maintenance, and liver detoxification. The challenge with supplementing SAMe on its own is what happens after it donates its methyl group: it becomes homocysteine, which must be recycled back to methionine through a folate-dependent pathway. This formula pairs 400mg of SAMe with 680mcg DFE of Quatrefolic methylfolate to keep that cycle running efficiently, so you get sustained benefit from each dose rather than a downstream bottleneck.",
+  "formulation_rationale": "SAMe works through a cycle: it donates a methyl group, becomes homocysteine, and then must be recycled back to methionine (and eventually SAMe again) via the folate-dependent remethylation pathway. Without adequate active folate, this cycle stalls and homocysteine accumulates. Quatrefolic, the glucosamine salt of 5-MTHF, bypasses MTHFR polymorphisms that can limit folate activation, keeping the methylation cycle running efficiently. This pairing means the 400mg of SAMe is used and recycled effectively rather than creating a downstream bottleneck. On the mood side, SAMe is a methyl donor critical to the synthesis of serotonin, dopamine, and norepinephrine. For joints, it supports proteoglycan synthesis in cartilage. For the liver, it is essential for glutathione production and phase II methylation conjugation.",
+  "benefit_bullets": [
+    "SAMe is a methyl donor critical to the synthesis of serotonin, dopamine, and norepinephrine, supporting healthy mood and emotional balance.",
+    "Supports proteoglycan synthesis in cartilage, contributing to joint cushioning and flexibility over time.",
+    "Essential for glutathione production and phase II methylation conjugation in the liver, supporting healthy detoxification.",
+    "Quatrefolic methylfolate ensures SAMe is efficiently recycled through the methionine cycle, even in individuals with MTHFR variants that limit folate activation."
+  ],
+  "who_its_for": "People seeking support for mood balance, joint comfort, or liver health, particularly those with known methylation challenges, MTHFR polymorphisms, or elevated homocysteine levels that suggest the methylation cycle could use upstream support.",
+  "how_to_take": "Take on an empty stomach, 30 to 60 minutes before a meal. SAMe absorbs best without food and is most effective when taken in the morning.",
+  "safety_note": "SAMe may interact with serotonergic medications (SSRIs, SNRIs, MAOIs, tricyclics, triptans). If you take any psychiatric medication, consult your prescriber before use. Not recommended for individuals with bipolar disorder, as SAMe may trigger manic episodes. Take on an empty stomach for best absorption.",
+  "bundle_callout": {
+    "bundle_name": "Mood Lift",
+    "bundle_slug": "mood-lift",
+    "message": "Part of the Mood Lift bundle. SAMe is the universal methyl donor supporting neurotransmitter synthesis, paired with precursors, omega-3, and methylated B vitamins."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "super-b-complex",
+      "name": "Super B Complex",
+      "reason": "B vitamins (especially B6, B12, and folate) are essential cofactors in the methylation cycle that recycles SAMe."
+    },
+    {
+      "slug": "mb12",
+      "name": "MB12",
+      "reason": "High-dose methylcobalamin further supports the methionine synthase reaction that regenerates SAMe."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin complements SAMe's joint support through a different mechanism, addressing inflammatory signaling in joint tissue."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

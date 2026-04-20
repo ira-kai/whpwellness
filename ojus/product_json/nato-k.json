@@ -1,0 +1,46 @@
+{
+  "slug": "nato-k",
+  "name": "Nato-K",
+  "price": 38.99,
+  "serving_size": "1 Soft Gel",
+  "servings_per_container": 60,
+  "focus_keyword": "nattokinase fibrinolytic enzyme supplement",
+  "meta_title": "Nato-K | Nattokinase Fibrinolytic Enzyme Support",
+  "meta_description": "Nattokinase 100mg (2,000 FU) per soft gel. Supports healthy fibrin metabolism, circulatory function, and normal blood viscosity.",
+  "category": "Cardiovascular",
+  "brand": "ojus",
+  "description": "Your body maintains a constant balance between clot formation (coagulation) and clot breakdown (fibrinolysis). When fibrin accumulates faster than the body can clear it, blood viscosity increases and circulatory efficiency declines. Nato-K delivers 100mg of nattokinase (2,000 fibrinolytic units) per soft gel, a serine protease enzyme originally derived from the traditional Japanese fermented soybean food natto. It supports the fibrinolytic side of that equation. One soft gel daily.",
+  "formulation_rationale": "Nattokinase supports fibrinolysis through multiple mechanisms. It directly degrades fibrin, enhances the body's own production of plasmin (the primary endogenous fibrinolytic enzyme), and supports healthy levels of tissue plasminogen activator (tPA). At 2,000 fibrinolytic units per soft gel, this provides meaningful enzymatic activity in a single daily dose. The soft gel format protects the enzyme from gastric acid degradation, ensuring it reaches the intestine intact for systemic absorption. This is a single-ingredient formula by design: nattokinase's mechanisms are well-defined, and it does not require cofactors to function. The simplicity keeps it stackable and allows precise dosing.",
+  "benefit_bullets": [
+    "Supports healthy fibrin metabolism. Nattokinase directly degrades fibrin and enhances the body's production of plasmin, its primary endogenous fibrinolytic enzyme.",
+    "Promotes normal blood viscosity. By supporting fibrin clearance, nattokinase helps maintain the fluid dynamics essential for healthy circulation.",
+    "Enhances tissue plasminogen activator activity. Nattokinase supports tPA levels, reinforcing the body's own clot-clearing mechanisms through multiple pathways.",
+    "Protected delivery format. The soft gel protects this enzyme from gastric acid degradation, supporting intact delivery to the intestine for systemic absorption."
+  ],
+  "who_its_for": "People seeking natural circulatory support, particularly those interested in maintaining healthy fibrin balance and blood viscosity as part of a cardiovascular wellness routine.",
+  "how_to_take": "Take on an empty stomach, ideally between meals. Nattokinase absorbs best without food, and taking it away from meals allows the enzyme to act systemically rather than on dietary protein.",
+  "safety_note": "Nattokinase has clinically relevant blood-thinning effects. Do not take if you are on anticoagulant medications (warfarin, heparin, direct oral anticoagulants), antiplatelet drugs (aspirin, clopidogrel), or if you have a bleeding disorder. Discontinue at least 2 weeks before any surgical procedure. This is not a product to self-prescribe alongside blood-thinning therapy.",
+  "bundle_callout": {
+    "bundle_name": "Heart & Circulation",
+    "bundle_slug": "heart-and-circulation",
+    "message": "Part of the Heart & Circulation bundle. Nattokinase supports healthy fibrin metabolism and blood viscosity, complementing NO support, polyphenols, and omega-3."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Omega-3 fatty acids support healthy triglyceride levels and endothelial function, complementing nattokinase's fibrinolytic support for comprehensive cardiovascular care."
+    },
+    {
+      "slug": "nitrox",
+      "name": "NitroX",
+      "reason": "Nitric oxide support for vascular flexibility and healthy blood pressure, working alongside nattokinase's effects on blood viscosity."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin supports healthy inflammatory signaling in the vascular endothelium, complementing nattokinase's circulatory benefits."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

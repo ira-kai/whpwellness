@@ -1,0 +1,46 @@
+{
+  "slug": "gi-rebuild",
+  "name": "GI Rebuild",
+  "price": 82.99,
+  "serving_size": "1 Scoop (6.9 grams)",
+  "servings_per_container": 30,
+  "focus_keyword": "gut lining repair supplement",
+  "meta_title": "GI Rebuild | Gut Lining & Intestinal Barrier Support",
+  "meta_description": "L-Glutamine (4g), zinc bisglycinate, DGL, aloe vera, and NAG in one scoop. Targeted structural support for your intestinal lining and barrier function.",
+  "category": "Gut Health",
+  "description": "Your intestinal lining replaces itself every 3 to 5 days, making it one of the most metabolically demanding tissues in your body. When that turnover falls behind, or when the lining is under stress from food sensitivities, microbial imbalance, or inflammation, barrier function suffers. GI Rebuild supplies the raw materials your gut lining needs to maintain that turnover: L-Glutamine (4g), zinc bisglycinate, deglycyrrhized licorice, N-Acetyl-D-Glucosamine, aloe vera, and vitamin A. One scoop daily, mixed into water or a smoothie.",
+  "formulation_rationale": "L-Glutamine (4g) is the preferred energy substrate for enterocytes and supports tight junction integrity. Zinc bisglycinate (chelated for absorption) helps reduce intestinal permeability. DGL coats and soothes mucosal surfaces without the blood pressure effects of whole licorice. N-Acetyl-D-Glucosamine is a building block of the glycosaminoglycan layer that protects the epithelium. Aloe vera gel extract provides polysaccharides that support mucosal hydration. And vitamin A (as palmitate) is essential for epithelial cell differentiation. This is not a probiotic or a digestive enzyme. It is structural support for the gut lining itself, providing what the tissue needs to rebuild and maintain its barrier function.",
+  "benefit_bullets": [
+    "Fuels intestinal cell turnover. L-Glutamine (4g) is the preferred energy source for enterocytes and supports tight junction integrity.",
+    "Supports healthy intestinal permeability. TRAACS zinc bisglycinate (10mg) in a highly bioavailable chelated form helps maintain barrier function.",
+    "Soothes and protects mucosal surfaces. DGL (400mg) supports prostaglandin-mediated mucosal defense without affecting blood pressure.",
+    "Provides structural building blocks. N-Acetyl-D-Glucosamine (500mg) supports the protective glycosaminoglycan layer lining the gut.",
+    "Supports epithelial cell renewal. Vitamin A (600mcg as palmitate) is essential for healthy mucosal tissue differentiation."
+  ],
+  "who_its_for": "For adults working on gut health, whether recovering from food sensitivities, supporting intestinal permeability, or maintaining a healthy gut lining as part of a broader GI protocol. Often used alongside probiotics and digestive enzymes for comprehensive support.",
+  "how_to_take": "Mix one scoop into water or a smoothie. Can be taken with or without food.",
+  "safety_note": "Well-tolerated for most people. If you have a history of liver disease, discuss L-Glutamine supplementation with your healthcare provider, as glutamine metabolism involves hepatic processing.",
+  "bundle_callout": {
+    "bundle_name": "Gut Reset",
+    "bundle_slug": "gut-reset",
+    "message": "Part of the Gut Reset bundle. L-Glutamine, DGL, aloe, and zinc provide the raw materials the gut lining needs to physically rebuild."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio Spores",
+      "reason": "Spore-based probiotics and immunoglobulin G for microbial balance and endotoxin binding, complementing GI Rebuild's structural repair."
+    },
+    {
+      "slug": "d-enzyme",
+      "name": "D-Enzyme",
+      "reason": "Digestive enzyme support to reduce the digestive burden on a healing gut lining."
+    },
+    {
+      "slug": "fiber-fit-1",
+      "name": "Fiber Fit",
+      "reason": "Prebiotic fibers that feed beneficial bacteria and support short-chain fatty acid production for colonocyte health."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

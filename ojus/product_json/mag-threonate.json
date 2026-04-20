@@ -1,0 +1,46 @@
+{
+  "slug": "mag-threonate",
+  "name": "Mag Threonate",
+  "price": 65.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "magnesium l-threonate magtein brain supplement",
+  "meta_title": "Mag Threonate | Magtein Brain-Bioavailable Magnesium",
+  "meta_description": "2g Magtein Magnesium L-Threonate (144mg elemental Mg). The only magnesium form shown to cross the blood-brain barrier and support synaptic density.",
+  "category": "Brain & Cognitive",
+  "brand": "ojus",
+  "description": "Most magnesium supplements raise serum and intracellular magnesium levels throughout the body, but they do not meaningfully increase magnesium concentrations in the brain. The blood-brain barrier is selective, and standard forms (citrate, glycinate, oxide) have limited CNS penetration. Magnesium L-Threonate was developed specifically to solve that problem. Mag Threonate delivers 2g of Magtein, providing 144mg of elemental magnesium targeted to neurological function, synaptic plasticity, and cognitive support. Two capsules daily.",
+  "formulation_rationale": "The threonate molecule acts as a carrier that facilitates transport across the blood-brain barrier, raising cerebrospinal fluid magnesium levels in a way other forms cannot. Once in the brain, magnesium plays a critical role in synaptic plasticity. It regulates NMDA receptor activity, supports synaptic density, and influences long-term potentiation, the cellular mechanism underlying learning and memory. Magtein is the patented, clinically studied form of magnesium L-threonate, and the 2g dose in this formula matches the amounts used in published human research. This is not a general magnesium supplement. It is a targeted neurological formula.",
+  "benefit_bullets": [
+    "Crosses the blood-brain barrier. Magnesium L-Threonate is the only magnesium form demonstrated to effectively increase brain magnesium concentrations, unlike citrate, glycinate, or oxide forms.",
+    "Supports synaptic plasticity. Brain magnesium regulates NMDA receptor activity and supports synaptic density, the structural foundation of learning and memory.",
+    "Clinically studied dose. 2g of Magtein per serving matches the dose used in published clinical research on cognitive function and brain magnesium status.",
+    "Promotes calm without sedation. By modulating excitatory neurotransmission through NMDA receptor regulation, magnesium threonate supports a calm, clear mental state."
+  ],
+  "who_its_for": "People seeking targeted cognitive support, whether for memory, focus, age-related cognitive maintenance, or neurological calm. Particularly relevant for anyone whose primary goal is brain magnesium status rather than general magnesium repletion.",
+  "how_to_take": "In the evening, 30 to 60 minutes before bed. Magnesium threonate supports neurological calm and many people find it helps with sleep quality. Can also be taken during the day if cognitive support is the primary goal.",
+  "safety_note": "Magnesium can interact with certain antibiotics (tetracyclines, fluoroquinolones) and bisphosphonates by reducing their absorption. Separate dosing by at least 2 hours. If you have kidney impairment, consult your healthcare provider before supplementing with any magnesium product, as the kidneys regulate magnesium excretion.",
+  "bundle_callout": {
+    "bundle_name": "Sharp Mind",
+    "bundle_slug": "sharp-mind",
+    "message": "Part of the Sharp Mind bundle. The only magnesium form shown to cross the blood-brain barrier and increase brain magnesium, supporting memory and synaptic plasticity."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "l-theanine",
+      "name": "L-Theanine",
+      "reason": "L-Theanine promotes alpha wave activity while Mag Threonate supports NMDA receptor regulation, creating complementary pathways to calm, focused cognition."
+    },
+    {
+      "slug": "n-adrenal",
+      "name": "N-Adrenal",
+      "reason": "Adaptogenic support for HPA axis resilience, complementing Mag Threonate's targeted work at the synaptic level."
+    },
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ supports neuronal energy metabolism, pairing well with magnesium threonate's synaptic and cognitive benefits for comprehensive brain health."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

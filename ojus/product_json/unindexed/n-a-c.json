@@ -1,0 +1,46 @@
+{
+  "slug": "n-a-c",
+  "name": "N.A.C",
+  "price": 32.99,
+  "serving_size": "1 Capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "NAC supplement glutathione support",
+  "meta_title": "N.A.C | N-Acetyl-L-Cysteine for Glutathione Support",
+  "meta_description": "N-Acetyl-L-Cysteine (500mg) supports glutathione production, liver detoxification, and respiratory health. The body's most critical antioxidant precursor.",
+  "category": "Detox & Liver",
+  "brand": "ojus",
+  "description": "N.A.C provides N-Acetyl-L-Cysteine (500mg per capsule), the most efficient precursor to glutathione, your body's primary intracellular antioxidant. Glutathione is central to Phase II liver detoxification, immune cell function, and protection against oxidative stress. NAC supplies the rate-limiting amino acid (cysteine) that your body needs to produce it.",
+  "formulation_rationale": "Glutathione taken orally has historically poor absorption (though liposomal forms have improved this). NAC sidesteps that problem by providing the cysteine building block and letting your body synthesize glutathione where it's needed. NAC also has direct mucolytic properties, thinning mucus in the respiratory tract, and supports liver detoxification independently of its glutathione role. It is the standard of care for acetaminophen overdose (Smilkstein et al., 1988, NEJM) precisely because of how rapidly it replenishes hepatic glutathione stores.",
+  "benefit_bullets": [
+    "Supports glutathione production. NAC provides the rate-limiting cysteine needed for your body's primary intracellular antioxidant.",
+    "Supports liver detoxification. NAC is the clinical standard for hepatic glutathione replenishment (Smilkstein et al., 1988, NEJM).",
+    "Supports respiratory health. NAC has direct mucolytic properties, helping thin and clear mucus in the airways.",
+    "Versatile antioxidant support. Glutathione is involved in Phase II detox, immune function, and cellular protection against oxidative stress."
+  ],
+  "who_its_for": "Anyone focused on liver health, detoxification support, respiratory wellness, or antioxidant defense. A foundational supplement in integrative and functional medicine protocols.",
+  "how_to_take": "Can be taken with or without food.",
+  "safety_note": "NAC is generally well tolerated. Rarely, it may cause GI discomfort. If you are on nitroglycerin or other nitrate medications, consult your healthcare provider, as NAC may potentiate their effects.",
+  "bundle_callout": {
+    "bundle_name": "The Detox",
+    "bundle_slug": "the-detox",
+    "message": "Part of The Detox bundle. NAC is the rate-limiting precursor to glutathione, paired with Liver Sauce for recycling and direct liposomal glutathione for immediate supply."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "glutathione-cacao-mint",
+      "name": "Glutathione Cacao Mint",
+      "reason": "Direct glutathione supplementation alongside its precursor for comprehensive antioxidant coverage."
+    },
+    {
+      "slug": "liver-sauce-1",
+      "name": "Liver Sauce",
+      "reason": "R-Lipoic Acid, milk thistle, DIM, and quercetin for broad Phase I and Phase II liver support."
+    },
+    {
+      "slug": "detox-2",
+      "name": "Detox 2",
+      "reason": "Artichoke, dandelion, and turmeric to support bile flow and Phase III elimination."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

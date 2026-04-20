@@ -1,0 +1,37 @@
+{
+  "slug": "bpc-157-tb-500",
+  "name": "BPC-157 + TB-500",
+  "price": 210.00,
+  "serving_size": "0.5 mL (1 pump)",
+  "servings_per_container": 60,
+  "focus_keyword": "BPC-157 TB-500 peptide tissue repair",
+  "meta_title": "BPC-157 + TB-500 | Quicksilver Scientific Tissue Repair",
+  "meta_description": "Quicksilver Scientific's BPC-157 (500mcg) + TB-500 (500mcg) peptide formula for systemic tissue repair and recovery. Liposomal delivery, 60 servings.",
+  "category": "Peptides",
+  "brand": "quicksilver",
+
+  "description": "BPC-157 + TB-500 is a dual-peptide tissue repair formula from Quicksilver Scientific. BPC-157 (500mcg) is a synthetic peptide derived from a sequence in human gastric juice with research supporting wound healing, tendon repair, and gut mucosal recovery. TB-500 (500mcg) is a synthetic fragment of thymosin beta-4, a naturally occurring peptide involved in cell migration, blood vessel formation, and tissue repair throughout the body. Where BPC-157 + KPV is focused on the gut, this formula is oriented toward systemic tissue recovery.",
+
+  "why_we_carry_it": "BPC-157 and TB-500 are two of the most researched peptides in the tissue repair space, and they work through different mechanisms that complement each other. BPC-157 promotes angiogenesis (new blood vessel formation) and has particular affinity for GI and tendon tissue. TB-500 works upstream by promoting cell migration to injury sites and supporting the actin cytoskeleton that cells need to move and rebuild. Together, they address both the structural repair and the vascular supply that injured tissue needs to recover. Quicksilver's liposomal delivery is what makes this formula practical. Both peptides are degraded by stomach acid and peptidases in standard oral form. The phospholipid encapsulation protects them through the GI tract so they can reach systemic circulation intact.",
+
+  "benefit_bullets": [
+    "BPC-157 for targeted tissue repair. Research supports wound healing, tendon recovery, and angiogenesis in damaged tissue.",
+    "TB-500 for systemic recovery. A thymosin beta-4 fragment that supports cell migration to injury sites and structural rebuilding of damaged tissue.",
+    "Complementary repair mechanisms. BPC-157 supports blood vessel formation in injured areas; TB-500 supports the cellular migration and structural remodeling needed for recovery.",
+    "Liposomal delivery for oral peptide viability. Protects both peptides from gastric degradation, enabling effective oral dosing."
+  ],
+
+  "who_its_for": "People working with a practitioner on tissue recovery, injury rehabilitation, or musculoskeletal repair protocols. This formula is oriented toward systemic tissue repair rather than gut-specific support (see BPC-157 + KPV for gut-focused protocols).",
+  "how_to_take": "Take 0.5 mL (1 pump) by mouth. Hold in the mouth for 30 seconds before swallowing. Best taken on an empty stomach. Dosing frequency and protocol duration should be directed by your healthcare provider.",
+
+  "safety_note": "Peptide supplementation is an emerging area. Both BPC-157 and TB-500 should be used under practitioner guidance. TB-500 may theoretically promote cell growth in existing tissues, so it should be avoided by anyone with a history of cancer or active malignancy. Not recommended during pregnancy or breastfeeding.",
+
+  "bundle_callout": null,
+
+  "pairs_well_with": [
+    {"slug": "bpc-157-kpv", "name": "BPC-157 + KPV", "reason": "Some practitioners use both formulas: TB-500 for systemic tissue repair and KPV for gut-specific anti-inflammatory support, with BPC-157 bridging both."},
+    {"slug": "omega-capsules", "name": "Omega Capsules", "reason": "Omega-3 fatty acids support healthy inflammatory response and provide the structural lipids that repairing tissues need."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

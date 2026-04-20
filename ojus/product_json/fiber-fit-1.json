@@ -1,0 +1,47 @@
+{
+  "slug": "fiber-fit-1",
+  "name": "Fiber Fit",
+  "price": 67.0,
+  "serving_size": "1 scoop",
+  "servings_per_container": 30,
+  "focus_keyword": "prebiotic fiber blend multi-source",
+  "meta_title": "Fiber Fit | Multi-Source Prebiotic Fiber Blend",
+  "meta_description": "Fiber Fit delivers 11g of fiber per scoop from 11 diverse prebiotic sources including Solnul, Livaux, Sunfiber, and baobab for gut and metabolic support.",
+  "category": "Fiber & Prebiotics",
+  "brand": "ojus",
+  "description": "Your gut microbiome is an ecosystem, and different bacterial species ferment different types of fiber. A single-source fiber supplement feeds only a narrow band of organisms. That is why Fiber Fit uses 11 sources: resistant potato starch (Solnul), baobab fruit (FIBRiSS), golden kiwi (Livaux), resistant tapioca dextrin, oat beta glucan, glucomannan, acacia, partially hydrolyzed guar gum (Sunfiber), chia, flax, and larch arabinogalactan. Each scoop delivers 11g of fiber across the major fiber categories, supporting microbial diversity rather than favoring a few species.",
+  "formulation_rationale": "Resistant starches (potato, tapioca) feed butyrate-producing bacteria. Butyrate is the primary fuel source for colonocytes, making it central to gut barrier health. Soluble fibers (acacia, PHGG/Sunfiber, glucomannan) support viscosity and satiety. Beta glucan (oat) supports immune function and cholesterol metabolism. Arabinogalactan (larch) is a prebiotic that also supports immune cell activity. Livaux golden kiwi specifically promotes Faecalibacterium prausnitzii, one of the most important commensal bacteria for gut barrier function. Baobab (FIBRiSS) provides a polyphenol-rich prebiotic. The blend creates a broad, sustained fermentation profile across different segments of the colon, which is how diverse fiber intake works in a whole-food diet.",
+  "benefit_bullets": [
+    "11 diverse fiber sources. Feeds a wide range of beneficial bacterial species, supporting microbial diversity rather than favoring a narrow band.",
+    "11g fiber per scoop. A meaningful daily fiber dose that moves the needle on the 25 to 38g daily target most adults fall short of.",
+    "Butyrate production. Resistant starches (Solnul, tapioca) are preferentially fermented into butyrate, the primary fuel source for colonocytes.",
+    "Supports a keystone species. Livaux golden kiwi extract specifically promotes Faecalibacterium prausnitzii, which is critical for gut barrier function.",
+    "Metabolic support. Soluble fibers and beta glucan support healthy blood sugar response and cholesterol metabolism."
+  ],
+  "who_its_for": "For anyone looking to increase daily fiber intake with a diverse, well-tolerated prebiotic blend. Particularly valuable if you are working on gut health, metabolic support, or microbiome diversity and want broad coverage rather than a single fiber type.",
+  "how_to_take": "Mix into water or a smoothie. Start with half a scoop and increase gradually over a week to allow your GI tract to adjust.",
+  "safety_note": "If you are not accustomed to high fiber intake, start with half a scoop and increase gradually over 1 to 2 weeks to allow your microbiome to adapt. Rapid increases in fiber can cause gas and bloating. Contains flax and chia (seed allergies are rare but possible). Glucomannan expands significantly in water; always mix thoroughly and drink with adequate liquid.",
+  "bundle_callout": {
+    "bundle_name": "The GLP-1 Stack",
+    "bundle_slug": "glp-1-stack",
+    "message": "Part of The GLP-1 Stack. Soluble fiber ferments into SCFAs that activate FFAR2/3 receptors on L-cells, the most established dietary pathway to GLP-1 production."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "bio-spore",
+      "name": "Bio-Spore",
+      "reason": "Spore-based probiotics colonize the gut while Fiber Fit feeds the beneficial bacteria they help establish."
+    },
+    {
+      "slug": "amp-k",
+      "name": "AMP-K",
+      "reason": "Fiber supports the gut microbiome changes that influence berberine metabolism and enhances the metabolic benefits of AMPK activation."
+    },
+    {
+      "slug": "probiotic-100",
+      "name": "Probiotic-100",
+      "reason": "High-dose probiotics establish beneficial strains, and prebiotic fiber provides the substrate they need to thrive."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

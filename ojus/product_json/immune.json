@@ -1,0 +1,47 @@
+{
+  "slug": "immune",
+  "name": "Immune",
+  "price": 49.99,
+  "serving_size": "2 Capsules",
+  "servings_per_container": 30,
+  "focus_keyword": "immune support supplement vitamin C zinc NAC",
+  "meta_title": "Immune | Vitamin C, D3, Zinc, NAC & Quercetin",
+  "meta_description": "Five evidence-backed immune compounds in one serving: Vitamin C, D3, chelated zinc, NAC, and quercetin. Layered daily support for immune defense.",
+  "category": "Immune Support",
+  "brand": "ojus",
+  "description": "Immune function is not one mechanism. It involves physical barriers, innate surveillance, adaptive responses, and the redox environment that ties them all together. Immune brings together five compounds that support different layers of that system: Vitamin C (600mg), D3 (62.5mcg), chelated zinc (25mg), NAC (600mg), and quercetin (250mg). Rather than mega-dosing a single nutrient, this formula provides meaningful amounts of each, working across antioxidant defense, mucosal barrier integrity, and immune cell signaling. Two capsules daily.",
+  "formulation_rationale": "Vitamin C (600mg) supports neutrophil function and is rapidly depleted during immune activation. D3 (62.5mcg) modulates both innate and adaptive immune responses, with receptors found on virtually every immune cell type. Zinc (25mg as Albion bisglycinate chelate) is required for T-cell maturation and NK cell activity, and the bisglycinate form ensures absorption without the GI irritation of cheaper zinc forms. NAC (600mg) replenishes glutathione, the master intracellular antioxidant, and supports mucosal defense by thinning mucus and protecting airway epithelium. Quercetin (250mg) stabilizes mast cells and supports healthy inflammatory signaling, while also acting as a zinc ionophore, helping shuttle zinc into cells where it can do its work. These five ingredients create a reinforcing loop: quercetin enhances zinc uptake, NAC recycles the antioxidant capacity that vitamin C initiates, and D3 coordinates the broader immune response.",
+  "benefit_bullets": [
+    "Supports immune cell function at multiple levels. Vitamin C (600mg) fuels neutrophils and is rapidly consumed during immune challenges, making consistent intake important during high-demand periods.",
+    "Provides highly absorbable zinc. 25mg as Albion bisglycinate chelate supports T-cell maturation and NK cell activity without the stomach upset common with other zinc forms.",
+    "Replenishes glutathione stores. NAC (600mg) is the rate-limiting precursor to glutathione, your body's primary intracellular antioxidant and a critical factor in mucosal defense.",
+    "Enhances zinc cellular uptake. Quercetin (250mg) functions as a zinc ionophore, helping transport zinc across cell membranes where it supports intracellular immune processes.",
+    "Modulates innate and adaptive immunity. D3 (62.5mcg) activates vitamin D receptors found on virtually every immune cell type, helping coordinate balanced immune responses."
+  ],
+  "who_its_for": "Anyone looking for daily immune support, particularly during seasonal challenges, travel, or periods of high stress and poor sleep. Also valuable as a foundation for people building a broader immune protocol.",
+  "how_to_take": "Take with a meal. The fat-soluble vitamin D3 absorbs better with dietary fat, and taking zinc with food reduces the chance of stomach discomfort.",
+  "safety_note": "NAC may interact with nitroglycerin and certain blood pressure medications. Zinc at this dose is safe for daily use, but long-term zinc supplementation above 40mg/day without copper can affect copper status. If you take other zinc-containing supplements, account for total daily intake.",
+  "bundle_callout": {
+    "bundle_name": "Immune Season",
+    "bundle_slug": "immune-season",
+    "message": "Part of the Immune Season bundle. Five immune compounds in one formula, paired with mushroom beta-glucans, acute-response botanicals, and additional vitamin C."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "immune-pro",
+      "name": "Immune Pro",
+      "reason": "Six-mushroom beta-glucan blend that engages the innate immune system through a completely different mechanism than Immune's nutrient-based approach."
+    },
+    {
+      "slug": "vita-c",
+      "name": "Vita-C",
+      "reason": "Additional vitamin C for periods of heightened immune demand, when the body's consumption of ascorbate increases dramatically."
+    },
+    {
+      "slug": "n-a-c",
+      "name": "NAC",
+      "reason": "Additional glutathione precursor support for people with higher oxidative stress loads or those wanting to maximize antioxidant defense."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

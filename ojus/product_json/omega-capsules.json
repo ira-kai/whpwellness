@@ -1,0 +1,47 @@
+{
+  "slug": "omega-capsules",
+  "name": "Omega Capsules",
+  "price": 62.99,
+  "serving_size": "1 Soft Gel",
+  "servings_per_container": 120,
+  "focus_keyword": "omega-3 fish oil EPA DHA triglyceride form",
+  "meta_title": "Omega Capsules | High-Potency Omega-3 (TG Form)",
+  "meta_description": "950mg total omega-3s per soft gel (EPA 430mg, DHA 390mg, DPA 50mg) in triglyceride form. The natural molecular structure for superior absorption.",
+  "category": "Essential Fatty Acids",
+  "brand": "ojus",
+  "description": "The molecular form of a fish oil matters more than most people realize. Omega Capsules use the triglyceride (TG) form of omega-3s, which mirrors the natural structure found in fish tissue. Studies consistently show that TG-form omega-3s are absorbed roughly 70% more efficiently than ethyl ester (EE) forms, which are cheaper to produce but require additional enzymatic conversion in the body. Each soft gel delivers 950mg of total omega-3s, including EPA (430mg), DHA (390mg), DPA (50mg), and additional omega-3s (130mg). One soft gel daily.",
+  "formulation_rationale": "The concentration here is meaningful: 950mg of total omega-3s in a single soft gel means you reach a clinically relevant dose without swallowing multiple capsules. EPA (430mg) is the primary omega-3 for supporting healthy inflammatory signaling, cardiovascular function, and mood. DHA (390mg) is the dominant structural fatty acid in neuronal membranes and retinal tissue, essential for brain and eye health. DPA (50mg) is an emerging omega-3 that serves as a reservoir, converting to both EPA and DHA as the body needs, and has independent effects on endothelial repair and platelet function. The inclusion of DPA alongside high EPA and DHA reflects a complete omega-3 profile rather than a stripped-down concentrate.",
+  "benefit_bullets": [
+    "Triglyceride form for superior absorption. TG-form omega-3s match the molecular structure found in whole fish and are absorbed significantly more efficiently than ethyl ester concentrates.",
+    "High EPA for inflammatory balance. 430mg EPA per soft gel supports healthy inflammatory signaling, cardiovascular function, and mood through prostaglandin and resolvin pathways.",
+    "High DHA for brain and eye health. 390mg DHA per soft gel provides the primary structural fatty acid in neuronal membranes and retinal tissue.",
+    "Includes DPA. 50mg of docosapentaenoic acid serves as a convertible reservoir for both EPA and DHA while independently supporting endothelial repair.",
+    "One soft gel, full dose. 950mg total omega-3s per capsule eliminates the need to take multiple pills to reach a clinically meaningful daily intake."
+  ],
+  "who_its_for": "Anyone seeking high-quality omega-3 support for cardiovascular health, brain function, inflammatory balance, or general wellness. Particularly relevant for people who do not consume fatty fish regularly, and for those who have been using lower-quality ethyl ester fish oils and want better absorption.",
+  "how_to_take": "Take with a meal containing fat for best absorption and to reduce any fishy aftertaste. Any meal of the day works.",
+  "safety_note": "Omega-3 fatty acids have mild blood-thinning effects at higher doses. If you are on anticoagulant or antiplatelet medications, consult your healthcare provider. People with fish or shellfish allergies should confirm the source oil is appropriate for their allergy profile.",
+  "bundle_callout": {
+    "bundle_name": "Her Daily Foundation",
+    "bundle_slug": "her-daily-foundation",
+    "message": "Part of the Her Daily Foundation bundle. EPA and DHA for brain health, mood, and inflammatory balance alongside a methylated multi, iron, and magnesium."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "nad-gold",
+      "name": "NAD Gold",
+      "reason": "NAD+ powers cellular energy metabolism, while omega-3s maintain the membrane integrity that makes efficient cellular function possible."
+    },
+    {
+      "slug": "turmeric",
+      "name": "Turmeric",
+      "reason": "Curcumin and omega-3s work through complementary inflammatory pathways (NF-kB and COX/LOX, respectively) for comprehensive inflammatory balance."
+    },
+    {
+      "slug": "optiboost-multi",
+      "name": "OptiBoost Multi",
+      "reason": "A comprehensive multivitamin provides the cofactors (B vitamins, zinc, selenium) that support omega-3 metabolism and integration into cell membranes."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

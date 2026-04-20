@@ -1,0 +1,46 @@
+{
+  "slug": "zinc",
+  "name": "Zinc",
+  "price": 20.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 60,
+  "focus_keyword": "zinc bisglycinate chelate supplement",
+  "meta_title": "Zinc 54mg | TRAACS Bisglycinate Chelate | Ojus",
+  "meta_description": "54mg elemental zinc as TRAACS Bisglycinate Chelate. Highly bioavailable and gentle on the stomach. The chelate stays intact, reducing free zinc irritation.",
+  "category": "vitamin and mineral support",
+  "brand": "ojus",
+  "description": "The most common reason people stop taking zinc is nausea. Zinc oxide, sulfate, and gluconate all have lower bioavailability and frequently cause stomach discomfort, especially at higher doses. This formula uses TRAACS Zinc Bisglycinate Chelate, where the zinc is bound to two glycine molecules through a patented chelation process. That structure protects the zinc through the stomach and upper intestine, keeping it bound rather than releasing free zinc ions into the gut lumen. The result is better absorption and less GI discomfort. Each capsule provides 54mg of elemental zinc.",
+  "formulation_rationale": "Zinc form matters significantly for both absorption and tolerability. TRAACS (The Real Amino Acid Chelate System) zinc bisglycinate is chelated through a patented process that creates a true amino acid chelate, verified by independent testing. The glycine ligands keep the zinc bound and protected through the stomach and upper intestine, reducing the free zinc ions that cause nausea and GI irritation with other forms. Zinc itself is a cofactor for over 300 enzymes and is essential for immune function, protein synthesis, wound healing, DNA synthesis, and cell division. At 54mg, this is a therapeutic dose intended for specific protocols and repletion, not indefinite daily use without monitoring.",
+  "benefit_bullets": [
+    "TRAACS Zinc Bisglycinate keeps zinc bound through the stomach, reducing free zinc ions in the gut and the GI irritation common with other zinc forms.",
+    "Zinc is required for T-cell maturation, natural killer cell activity, and cytokine signaling throughout the immune response.",
+    "A cofactor for over 300 enzymes spanning protein synthesis, DNA repair, wound healing, and cellular division.",
+    "Critical for keratinocyte function, collagen synthesis, and the inflammatory balance involved in skin, hair, and tissue repair."
+  ],
+  "who_its_for": "People with confirmed or suspected zinc insufficiency, those with increased zinc demands (athletes, post-surgical recovery, acute immune challenges), or those directed by their healthcare provider to supplement with high-dose zinc for a defined protocol.",
+  "how_to_take": "Take on an empty stomach for best absorption. If you experience nausea, take with a small amount of food instead. The bisglycinate chelate form is gentler than most, but at 54mg some people still prefer to buffer it with a meal.",
+  "safety_note": "This product provides 54mg of elemental zinc, which exceeds the established Tolerable Upper Intake Level (UL) of 40mg per day for adults. Prolonged use at this dose can deplete copper stores, potentially leading to copper deficiency anemia and neurological effects. If using beyond short-term protocols, monitor copper and ceruloplasmin levels and consider concurrent copper supplementation (typically 1-2mg copper per 15mg zinc). High-dose zinc may also interfere with iron absorption. Take on an empty stomach for best absorption, but with food if nausea occurs. Do not combine with other zinc-containing supplements without calculating total intake.",
+  "bundle_callout": {
+    "bundle_name": "His Daily Foundation",
+    "bundle_slug": "his-daily-foundation",
+    "message": "Part of the His Daily Foundation bundle. TRAACS bisglycinate chelate supports testosterone synthesis, immune function, and protein metabolism."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "vira-calm",
+      "name": "Vira-Calm",
+      "reason": "Additional zinc reinforces the immune support in Vira-Calm during acute immune challenges (watch total zinc intake)."
+    },
+    {
+      "slug": "thyroid-support",
+      "name": "Thyroid Support",
+      "reason": "Zinc supports TSH receptor function and T3 binding. Note: Thyroid Support already contains 20mg zinc, so monitor total intake."
+    },
+    {
+      "slug": "vision-pro",
+      "name": "Vision Pro",
+      "reason": "Zinc is essential for the visual cycle. Vision Pro contains 15mg, so short-term combined use supports ocular zinc demands during recovery protocols."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

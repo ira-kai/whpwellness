@@ -1,0 +1,42 @@
+{
+  "slug": "magnesium-powder",
+  "name": "Magnesium Powder",
+  "price": 35.99,
+  "serving_size": "1 Scoop (5.7 Grams)",
+  "servings_per_container": 30,
+  "focus_keyword": "magnesium bisglycinate powder Albion",
+  "meta_title": "Magnesium Powder | Albion Bisglycinate (300mg)",
+  "meta_description": "300mg magnesium as Albion bisglycinate chelate in a mixable powder. Absorbs well, no laxative effect, flexible dosing. 30 servings.",
+  "category": "Minerals",
+  "brand": "ojus",
+
+  "description": "300mg of magnesium as Albion bisglycinate chelate in a powder that mixes into water, juice, or a smoothie. The chelate structure keeps magnesium bound through the stomach, which gives it meaningfully better bioavailability and almost no laxative effect compared to cheaper forms like citrate or oxide. The powder format makes dosing flexible: use a full scoop, half a scoop, or anything in between.",
+
+  "formulation_rationale": "Magnesium form matters more than most people realize. Magnesium oxide is the most common form in drugstore supplements, but absorption estimates are as low as 4%. Magnesium citrate absorbs better, but it pulls water into the bowel, which is useful if that is the goal but not if it isn't. Bisglycinate chelate (Albion Minerals) stays intact through the stomach, reducing free magnesium released in the gut and minimizing GI disruption. More magnesium reaches your tissues with better tolerability. The powder format is worth noting because magnesium needs are not static. Someone under heavy stress, training hard, or sleeping poorly may benefit from a full scoop. Someone on a maintenance day might want half. Capsules don't give you that flexibility.",
+
+  "benefit_bullets": [
+    "Albion bisglycinate chelate. The chelate structure protects magnesium through the stomach for high bioavailability. Not the 4% absorption of oxide or the laxative effect of citrate.",
+    "Powder format for adjustable dosing. A full scoop provides 300mg; half a scoop provides 150mg. Your needs vary day to day, and this accommodates that.",
+    "Minimal GI disruption. Bisglycinate chelate does not draw water into the bowel the way citrate and oxide do.",
+    "Mixes easily. Dissolves into water, juice, or smoothies with a mild taste."
+  ],
+
+  "who_its_for": "Anyone looking to support magnesium levels with a well-absorbed form, especially people who prefer powder over capsules or who want the ability to adjust their dose. Commonly used for muscle relaxation, stress recovery, and sleep support.",
+  "how_to_take": "Mix into water, juice, or a smoothie. Can be taken any time of day. If using for sleep support, take in the evening, 30 to 60 minutes before bed.",
+
+  "safety_note": "Well tolerated at recommended doses. If you take blood pressure or heart rhythm medications, consult your healthcare provider, as magnesium may enhance their effects.",
+
+  "bundle_callout": {
+    "bundle_name": "Can't Sleep",
+    "bundle_slug": "cant-sleep",
+    "message": "Part of the Can't Sleep bundle. Albion bisglycinate powder for evening relaxation ritual, paired with low-dose melatonin, GABA + L-Theanine, and brain-targeted Mag-Threonate."
+  },
+
+  "pairs_well_with": [
+    {"slug": "melatonin", "name": "Melatonin", "reason": "Sublingual melatonin for sleep onset, magnesium for muscle and nervous system relaxation. Different mechanisms, complementary effects."},
+    {"slug": "calm", "name": "Calm", "reason": "GABA and L-Theanine for nervous system calming alongside magnesium's muscle and nerve relaxation."},
+    {"slug": "n-adrenal", "name": "N-Adrenal", "reason": "Magnesium is rapidly depleted under chronic stress. Replenishing it alongside adaptogenic adrenal support addresses both the mineral deficit and the HPA axis."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

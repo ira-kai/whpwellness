@@ -1,0 +1,42 @@
+{
+  "slug": "nad-gold",
+  "name": "NAD+ Gold",
+  "price": 68.00,
+  "serving_size": "2.5 mL (1/2 tsp)",
+  "servings_per_container": 40,
+  "focus_keyword": "liposomal NMN NAD+ support",
+  "meta_title": "NAD+ Gold | Quicksilver Scientific Liposomal NMN",
+  "meta_description": "Quicksilver Scientific's NAD+ Gold delivers NMN with TMG, quercetin, and resveratrol in liposomal form to support NAD+ levels and cellular vitality.",
+  "category": "Longevity",
+  "brand": "quicksilver",
+
+  "description": "NAD+ Gold is a liposomal formula from Quicksilver Scientific built around NMN (nicotinamide mononucleotide), the direct precursor to NAD+. It also includes trimethylglycine (TMG) to support the methylation demands that come with NAD+ metabolism, plus quercetin and resveratrol as complementary polyphenols that activate sirtuin and AMPK pathways. The formula includes active B vitamins (riboflavin-5-phosphate and methylcobalamin) as cofactors.",
+
+  "why_we_carry_it": "NAD+ is central to cellular energy production, DNA repair, and sirtuin activation. Levels decline with age, and restoring them has become one of the more actively researched areas in longevity science. Most NMN products on the market are capsules, which means the compound has to survive stomach acid and intestinal absorption before reaching the bloodstream. Quicksilver's liposomal delivery addresses that bottleneck directly. The inclusion of TMG is a thoughtful addition that many NMN products overlook. NAD+ metabolism consumes methyl groups, and without adequate TMG or other methyl donors, you can deplete your methylation reserves. This formula accounts for that.",
+
+  "benefit_bullets": [
+    "NMN as a direct NAD+ precursor. NMN converts to NAD+ in one enzymatic step, supporting cellular energy production and DNA repair.",
+    "TMG for methylation balance. NAD+ metabolism uses methyl groups. TMG replenishes them, preventing the methylation depletion that standalone NMN can cause.",
+    "Quercetin and resveratrol as sirtuin activators. These polyphenols work synergistically with NAD+ to support the sirtuin pathways involved in cellular maintenance.",
+    "Liposomal delivery. Protects NMN from gastric degradation and improves absorption compared to standard capsule formats."
+  ],
+
+  "who_its_for": "Adults interested in supporting NAD+ levels as part of a longevity or cellular vitality strategy, especially those who want a formula that accounts for the methylation side of NAD+ metabolism rather than NMN alone.",
+  "how_to_take": "Take 2.5 mL (1/2 teaspoon) by mouth. Hold in the mouth for 30 seconds before swallowing. Best taken in the morning on an empty stomach.",
+
+  "safety_note": "NMN research in humans is still emerging, with most studies using doses of 250mg or higher. This product provides 50mg per serving, which is a lower introductory amount. Consult your healthcare provider before use, especially if you take medications or have existing health conditions.",
+
+  "bundle_callout": {
+    "bundle_name": "Longevity",
+    "bundle_slug": "longevity",
+    "message": "Part of the Longevity bundle. NMN with TMG, quercetin, and resveratrol in liposomal delivery, paired with curcumin, omega-3, and mitochondrial antioxidants."
+  },
+
+  "pairs_well_with": [
+    {"slug": "omega-capsules", "name": "Omega Capsules", "reason": "Omega-3 fatty acids support cell membrane integrity alongside NAD+'s role in cellular energy and repair."},
+    {"slug": "turmeric", "name": "Turmeric", "reason": "Curcumin activates AMPK, the same energy-sensing pathway that benefits from restored NAD+ levels."},
+    {"slug": "redox-u", "name": "Redox-U", "reason": "CoQ10 and PQQ support mitochondrial function. NAD+ fuels the electron transport chain that CoQ10 is part of."}
+  ],
+
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}

@@ -98,10 +98,8 @@ This is a core differentiator. Most supplement blogs make vague claims. We cite 
 - Prefer RCTs and meta-analyses over animal studies or observational data
 - When evidence is weak, say so honestly ("preliminary research suggests," "animal studies indicate, though human data is limited")
 
-### Honesty about dosing
-If a product's dose is below what studies used, say so transparently. This builds trust and differentiates from brands that overpromise.
-
-**Example:** "NAD+ Gold contains 50mg NMN as a supportive dose. Published human trials have used 250-500mg to measurably increase NAD+ levels. We include NMN as part of a broader cellular health approach — if your primary goal is NAD+ elevation, discuss higher-dose options with your practitioner."
+### Dosing in product content
+When a product's dose matches clinical trial levels, highlight it as a selling point. When a dose is below study levels, do not mention or compare it. Focus on what the compound does and why it's in the formula. The dose was chosen intentionally by a practitioner and a formulation team. The only exception is cases where the gap is large enough that not mentioning it would be misleading (e.g., NMN at 50mg vs 250mg study doses).
 
 ---
 

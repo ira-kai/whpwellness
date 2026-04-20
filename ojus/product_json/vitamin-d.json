@@ -1,0 +1,46 @@
+{
+  "slug": "vitamin-d",
+  "name": "Vitamin D",
+  "price": 29.99,
+  "serving_size": "1 capsule",
+  "servings_per_container": 120,
+  "focus_keyword": "vitamin D3 5000 IU supplement",
+  "meta_title": "Vitamin D3 5000 IU | Cholecalciferol | Ojus",
+  "meta_description": "5,000 IU (125mcg) cholecalciferol per capsule. The same form of vitamin D your body produces from sunlight, for immune, bone, mood, and cellular support.",
+  "category": "vitamin and mineral support",
+  "brand": "ojus",
+  "description": "Vitamin D functions more like a hormone than a traditional vitamin, with receptors in virtually every tissue type. It plays critical roles in calcium metabolism, immune regulation, mood, and cellular signaling throughout the body. The problem is that most people do not get enough of it. Indoor lifestyles, higher latitudes, darker skin tones, and higher body mass all reduce the amount of vitamin D your body produces on its own. This formula provides 5,000 IU (125mcg) of cholecalciferol (D3) per capsule, the same form your body synthesizes from sunlight. One capsule daily.",
+  "formulation_rationale": "Vitamin D3 (cholecalciferol) is the preferred supplemental form because it is identical to what the body synthesizes in the skin and is more effective at raising and maintaining serum 25(OH)D levels than D2 (ergocalciferol). The 5,000 IU dose is a practical daily maintenance level for adults, particularly those with limited sun exposure, darker skin tones, or higher body mass (vitamin D is fat-soluble and distributes into adipose tissue). This is a straightforward, standalone vitamin D without unnecessary additives, allowing precise dosing and easy combination with other supplements in a personalized protocol.",
+  "benefit_bullets": [
+    "Vitamin D modulates both innate and adaptive immune responses. Immune cells express vitamin D receptors and activating enzymes, making adequate levels essential for healthy immune function.",
+    "Essential for intestinal calcium absorption and maintaining the calcium-phosphorus balance needed for bone mineralization.",
+    "Vitamin D receptors are expressed throughout the brain, and adequate levels are associated with healthy mood regulation and cognitive function.",
+    "5,000 IU is a well-studied daily dose for maintaining optimal serum 25(OH)D levels in most adults."
+  ],
+  "who_its_for": "Adults who want to maintain optimal vitamin D status, especially those with limited sun exposure, indoor lifestyles, darker skin, or higher body mass. Also relevant for anyone whose bloodwork indicates suboptimal 25(OH)D levels and who needs a straightforward, well-dosed daily supplement.",
+  "how_to_take": "Take with a meal containing fat for best absorption. Vitamin D is fat-soluble, so pairing it with dietary fat makes a measurable difference in how much you absorb.",
+  "safety_note": "Vitamin D is fat-soluble and can accumulate. Monitor serum 25(OH)D levels periodically, especially at this dose. Target range is typically 40-60 ng/mL. Individuals with hypercalcemia, hyperparathyroidism, granulomatous conditions (sarcoidosis), or kidney disease should consult their provider before supplementing. Take with a fat-containing meal for optimal absorption.",
+  "bundle_callout": {
+    "bundle_name": "Her Daily Foundation",
+    "bundle_slug": "her-daily-foundation",
+    "message": "Part of the Her Daily Foundation bundle. Vitamin D for immune modulation, bone health, and mood support as part of the daily baseline."
+  },
+  "pairs_well_with": [
+    {
+      "slug": "omega-capsules",
+      "name": "Omega Capsules",
+      "reason": "Taking vitamin D with omega-3s provides a fat source for absorption while both support immune and inflammatory balance."
+    },
+    {
+      "slug": "thyroid-support",
+      "name": "Thyroid Support",
+      "reason": "Vitamin D status is closely linked to thyroid function and healthy immune regulation of thyroid tissue."
+    },
+    {
+      "slug": "vira-calm",
+      "name": "Vira-Calm",
+      "reason": "Vitamin D is a foundational immune modulator that amplifies the multi-pathway immune support in Vira-Calm."
+    }
+  ],
+  "compliance_disclaimer": "These statements have not been evaluated by the FDA. This product is not intended to diagnose, treat, cure, or prevent any disease. Talk with your healthcare provider before starting any new supplement routine."
+}
